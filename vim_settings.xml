@@ -2,14 +2,38 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="C:/dev/py/diff/DiffApp/clients/ntfs/web/filters.py" timestamp="1512991695342" />
+      <file name="/Python Console" timestamp="1512991758724">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/mixins.py" timestamp="1512991743528">
+        <mark key="[" line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/build/lib/commonlib/filters/mixins.py" timestamp="1512991273632" />
+      <file name="C:/dev/py/diff/DiffApp/clients/ntfs/aceMask.py" timestamp="1512991729781">
+        <mark key="[" line="85" column="45" />
+        <mark key="]" line="73" column="8" />
+        <mark key="^" line="73" column="8" />
+        <mark key="." line="73" column="8" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
