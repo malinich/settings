@@ -3,18 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1513024339116">
+      <file name="/Dummy.txt" timestamp="1513024524033">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1513024807837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513024265002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513024291087" />
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513024133696" />
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513024332856" />
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513024804276">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513024866892" />
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513024500743" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludCgiSU5JVCIpCiAgICAgICAgcHJpbnQoJycnPScnJyk=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludCgiSU5JVCIpCiAgICAgICAgcHJpbnQoJycnPScnJyk=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9kYXRhKQ==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -25,6 +42,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
