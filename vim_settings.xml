@@ -3,9 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1513023573433">
+      <file name="/Python Console" timestamp="1513024339116">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.py" timestamp="1513024265002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513024291087" />
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513024133696" />
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513024332856" />
     </filemarks>
     <jumps />
     <registers />
