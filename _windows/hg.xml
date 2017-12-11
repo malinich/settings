@@ -1,0 +1,15 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="C:\Program Files\TortoiseHg\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="192.168.209.100/hg/diff" value="Niyaz" />
+        <entry key="192.168.209.108/hg/diff" value="Niyaz" />
+        <entry key="redmine.demo.oim/hg/scdProject" value="Niyaz" />
+        <entry key="redmine.e-lab.icl.kazan.ru/hg/diff" value="Niyaz" />
+        <entry key="redmine.e-lab.icl.kazan.ru/hg/difftemp" value="Niyaz" />
+        <entry key="redmine.e-lab.icl.kazan.ru/hg/django-scd" value="Niyaz" />
+      </map>
+    </option>
+  </component>
+</application>

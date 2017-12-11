@@ -1,0 +1,11 @@
+<templateSet group="Django">
+  <template name="if" value="{% if $VARIABLE$ %}&#10;$END$&#10;{% endif %} " description="{% if %} / {% endif %}" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="djangoVariable()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="djsetup" value="import os&#10;import sys&#10;os.environ[b'DJANGO_SETTINGS_MODULE'] = b'Diff.settings.dev_niyaz'&#10;sys.path.append(ur'c:\dev\py\diff')&#10;import django&#10;django.setup()" description="Django setup" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

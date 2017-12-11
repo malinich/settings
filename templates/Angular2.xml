@@ -1,0 +1,8 @@
+<templateSet group="Angular2">
+  <template name="prejson" value="&lt;pre class=&quot;pre-json&quot;&gt;{{$BINDING$|json}}&lt;/pre&gt;&lt;!-- Remove this --&gt;" description="Angular2 pre json" toReformat="false" toShortenFQNames="true">
+    <variable name="BINDING" expression="" defaultValue="&quot;binding&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

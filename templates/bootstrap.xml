@@ -1,0 +1,14 @@
+<templateSet group="bootstrap">
+  <template name="row" value="&lt;div class=&quot;row$CLASS$&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="bootstrap row" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="column" value="&lt;div class=&quot;col-12$CLASS$&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="bootstrap column" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

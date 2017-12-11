@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>models</mask>
+      <mask>models.</mask>
+      <mask>models.py</mask>
+      <mask>models.py*</mask>
+      <mask>.py*</mask>
+      <mask>.py</mask>
+      <mask>*mo.py</mask>
+      <mask>*mode.py</mask>
+      <mask>*model.py</mask>
+      <mask>*models.py</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.c</mask>
+      <mask>*</mask>
+      <mask>*c</mask>
+      <mask>*cs</mask>
+      <mask>*css</mask>
+      <mask>*scss</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.p</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>

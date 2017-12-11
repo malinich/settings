@@ -1,0 +1,20 @@
+<scheme name="Darcula Niyaz" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="modified">2017-01-26T14:20:53</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="383838" />
+    <option name="FILESTATUS_RENAMED" value="9696" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="7f00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,45 @@
+<templateSet group="Python">
+  <template name="super" value="super($class$, self).$method$($end$)" description="Generates a 'super' call" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="pyClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="method" expression="pyFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="logm" value="logger.debug('$FN$: $END$')" description="logger.debug with method_name" toReformat="true" toShortenFQNames="true">
+    <variable name="FN" expression="pyFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="logd" value="logger.debug('$END$')" description="logger.debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="logi" value="logger.info('$END$')" description="logger.info" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="logw" value="logger.warning('$END$')" description="logger.warning" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="loge" value="logger.error('$END$')" description="logger.error" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="logger.error('$FN$: $END$')" description="logger.error" toReformat="false" toShortenFQNames="true">
+    <variable name="FN" expression="pyFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="logex" value="logger.exception('$END$')" description="logger.exception" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
