@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/marshmallow/schema.py" timestamp="1513111556376" />
       <file name="/Dummy.txt" timestamp="1513027594244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513110991722">
+      <file name="/Python Console" timestamp="1513111845831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1513029844248">
+      <file name="/fragment.py" timestamp="1513111851111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513028349810">
@@ -17,7 +18,7 @@
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="25" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513030280471">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513111600119">
         <mark key="'" line="401" column="63" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/handlers.py" timestamp="1513029862980">
@@ -39,6 +40,14 @@
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513026158364">
         <mark key="'" line="142" column="26" />
       </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/marshmallow/fields.py" timestamp="1513111214633">
+        <mark key="[" line="432" column="15" />
+        <mark key="]" line="432" column="27" />
+      </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_proxy.py" timestamp="1513111040677">
+        <mark key="[" line="98" column="27" />
+        <mark key="]" line="98" column="62" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="373" column="8" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
@@ -55,13 +64,13 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text />
+        <text>self.__schema</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICBhYnN0cmFjdCA9IFRydWU=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>self.__schema</text>
       </register>
       <register name="2" type="8">
         <text>EmbeddedDocument</text>
