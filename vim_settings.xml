@@ -31,7 +31,6 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_objects.py" timestamp="1513174028348" />
       <file name="$USER_HOME$/PycharmProjects/wli_blog/app.py" timestamp="1513178196771">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="8" />
@@ -59,15 +58,15 @@
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513183275528">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513198434966">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513026158364">
         <mark key="'" line="142" column="26" />
       </file>
-      <file name="/fields.py" timestamp="1513175512526" />
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/marshmallow/fields.py" timestamp="1513111214633">
         <mark key="[" line="432" column="15" />
         <mark key="]" line="432" column="27" />
@@ -132,6 +131,9 @@
       <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBwcmludCgiSU5JVCIpCiAgICAgICAgcHJpbnQoJycnPScnJyk=</text>
       </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
     </registers>
     <search>
       <last-search>as_marshmallow_schema</last-search>
@@ -146,7 +148,10 @@
         <entry>DataProxy</entry>
         <entry>as_marshmallow_schema</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
