@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1513201526880">
+      <file name="/Dummy.txt" timestamp="1513204169981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513203277951">
+      <file name="/Python Console" timestamp="1513205059117">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="/fragment.py" timestamp="1513112568697">
+      <file name="/fragment.py" timestamp="1513205102165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513177273234">
@@ -31,6 +31,7 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/frameworks/motor_asyncio.py" timestamp="1513204142263" />
       <file name="$USER_HOME$/PycharmProjects/wli_blog/app.py" timestamp="1513178196771">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="8" />
@@ -52,19 +53,20 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513183183487">
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513205017700">
+        <mark key="[" line="69" column="57" />
+        <mark key="]" line="69" column="15" />
         <mark key="^" line="59" column="17" />
-        <mark key="." line="59" column="17" />
+        <mark key="." line="69" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/motor/core.py" timestamp="1513204334100" />
       <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513201403695">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513026158364">
         <mark key="'" line="142" column="26" />
@@ -95,10 +97,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CustomIndexes</text>
+        <text encoding="base64">aXNzdWJjbGFzcyhtb2RlbCwgRG9jdW1lbnRJbXBsZW1lbnRhdGlvbikg</text>
       </register>
       <register name="-" type="4">
-        <text>CustomIndexes</text>
+        <text encoding="base64">aXNzdWJjbGFzcyhtb2RlbCwgRG9jdW1lbnRJbXBsZW1lbnRhdGlvbikg</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
