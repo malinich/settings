@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1513027594244">
+      <file name="/Dummy.txt" timestamp="1513179464551">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1513178265156">
         <mark key="[" line="0" column="0" />
@@ -80,8 +82,8 @@
       <register name="1" type="4">
         <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZyhEb2N1bWVudCwgbWV0YWNsYXNzPU1ldGFCYXNlVGVtcGxhdGUpOgo=</text>
+      <register name="&quot;" type="4">
+        <text>master</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAjIGNsYXNzIE1ldGE6</text>
@@ -102,7 +104,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiSU5JVCIpCiAgICAgICAgcHJpbnQoJycnPScnJyk=</text>
       </register>
       <register name="-" type="4">
-        <text>if '__collection__' in attrs:</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
