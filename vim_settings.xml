@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1513180823220">
+      <file name="/Dummy.txt" timestamp="1513201526880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513180790775">
+      <file name="/Python Console" timestamp="1513201580397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -36,10 +36,13 @@
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513183232628">
-        <mark key="[" line="8" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513201559630">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/abstract.py" timestamp="1513030307706">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/abstract.py" timestamp="1513200469822">
         <mark key="'" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" timestamp="1513180302649">
@@ -58,11 +61,10 @@
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513198434966">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="9" />
-        <mark key="^" line="25" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513201403695">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513026158364">
         <mark key="'" line="142" column="26" />
@@ -92,47 +94,56 @@
       <jump line="8" column="32" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>(('code', 'name'),)</text>
       </register>
       <register name="-" type="4">
-        <text>blog</text>
+        <text>(('code', 'name'),)</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQmxvZyhEb2N1bWVudCwgbWV0YWNsYXNzPU1ldGFCYXNlVGVtcGxhdGUpOgo=</text>
+      <register name="0" type="4">
+        <text>fields.IntegerField(required=True, missing=0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgZCB0aXRsZSA9IGZpZWxkcy5TdHJpbmdGaWVsZCh2YWxpZGF0ZT12YWxpZGF0ZS5MZW5ndGgobWF4PTEyOCksIHJlcXVpcmVkPVRydWUpCiAgICB0ZXh0ID0gZmllbGRzLlN0cmluZ0ZpZWxkKHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtaW49MTI4KSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXIgPSBmaWVsZHMuVVVJREZpZWxkKHJlcXVpcmVkPVRydWUpCiAgICBjcmVhdGVkID0gZmllbGRzLkRhdGVUaW1lRmllbGQobWlzc2luZz1kYXRldGltZS5kYXRldGltZS5ub3cpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAjIGNsYXNzIE1ldGE6</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAjIF9fY29sbGVjdGlvbl9fID0gImNvbW1lbnRzIg==</text>
+        <text>class Comment(EmbeddedDocument, metaclass=MetaBaseTemplate):
+    user = fields.UUIDField(required=True)
+    text = fields.StringField(validate=validate.Length(min=3), required=True)
+    created = fields.DateTimeField(missing=datetime.datetime.now)
+
+
+class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
+    country = fields.StringField(required=True)
+    cities = fields.ListField(fields.StringField, missing=list)
+    geo = fields.ListField(fields.DictField)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQgICAgICAgIGRhdGEgPSBkYXRhWzBdIGlmIGlzaW5zdGFuY2UoZGF0YSwgbGlzdCkgZWxzZSBkYXRhCg==</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICBhYnN0cmFjdCA9IFRydWU=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgZCB0aXRsZSA9IGZpZWxkcy5TdHJpbmdGaWVsZCh2YWxpZGF0ZT12YWxpZGF0ZS5MZW5ndGgobWF4PTEyOCksIHJlcXVpcmVkPVRydWUpCiAgICB0ZXh0ID0gZmllbGRzLlN0cmluZ0ZpZWxkKHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtaW49MTI4KSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXIgPSBmaWVsZHMuVVVJREZpZWxkKHJlcXVpcmVkPVRydWUpCiAgICBjcmVhdGVkID0gZmllbGRzLkRhdGVUaW1lRmllbGQobWlzc2luZz1kYXRldGltZS5kYXRldGltZS5ub3cpCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>EmbeddedDocument</text>
+      <register name="8" type="4">
+        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludCgiSU5JVCIpCiAgICAgICAgcHJpbnQoJycnPScnJyk=</text>
+        <text encoding="base64">CiAgICAjIGNsYXNzIE1ldGE6</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -149,8 +160,8 @@
         <entry>as_marshmallow_schema</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
