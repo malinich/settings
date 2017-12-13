@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="alt f10" />
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>
