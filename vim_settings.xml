@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1513179464551">
+      <file name="/Dummy.txt" timestamp="1513180823220">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513178265156">
+      <file name="/Python Console" timestamp="1513180790775">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -40,12 +40,12 @@
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/abstract.py" timestamp="1513030307706">
         <mark key="'" line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" timestamp="1513178245673">
+      <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" timestamp="1513180302649">
         <mark key="'" line="8" column="32" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/document.py" timestamp="1513026158364">
         <mark key="'" line="142" column="26" />
@@ -83,7 +83,7 @@
         <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>master</text>
+        <text>ci</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAjIGNsYXNzIE1ldGE6</text>
@@ -104,7 +104,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiSU5JVCIpCiAgICAgICAgcHJpbnQoJycnPScnJyk=</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>ci</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
@@ -145,6 +145,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
