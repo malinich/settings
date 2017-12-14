@@ -8,6 +8,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handler.py" timestamp="1513288805177">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+      </file>
       <file name="/Python Console" timestamp="1513205318926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -17,10 +23,10 @@
       <file name="/fragment.py" timestamp="1513205102165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/app.py" timestamp="1513287556678">
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="52" column="21" />
-        <mark key="." line="58" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/app.py" timestamp="1513288693281">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513177273234">
         <mark key="[" line="96" column="25" />
@@ -79,10 +85,11 @@
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513287852347">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513288524491">
+        <mark key="'" line="10" column="28" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
         <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_proxy.py" timestamp="1513176898836">
@@ -104,10 +111,17 @@
       <jump line="29" column="22" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
       <jump line="31" column="34" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
       <jump line="8" column="32" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
+      <jump line="10" column="28" filename="$USER_HOME$/PycharmProjects/wli_image/image/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StringField</text>
+        <text>import cloudinary.uploader
+
+import settings
+
+cloudinary.config(
+    **settings.CLOUDINARY
+)</text>
       </register>
       <register name="-" type="4">
         <text>StringField</text>
@@ -118,41 +132,38 @@
       <register name="0" type="4">
         <text>UrlField</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyB7J3B1YmxpY19pZCc6ICd3bGI3dGJhMGN3eHhocWJwYnhoZycsICd2ZXJzaW9uJzogMTUxMzI4NTgzMywgJ3NpZ25hdHVyZSc6ICc5MjAyZGVkNTQ0NTQ3Njg2Yzg4ZWZkN2I2MTc1MWM3NDNjODIwODEzJywgJ3dpZHRoJzogMTkyMCwgJ2hlaWdodCc6IDEyMDAsICdmb3JtYXQnOiAnanBnJywgJ3Jlc291cmNlX3R5cGUnOiAnaW1hZ2UnLCAnY3JlYXRlZF9hdCc6ICcyMDE3LTEyLTE0VDIxOjEwOjMzWicsICd0YWdzJzogW10sICdieXRlcyc6IDYwMDQ5OSwgJ3R5cGUnOiAndXBsb2FkJywgJ2V0YWcnOiAnODkxNGVmMmVhN2VjYTc1MzI0NWYwYzc4ZmMzMTg2NjQnLCAncGxhY2Vob2xkZXInOiBGYWxzZSwgJ3VybCc6ICdodHRwOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQvdjE1MTMyODU4MzMvd2xiN3RiYTBjd3h4aHFicGJ4aGcuanBnJywgJ3NlY3VyZV91cmwnOiAnaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMy93bGI3dGJhMGN3eHhocWJwYnhoZy5qcGcnLCAnb3JpZ2luYWxfZmlsZW5hbWUnOiAnd2FsbHBhcGVyLTQ1MTUzNSd9Cg==</text>
+      <register name="1" type="4">
+        <text>import cloudinary.uploader
+
+import settings
+
+cloudinary.config(
+    **settings.CLOUDINARY
+)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>class Comment(EmbeddedDocument, metaclass=MetaBaseTemplate):
-    user = fields.UUIDField(required=True)
-    text = fields.StringField(validate=validate.Length(min=3), required=True)
-    created = fields.DateTimeField(missing=datetime.datetime.now)
-
-
-class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
-    country = fields.StringField(required=True)
-    cities = fields.ListField(fields.StringField, missing=list)
-    geo = fields.ListField(fields.DictField)</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyB7J3B1YmxpY19pZCc6ICd3bGI3dGJhMGN3eHhocWJwYnhoZycsICd2ZXJzaW9uJzogMTUxMzI4NTgzMywgJ3NpZ25hdHVyZSc6ICc5MjAyZGVkNTQ0NTQ3Njg2Yzg4ZWZkN2I2MTc1MWM3NDNjODIwODEzJywgJ3dpZHRoJzogMTkyMCwgJ2hlaWdodCc6IDEyMDAsICdmb3JtYXQnOiAnanBnJywgJ3Jlc291cmNlX3R5cGUnOiAnaW1hZ2UnLCAnY3JlYXRlZF9hdCc6ICcyMDE3LTEyLTE0VDIxOjEwOjMzWicsICd0YWdzJzogW10sICdieXRlcyc6IDYwMDQ5OSwgJ3R5cGUnOiAndXBsb2FkJywgJ2V0YWcnOiAnODkxNGVmMmVhN2VjYTc1MzI0NWYwYzc4ZmMzMTg2NjQnLCAncGxhY2Vob2xkZXInOiBGYWxzZSwgJ3VybCc6ICdodHRwOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQvdjE1MTMyODU4MzMvd2xiN3RiYTBjd3h4aHFicGJ4aGcuanBnJywgJ3NlY3VyZV91cmwnOiAnaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMy93bGI3dGJhMGN3eHhocWJwYnhoZy5qcGcnLCAnb3JpZ2luYWxfZmlsZW5hbWUnOiAnd2FsbHBhcGVyLTQ1MTUzNSd9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgZCB0aXRsZSA9IGZpZWxkcy5TdHJpbmdGaWVsZCh2YWxpZGF0ZT12YWxpZGF0ZS5MZW5ndGgobWF4PTEyOCksIHJlcXVpcmVkPVRydWUpCiAgICB0ZXh0ID0gZmllbGRzLlN0cmluZ0ZpZWxkKHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtaW49MTI4KSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXIgPSBmaWVsZHMuVVVJREZpZWxkKHJlcXVpcmVkPVRydWUpCiAgICBjcmVhdGVkID0gZmllbGRzLkRhdGVUaW1lRmllbGQobWlzc2luZz1kYXRldGltZS5kYXRldGltZS5ub3cpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
