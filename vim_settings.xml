@@ -12,21 +12,14 @@
         <mark key="]" line="18" column="52" />
       </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/dv/components/ui-select-filter/ui-select-filter.component.ts" timestamp="1513155927412" />
-      <file name="C:/dev/py/rsafe-front/src/app/clients/mssp/components/ui-select-filter/ui-select-filter.component.ts" timestamp="1513158293161">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1513251726807">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/url.py" timestamp="1513154289313">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="25" column="95" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/common/url.py" timestamp="1513154110908">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="7" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1513157167079">
         <mark key="[" line="0" column="1" />
@@ -36,12 +29,6 @@
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/utils.py" timestamp="1513077966869">
         <mark key="[" line="59" column="43" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ntfs/aceMask.py" timestamp="1513078769741">
-        <mark key="[" line="104" column="8" />
-        <mark key="]" line="104" column="25" />
-        <mark key="^" line="115" column="0" />
-        <mark key="." line="102" column="0" />
-      </file>
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513159121497" />
       <file name="C:/dev/py/rsafe-front/src/app/clients/mssp/resource/resource-report/ace-report.component.ts" timestamp="1513163069336">
         <mark key="[" line="28" column="21" />
@@ -49,6 +36,7 @@
         <mark key="." line="28" column="21" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/models/baseAce.py" timestamp="1513160332706" />
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/celery/app/base.py" timestamp="1513250473508" />
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django_filters/filterset.py" timestamp="1513161745150" />
       <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513245761272">
         <mark key="[" line="122" column="23" />
@@ -87,7 +75,7 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="92" column="53" />
       </file>
-      <file name="/Python Console" timestamp="1513245163932">
+      <file name="/Python Console" timestamp="1513251232685">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -111,7 +99,8 @@
         <mark key="]" line="70" column="4" />
         <mark key="." line="70" column="4" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/models/members.py" timestamp="1513154948169" />
+      <file name="C:/dev/py/diff/DiffApp/clients/dv/web/views/subjectViewSet.py" timestamp="1513251107602" />
+      <file name="C:/dev/py/diff/DiffApp/clients/dv/models/members.py" timestamp="1513251165681" />
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/fields.py" timestamp="1513161815270">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="161" column="33" />
@@ -133,28 +122,22 @@
         <mark key="'" line="34" column="0" />
       </file>
       <file name="/aceMask.py" timestamp="1513082588174" />
-      <file name="/dummy.sql" timestamp="1513249205696">
+      <file name="/dummy.sql" timestamp="1513251697473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/ones/rest-resource/subject.service.ts" timestamp="1513155714600" />
-      <file name="/Dummy.txt" timestamp="1513245322900">
+      <file name="/Dummy.txt" timestamp="1513250657452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/web/filters.py" timestamp="1513162357666">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/dv/serializers.py" timestamp="1513162546415">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="76" column="48" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/web/view/subjectViewSet.py" timestamp="1513154973945" />
+      <file name="C:/dev/py/diff/DiffApp/web/view/subjectViewSet.py" timestamp="1513251135713" />
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" timestamp="1513161772047">
         <mark key="'" line="358" column="25" />
       </file>
@@ -192,10 +175,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>% (REDIS_HOST, REDIS_PORT, REDIS_DB</text>
+        <text>delay</text>
       </register>
       <register name="-" type="4">
-        <text>% (REDIS_HOST, REDIS_PORT, REDIS_DB</text>
+        <text>delay</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
