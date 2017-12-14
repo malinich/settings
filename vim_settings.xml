@@ -47,7 +47,7 @@
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/models/baseAce.py" timestamp="1513160332706" />
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django_filters/filterset.py" timestamp="1513161745150" />
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513153369125" />
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513238132322" />
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/web/views/aceViewSet.py" timestamp="1513162631498">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="53" />
@@ -119,6 +119,9 @@
         <mark key="[" line="52" column="6" />
         <mark key="]" line="52" column="37" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513237430802">
+        <mark key="'" line="34" column="0" />
+      </file>
       <file name="/aceMask.py" timestamp="1513082588174" />
       <file name="/dummy.sql" timestamp="1513162498435">
         <mark key="[" line="0" column="0" />
@@ -126,7 +129,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/ones/rest-resource/subject.service.ts" timestamp="1513155714600" />
-      <file name="/Dummy.txt" timestamp="1513163138780">
+      <file name="/Dummy.txt" timestamp="1513237501820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -175,6 +178,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
       <jump line="357" column="29" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
       <jump line="358" column="25" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
+      <jump line="34" column="0" filename="C:/dev/py/diff/DiffApp/clients/ad/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -184,7 +188,7 @@
         <text>CommonColDefs.changed_by,</text>
       </register>
       <register name="/" type="4">
-        <text>изменил</text>
+        <text>parse_upn</text>
       </register>
       <register name="0" type="4">
         <text>MsspMembershipDownloadSerializer</text>
@@ -234,9 +238,9 @@ WHERE &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http:/shar
       </register>
     </registers>
     <search>
-      <last-search>изменил</last-search>
+      <last-search>parse_upn</last-search>
       <last-offset />
-      <last-pattern>изменил</last-pattern>
+      <last-pattern>parse_upn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -249,6 +253,7 @@ WHERE &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http:/shar
         <entry>BaseFilterSet</entry>
         <entry>cleaned_data</entry>
         <entry>изменил</entry>
+        <entry>parse_upn</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
