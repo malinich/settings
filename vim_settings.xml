@@ -33,9 +33,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/utils.py" timestamp="1513077966869">
-        <mark key="[" line="59" column="43" />
-      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/ntfs/aceMask.py" timestamp="1513078769741">
         <mark key="[" line="104" column="8" />
         <mark key="]" line="104" column="25" />
@@ -65,8 +62,10 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="53" column="82" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513239136719">
-        <mark key="[" line="28" column="67" />
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513240212173">
+        <mark key="[" line="28" column="69" />
+        <mark key="]" line="28" column="69" />
+        <mark key="." line="28" column="69" />
       </file>
       <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/ui-select/ui-select-filter.component.html" timestamp="1513158051548" />
       <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/base-filter.component.ts" timestamp="1513158254523">
@@ -82,13 +81,14 @@
         <mark key="[" line="91" column="0" />
         <mark key="]" line="92" column="53" />
       </file>
-      <file name="/Python Console" timestamp="1513162681593">
+      <file name="/Python Console" timestamp="1513240339732">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1513160313399">
+      <file name="/fragment.py" timestamp="1513240419790">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="34" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/build/lib/build/lib/build/lib/build/lib/build/lib/build/lib/build/lib/commonlib/filters/utils.py" timestamp="1513161611927" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1513157557546">
@@ -123,6 +123,10 @@
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/serializers.py" timestamp="1513162654652">
         <mark key="[" line="52" column="6" />
         <mark key="]" line="52" column="37" />
+      </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/dv/service.py" timestamp="1513240383059">
+        <mark key="[" line="247" column="31" />
+        <mark key="]" line="247" column="59" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513237430802">
         <mark key="'" line="34" column="0" />
@@ -187,16 +191,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CommonColDefs.changed_by,</text>
+        <text>login = _Login(</text>
       </register>
       <register name="-" type="4">
-        <text>CommonColDefs.changed_by,</text>
+        <text>login = _Login(</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
       </register>
       <register name="0" type="4">
-        <text>MsspMembershipDownloadSerializer</text>
+        <text>name[0].sAMAccountName.value)</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">c3RhdGljIGNoYW5nZWRfYnk6IEN1c3RvbUNvbERlZiA9IHsKICAgICAgICBoZWFkZXJOYW1lOiAnyOfs5e3o6ycsCiAgICAgICAgZmllbGQ6ICdjaGFuZ2VkX2J5JywKICAgICAgICB3aWR0aDogMTcwLAogICAgICAgIG1pbldpZHRoOiAxNzAsCiAgICAgICAgZmlsdGVyRnJhbWV3b3JrOiBUZXh0RmlsdGVyQ29tcG9uZW50LAogICAgICAgIGhlYWRlckNvbXBvbmVudEZyYW1ld29yazogPHtuZXcoKTogR3JpZEhlYWRlckNvbXBvbmVudH0+R3JpZEhlYWRlckNvbXBvbmVudCwKICAgIH07</text>
