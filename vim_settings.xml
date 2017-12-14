@@ -67,6 +67,7 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="53" column="82" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/core/conf/base.py" timestamp="1513248795195" />
       <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513240212173">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="28" column="69" />
@@ -120,11 +121,6 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="/Django Console" timestamp="1513162193630">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/serializers.py" timestamp="1513162654652">
         <mark key="[" line="52" column="6" />
         <mark key="]" line="52" column="37" />
@@ -137,7 +133,7 @@
         <mark key="'" line="34" column="0" />
       </file>
       <file name="/aceMask.py" timestamp="1513082588174" />
-      <file name="/dummy.sql" timestamp="1513162498435">
+      <file name="/dummy.sql" timestamp="1513249205696">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -196,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sAMAccountName</text>
+        <text>% (REDIS_HOST, REDIS_PORT, REDIS_DB</text>
       </register>
       <register name="-" type="4">
-        <text>login = _Login(</text>
+        <text>% (REDIS_HOST, REDIS_PORT, REDIS_DB</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
@@ -207,17 +203,20 @@
       <register name="0" type="4">
         <text>sAMAccountName</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c3RhdGljIGNoYW5nZWRfYnk6IEN1c3RvbUNvbERlZiA9IHsKICAgICAgICBoZWFkZXJOYW1lOiAnyOfs5e3o6ycsCiAgICAgICAgZmllbGQ6ICdjaGFuZ2VkX2J5JywKICAgICAgICB3aWR0aDogMTcwLAogICAgICAgIG1pbldpZHRoOiAxNzAsCiAgICAgICAgZmlsdGVyRnJhbWV3b3JrOiBUZXh0RmlsdGVyQ29tcG9uZW50LAogICAgICAgIGhlYWRlckNvbXBvbmVudEZyYW1ld29yazogPHtuZXcoKTogR3JpZEhlYWRlckNvbXBvbmVudH0+R3JpZEhlYWRlckNvbXBvbmVudCwKICAgIH07</text>
+      <register name="1" type="2">
+        <text encoding="base64">QHRhc2sK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmNsYXNzIERWQWNlRG93bmxvYWRTZXJpYWxpemVyKEZhY3REb3dubG9hZFNlcmlhbGl6ZXJNaXhpbiwgQWNlU2VyaWFsaXplcik6CiAgICBfX21ldGFjbGFzc19fID0gT3ZlcnJpZGluZ1NlcmlhbGl6ZXJNZXRhY2xhc3M=</text>
+        <text encoding="base64">c3RhdGljIGNoYW5nZWRfYnk6IEN1c3RvbUNvbERlZiA9IHsKICAgICAgICBoZWFkZXJOYW1lOiAnyOfs5e3o6ycsCiAgICAgICAgZmllbGQ6ICdjaGFuZ2VkX2J5JywKICAgICAgICB3aWR0aDogMTcwLAogICAgICAgIG1pbldpZHRoOiAxNzAsCiAgICAgICAgZmlsdGVyRnJhbWV3b3JrOiBUZXh0RmlsdGVyQ29tcG9uZW50LAogICAgICAgIGhlYWRlckNvbXBvbmVudEZyYW1ld29yazogPHtuZXcoKTogR3JpZEhlYWRlckNvbXBvbmVudH0+R3JpZEhlYWRlckNvbXBvbmVudCwKICAgIH07</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CmNsYXNzIERWQWNlRG93bmxvYWRTZXJpYWxpemVyKEZhY3REb3dubG9hZFNlcmlhbGl6ZXJNaXhpbiwgQWNlU2VyaWFsaXplcik6CiAgICBfX21ldGFjbGFzc19fID0gT3ZlcnJpZGluZ1NlcmlhbGl6ZXJNZXRhY2xhc3M=</text>
+      </register>
+      <register name="4" type="4">
         <text>dclass MembershipDownloadSerializer(FactDownloadSerializerMixin, MembershipSerializer):
     __metaclass__ = OverridingSerializerMetaclass</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>DELETE FROM mssp_membership;
 DELETE FROM mssp_subject;
 DELETE FROM mssp_ace;
@@ -231,21 +230,17 @@ SELECT
 FROM &quot;core_extsystemclient&quot;
 WHERE &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http:/sharepointdemo:3201';</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ImNvcmVfZXh0c3lzdGVtY2xpZW50Ii4iYmFzZV91cmwiLCAiY29yZV9leHRzeXN0ZW1jbGllbnQiLiJuYW1lIiwgImNvcmVfZXh0c3lzdGVtY2xpZW50Ii4iY2xpZW50X3R5cGUiLCAiY29yZV9leHRzeXN0ZW1jbGllbnQiLiJoaWRkZW4iIEZST00gImNvcmVfZXh0c3lzdGVtY2xpZW50IiBXSEVSRSAiY29yZV9leHRzeXN0ZW1jbGllbnQiLiJiYXNlX3VybCIgPSAnbXNzcDovL2h0dHA6L3NoYXJlcG9pbnRkZW1vOjMyMDEnOyBhcmdzPSh1J21zc3A6Ly9odHRwOi9zaGFyZXBvaW50ZGVtbzozMjAxJywpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">WzIwMTctMTItMTMgMTE6MjA6MDVdIFdvcmtlci0xOjpERUJVRzo6ZGphbmdvLmRiLmJhY2tlbmRzOjpleGVjdXRlOjo5MCAtICgwZGQuMDAxKSBTRUxFQ1QgImNvcmVfZXh0c3lzdGVtY2xpZW50Ii4iaWQiLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">U0VMRUNUCiAgIm1zc3Bfc3ViamVjdCIuImlkIiwKICAibXNzcF9zdWJqZWN0Ii4ic291cmNlX2lkIiwKICAibXNzcF9zdWJqZWN0Ii4iZGlzcGxheV9uYW1lIiwKICAibXNzcF9zdWJqZWN0Ii4ic3ViamVjdF90eXBlIiwKICAibXNzcF9zdWJqZWN0Ii4idWlkIiwKICAibXNzcF9zdWJqZWN0Ii4icGhvdG8iLAogICJtc3NwX3N1YmplY3QiLiJuYW1lIgpGUk9NICJtc3NwX3N1YmplY3QiCiAgSU5ORVIgSk9JTiAiY29yZV9leHRzeXN0ZW1jbGllbnQiIE9OICgibXNzcF9zdWJqZWN0Ii4ic291cmNlX2lkIiA9ICJjb3JlX2V4dHN5c3RlbWNsaWVudCIuImlkIikKV0hFUkUgKChVUFBFUigibXNzcF9zdWJqZWN0Ii4iZGlzcGxheV9uYW1lIiA6OiBURVhUKSBMSUtFIFVQUEVSKCclZGVtb1xcJScpIE9SCiAgICAgICAgVVBQRVIoIm1zc3Bfc3ViamVjdCIuIm5hbWUiIDo6IFRFWFQpIExJS0UgVVBQRVIoJyVkZW1vJScpKSBBTkQKICAgICAgICJjb3JlX2V4dHN5c3RlbWNsaWVudCIuImJhc2VfdXJsIiA9ICdtc3NwOi8vaHR0cDovL3NoYXJlcG9pbnRkZW1vOjMyMDE2JykKCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>AND
-       &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http://sharepointdemo:32016'</text>
       </register>
       <register name=":" type="4">
         <text>%y+</text>
