@@ -13,22 +13,24 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/handler.py" timestamp="1513286330013">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/handler.py" timestamp="1513287596489" />
       <file name="/fragment.py" timestamp="1513205102165">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/app.py" timestamp="1513287556678">
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="52" column="21" />
+        <mark key="." line="58" column="11" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513177273234">
         <mark key="[" line="96" column="25" />
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="25" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513174872394">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513287847389">
         <mark key="'" line="401" column="63" />
-        <mark key="[" line="436" column="52" />
+        <mark key="[" line="193" column="6" />
+        <mark key="]" line="193" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/handlers.py" timestamp="1513176403593">
         <mark key="[" line="15" column="8" />
@@ -57,26 +59,31 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513205208143">
+      <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513287427364">
         <mark key="[" line="68" column="57" />
         <mark key="]" line="68" column="15" />
         <mark key="^" line="58" column="17" />
         <mark key="." line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
+      <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513286817681">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/settings.py" timestamp="1513284758053">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/settings.py" timestamp="1513286829202">
+        <mark key="d" line="6" column="8" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513201403695">
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513287254392">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/marshmallow/fields.py" timestamp="1513111214633">
-        <mark key="[" line="432" column="15" />
-        <mark key="]" line="432" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513287852347">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_proxy.py" timestamp="1513176898836">
         <mark key="[" line="65" column="0" />
@@ -99,17 +106,17 @@
       <jump line="8" column="32" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyB7J3B1YmxpY19pZCc6ICd3bGI3dGJhMGN3eHhocWJwYnhoZycsICd2ZXJzaW9uJzogMTUxMzI4NTgzMywgJ3NpZ25hdHVyZSc6ICc5MjAyZGVkNTQ0NTQ3Njg2Yzg4ZWZkN2I2MTc1MWM3NDNjODIwODEzJywgJ3dpZHRoJzogMTkyMCwgJ2hlaWdodCc6IDEyMDAsICdmb3JtYXQnOiAnanBnJywgJ3Jlc291cmNlX3R5cGUnOiAnaW1hZ2UnLCAnY3JlYXRlZF9hdCc6ICcyMDE3LTEyLTE0VDIxOjEwOjMzWicsICd0YWdzJzogW10sICdieXRlcyc6IDYwMDQ5OSwgJ3R5cGUnOiAndXBsb2FkJywgJ2V0YWcnOiAnODkxNGVmMmVhN2VjYTc1MzI0NWYwYzc4ZmMzMTg2NjQnLCAncGxhY2Vob2xkZXInOiBGYWxzZSwgJ3VybCc6ICdodHRwOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQvdjE1MTMyODU4MzMvd2xiN3RiYTBjd3h4aHFicGJ4aGcuanBnJywgJ3NlY3VyZV91cmwnOiAnaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMy93bGI3dGJhMGN3eHhocWJwYnhoZy5qcGcnLCAnb3JpZ2luYWxfZmlsZW5hbWUnOiAnd2FsbHBhcGVyLTQ1MTUzNSd9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>StringField</text>
       </register>
       <register name="-" type="4">
-        <text>my_picture.j</text>
+        <text>StringField</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
       </register>
       <register name="0" type="4">
-        <text>fields.IntegerField(required=True, missing=0)</text>
+        <text>UrlField</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyB7J3B1YmxpY19pZCc6ICd3bGI3dGJhMGN3eHhocWJwYnhoZycsICd2ZXJzaW9uJzogMTUxMzI4NTgzMywgJ3NpZ25hdHVyZSc6ICc5MjAyZGVkNTQ0NTQ3Njg2Yzg4ZWZkN2I2MTc1MWM3NDNjODIwODEzJywgJ3dpZHRoJzogMTkyMCwgJ2hlaWdodCc6IDEyMDAsICdmb3JtYXQnOiAnanBnJywgJ3Jlc291cmNlX3R5cGUnOiAnaW1hZ2UnLCAnY3JlYXRlZF9hdCc6ICcyMDE3LTEyLTE0VDIxOjEwOjMzWicsICd0YWdzJzogW10sICdieXRlcyc6IDYwMDQ5OSwgJ3R5cGUnOiAndXBsb2FkJywgJ2V0YWcnOiAnODkxNGVmMmVhN2VjYTc1MzI0NWYwYzc4ZmMzMTg2NjQnLCAncGxhY2Vob2xkZXInOiBGYWxzZSwgJ3VybCc6ICdodHRwOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQvdjE1MTMyODU4MzMvd2xiN3RiYTBjd3h4aHFicGJ4aGcuanBnJywgJ3NlY3VyZV91cmwnOiAnaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMy93bGI3dGJhMGN3eHhocWJwYnhoZy5qcGcnLCAnb3JpZ2luYWxfZmlsZW5hbWUnOiAnd2FsbHBhcGVyLTQ1MTUzNSd9Cg==</text>
