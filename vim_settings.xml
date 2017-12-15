@@ -3,27 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handler.py" timestamp="1513290540060">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1513285307072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handler.py" timestamp="1513288805177">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
-      </file>
-      <file name="/Python Console" timestamp="1513205318926">
+      <file name="/Python Console" timestamp="1513366656090">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/handler.py" timestamp="1513287596489" />
       <file name="/fragment.py" timestamp="1513205102165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/app.py" timestamp="1513288693281">
+      <file name="/a.dummy" timestamp="1513290880969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/app.py" timestamp="1513290804985">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -44,6 +44,9 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/service.py" timestamp="1513367565525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/app.py" timestamp="1513205259073">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="8" />
@@ -55,16 +58,6 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/abstract.py" timestamp="1513200469822">
-        <mark key="'" line="32" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" timestamp="1513180302649">
-        <mark key="'" line="8" column="32" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="17" column="3" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513287427364">
         <mark key="[" line="68" column="57" />
         <mark key="]" line="68" column="15" />
@@ -74,7 +67,10 @@
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513286817681">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/settings.py" timestamp="1513286829202">
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513367631514">
+        <mark key="[" line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/settings.py" timestamp="1513289740796">
         <mark key="d" line="6" column="8" />
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -115,16 +111,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import cloudinary.uploader
-
-import settings
-
-cloudinary.config(
-    **settings.CLOUDINARY
-)</text>
+        <text>tornado.escape.json_decode(self.request.body)</text>
       </register>
       <register name="-" type="4">
-        <text>StringField</text>
+        <text>tornado.escape.json_decode(self.request.body)</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
