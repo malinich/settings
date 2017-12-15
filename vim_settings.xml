@@ -3,26 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mixins.py" timestamp="1513076737935">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="20" column="125" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/web/views/aceViewSet.py" timestamp="1513162520318">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="54" />
-      </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/db/models/expressions.py" timestamp="1513074171505">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="92" column="53" />
-      </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/mixins.py" timestamp="1513079063921">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="52" />
-      </file>
-      <file name="/Python Console" timestamp="1513336991007">
+      <file name="/Python Console" timestamp="1513344318132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1513241795703">
+      <file name="/fragment.py" timestamp="1513342901634">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -40,37 +24,27 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/windowsLogListener/cache.py" timestamp="1513344107169" />
       <file name="C:/dev/py/diff/DiffApp/web/templates/mail/syncTask.html" timestamp="1513332595666">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/web/filters.py" timestamp="1513157601945">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="30" column="16" />
-      </file>
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/ldap3/extend/standard/PagedSearch.py" timestamp="1513341014873" />
       <file name="C:/dev/py/rsafe-front/src/app/resource/components/colDefs.ts" timestamp="1513162945761">
         <mark key="[" line="70" column="4" />
         <mark key="]" line="70" column="4" />
         <mark key="." line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/url.py" timestamp="1513154289313">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="95" />
-      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/tasks/sync.py" timestamp="1513158834155">
         <mark key="[" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/fields.py" timestamp="1513161815270">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="161" column="33" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513336719225">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="37" column="33" />
-        <mark key="." line="38" column="20" />
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513343409263">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="37" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513160400269">
         <mark key="[" line="29" column="7" />
@@ -86,14 +60,6 @@
       <file name="/Django Console" timestamp="1513337254582">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/serializers.py" timestamp="1513162654652">
-        <mark key="[" line="52" column="6" />
-        <mark key="]" line="52" column="37" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/service.py" timestamp="1513245128570">
-        <mark key="[" line="247" column="39" />
-        <mark key="]" line="247" column="52" />
-      </file>
       <file name="C:/dev/py/rsafe-front/package.json" timestamp="1513333885965">
         <mark key="[" line="96" column="23" />
       </file>
@@ -105,7 +71,7 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513336962848">
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513343365896">
         <mark key="[" line="108" column="4" />
         <mark key="]" line="108" column="4" />
         <mark key="." line="108" column="4" />
@@ -114,7 +80,7 @@
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/utils.py" timestamp="1513077966869">
         <mark key="[" line="59" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1513336677844">
+      <file name="/dummy.sql" timestamp="1513339940554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -127,31 +93,28 @@
         <mark key="]" line="47" column="22" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/tasks/sync.py" timestamp="1513337183110">
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/tasks/sync.py" timestamp="1513344285038">
         <mark key="[" line="14" column="28" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513335658593">
+      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513342518834">
         <mark key="[" line="154" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513334810010">
+      <file name="/Dummy.txt" timestamp="1513344308303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/serializers.py" timestamp="1513162546415">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="76" column="48" />
       </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/mssp/resource/resource-report/ace-report.component.ts" timestamp="1513163069336">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513337104289">
-        <mark key="[" line="54" column="44" />
-        <mark key="]" line="54" column="44" />
-        <mark key="." line="54" column="44" />
-        <mark key="^" line="53" column="31" />
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2/six/__init__.pyi" timestamp="1513338893095" />
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513344276839">
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="49" column="53" />
+        <mark key="." line="57" column="40" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/web/views/aceViewSet.py" timestamp="1513162631498">
         <mark key="[" line="13" column="32" />
@@ -161,27 +124,15 @@
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/service.py" timestamp="1513335330363">
         <mark key="[" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django_filters/filters.py" timestamp="1513161383798">
-        <mark key="[" line="216" column="4" />
-        <mark key="]" line="216" column="32" />
-      </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/ntfs/colDefs.ts" timestamp="1513082909131">
         <mark key="[" line="155" column="21" />
         <mark key="]" line="155" column="21" />
         <mark key="." line="155" column="21" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/web/filters.py" timestamp="1513161322173">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="53" column="82" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513337209063">
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513340210069">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/base-filter.component.ts" timestamp="1513158254523">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="50" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -205,45 +156,44 @@
       <jump line="34" column="0" filename="C:/dev/py/diff/DiffApp/clients/ad/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgQEZhY3RTeW5jVGFzay5zdG9yZV9lcnJvcnMK</text>
+      <register name="&quot;" type="4">
+        <text>setdefault</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>setdefault</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
       </register>
       <register name="0" type="4">
-        <text>add_.s(1,1)]</text>
+        <text>FactSyncTask</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQEZhY3RTeW5jVGFzay5zdG9yZV9lcnJvcnMK</text>
+        <text encoding="base64">ICAgIGVycm9yID0gdHlwZSgiRXJyb3IiLCAob2JqZWN0LCksIHt9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBrd2FyZ3MuZ2V0KCdlcnJvcnMnIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzID0ge31kZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgQEZhY3RTeW5jVGFzay5zdG9yZV9lcnJvcnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgnSWdvciBNYWxpbm92JywgJycpLAogICAgKCJEIiwgImNoaW5naXouZGlhcm92QGRlbW8ub2ltIikK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBrd2FyZ3MuZ2V0KCdlcnJvcnMnIE5vbmUpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KDAuMDAxKSBTRUxFQ3JyVCAiZHZfc3ViamVjdCIuImlkIiwgImR2X3N1YmplY3QiLiJzb3VyY2VfaWQiLCAiZHZfc3ViamVjdCIuImRpc3BsYXlfbmFtZSIsICJkdl9zdWJqZWN0Ii4idWlkIiwgImR2X3N1YmplY3QiLiJwaG90byIsICJkdl9zdWJqZWN0Ii4iYWRfc3ViamVjdF9pZCIsICJkdl9zdWJqZWN0Ii4ic3ViamVjdF90eXBlIiwgImR2X3N1YmplY3QiLiJuYW1lIiBGUk9NICJkdl9zdWJqZWN0IiBXSEVSRSAiZHZfc3ViamVjdCIuImlkIiA9IDYyMTsgYXJncz0oNjIxLClpCg==</text>
+        <text encoding="base64">ICAgICgnSWdvciBNYWxpbm92JywgJycpLAogICAgKCJEIiwgImNoaW5naXouZGlhcm92QGRlbW8ub2ltIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUICogZnJvbSBtc3NwX3N1YmplY3Qgd2hlcmUgbmFtZT0nYyU0QTAlMkIudyUyNTdDcy0xLTUtMjEtMjE3MTcwNzM5My0xMjc0ODM3ODEzLTUzODU4NDQ0MS0xNjU1Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">KDAuMDAxKSBTRUxFQ3JyVCAiZHZfc3ViamVjdCIuImlkIiwgImR2X3N1YmplY3QiLiJzb3VyY2VfaWQiLCAiZHZfc3ViamVjdCIuImRpc3BsYXlfbmFtZSIsICJkdl9zdWJqZWN0Ii4idWlkIiwgImR2X3N1YmplY3QiLiJwaG90byIsICJkdl9zdWJqZWN0Ii4iYWRfc3ViamVjdF9pZCIsICJkdl9zdWJqZWN0Ii4ic3ViamVjdF90eXBlIiwgImR2X3N1YmplY3QiLiJuYW1lIiBGUk9NICJkdl9zdWJqZWN0IiBXSEVSRSAiZHZfc3ViamVjdCIuImlkIiA9IDYyMTsgYXJncz0oNjIxLClpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>r = hello.apply_async()
-print(r.get(on_message=on_raw_message, propagate=False))</text>
+      <register name="9" type="2">
+        <text encoding="base64">U0VMRUNUICogZnJvbSBtc3NwX3N1YmplY3Qgd2hlcmUgbmFtZT0nYyU0QTAlMkIudyUyNTdDcy0xLTUtMjEtMjE3MTcwNzM5My0xMjc0ODM3ODEzLTUzODU4NDQ0MS0xNjU1Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
