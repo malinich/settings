@@ -19,7 +19,7 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="18" column="52" />
       </file>
-      <file name="/Python Console" timestamp="1513333264570">
+      <file name="/Python Console" timestamp="1513334733516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513241795703">
@@ -66,11 +66,16 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="161" column="33" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513333555225" />
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513334806804">
+        <mark key="[" line="35" column="18" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513160400269">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
+      </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/subscription.py" timestamp="1513334820770">
+        <mark key="[" line="50" column="25" />
       </file>
       <file name="/Django Console" timestamp="1513322672962">
         <mark key="[" line="0" column="0" />
@@ -94,11 +99,11 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513333763828">
-        <mark key="[" line="101" column="11" />
-        <mark key="]" line="101" column="11" />
-        <mark key="." line="101" column="11" />
-        <mark key="^" line="104" column="24" />
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513334728292">
+        <mark key="[" line="108" column="4" />
+        <mark key="]" line="108" column="4" />
+        <mark key="." line="108" column="4" />
+        <mark key="^" line="106" column="19" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/utils.py" timestamp="1513077966869">
         <mark key="[" line="59" column="43" />
@@ -117,7 +122,7 @@
         <mark key="." line="47" column="22" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513332663726" />
-      <file name="/Dummy.txt" timestamp="1513333928702">
+      <file name="/Dummy.txt" timestamp="1513334810010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -188,10 +193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>erro</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>erro</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
