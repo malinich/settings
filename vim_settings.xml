@@ -3,42 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handler.py" timestamp="1513290540060">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513285307072">
+      <file name="/Dummy.txt" timestamp="1513204169981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513372695128">
+      <file name="/Python Console" timestamp="1513205318926">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="/fragment.py" timestamp="1513205102165">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1513290880969">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/app.py" timestamp="1513371986888">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513177273234">
         <mark key="[" line="96" column="25" />
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="25" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513287847389">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513174872394">
         <mark key="'" line="401" column="63" />
-        <mark key="[" line="193" column="6" />
-        <mark key="]" line="193" column="13" />
+        <mark key="[" line="436" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/handlers.py" timestamp="1513176403593">
         <mark key="[" line="15" column="8" />
@@ -46,11 +31,8 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/service.py" timestamp="1513370267556">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_users/app.py" timestamp="1513205309475" />
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/frameworks/motor_asyncio.py" timestamp="1513204142263" />
       <file name="$USER_HOME$/PycharmProjects/wli_blog/app.py" timestamp="1513205259073">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="8" />
@@ -62,40 +44,36 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513287427364">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/abstract.py" timestamp="1513200469822">
+        <mark key="'" line="32" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" timestamp="1513180302649">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_city/app.py" timestamp="1513205208143">
         <mark key="[" line="68" column="57" />
         <mark key="]" line="68" column="15" />
         <mark key="^" line="58" column="17" />
         <mark key="." line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513286817681">
+      <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513372820220">
-        <mark key="[" line="25" column="65" />
-        <mark key="]" line="25" column="65" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="25" column="65" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/settings.py" timestamp="1513289740796">
-        <mark key="d" line="6" column="8" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513287254392">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/motor/core.py" timestamp="1513204334100" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513201403695">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513370969121">
-        <mark key="'" line="10" column="28" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/marshmallow/fields.py" timestamp="1513111214633">
+        <mark key="[" line="432" column="15" />
+        <mark key="]" line="432" column="27" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_proxy.py" timestamp="1513371198050">
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_proxy.py" timestamp="1513176898836">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -114,55 +92,55 @@
       <jump line="29" column="22" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
       <jump line="31" column="34" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
       <jump line="8" column="32" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
-      <jump line="10" column="28" filename="$USER_HOME$/PycharmProjects/wli_image/image/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>attrs[</text>
+        <text encoding="base64">aXNzdWJjbGFzcyhtb2RlbCwgRG9jdW1lbnRJbXBsZW1lbnRhdGlvbikg</text>
       </register>
       <register name="-" type="4">
-        <text>attrs[</text>
+        <text encoding="base64">aXNzdWJjbGFzcyhtb2RlbCwgRG9jdW1lbnRJbXBsZW1lbnRhdGlvbikg</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0YWcnOiB1cGxvYWRlZF9maWxlWyd0YWdzJ10sCg==</text>
+      <register name="0" type="4">
+        <text>fields.IntegerField(required=True, missing=0)</text>
       </register>
-      <register name="1" type="4">
-        <text>a = cloudinary.uploader.upload(
-    &quot;/home/maka/.config/variety/Downloaded/Desktoppr/wallpaper-451535.jpg&quot;
-)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGJvZHkgPSBzZWxmLnJlcXVlc3QuZ2V0X2FyZ3VtZW50KCdkYXRhJykKICAgICAgICBib2R5</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>import cloudinary.uploader
-
-import settings
-
-cloudinary.config(
-    **settings.CLOUDINARY
-)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>class Comment(EmbeddedDocument, metaclass=MetaBaseTemplate):
+    user = fields.UUIDField(required=True)
+    text = fields.StringField(validate=validate.Length(min=3), required=True)
+    created = fields.DateTimeField(missing=datetime.datetime.now)
+
+
+class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
+    country = fields.StringField(required=True)
+    cities = fields.ListField(fields.StringField, missing=list)
+    geo = fields.ListField(fields.DictField)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgo=</text>
+        <text encoding="base64">ICAgZCB0aXRsZSA9IGZpZWxkcy5TdHJpbmdGaWVsZCh2YWxpZGF0ZT12YWxpZGF0ZS5MZW5ndGgobWF4PTEyOCksIHJlcXVpcmVkPVRydWUpCiAgICB0ZXh0ID0gZmllbGRzLlN0cmluZ0ZpZWxkKHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtaW49MTI4KSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXIgPSBmaWVsZHMuVVVJREZpZWxkKHJlcXVpcmVkPVRydWUpCiAgICBjcmVhdGVkID0gZmllbGRzLkRhdGVUaW1lRmllbGQobWlzc2luZz1kYXRldGltZS5kYXRldGltZS5ub3cpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyB7J3B1YmxpY19pZCc6ICd3bGI3dGJhMGN3eHhocWJwYnhoZycsICd2ZXJzaW9uJzogMTUxMzI4NTgzMywgJ3NpZ25hdHVyZSc6ICc5MjAyZGVkNTQ0NTQ3Njg2Yzg4ZWZkN2I2MTc1MWM3NDNjODIwODEzJywgJ3dpZHRoJzogMTkyMCwgJ2hlaWdodCc6IDEyMDAsICdmb3JtYXQnOiAnanBnJywgJ3Jlc291cmNlX3R5cGUnOiAnaW1hZ2UnLCAnY3JlYXRlZF9hdCc6ICcyMDE3LTEyLTE0VDIxOjEwOjMzWicsICd0YWdzJzogW10sICdieXRlcyc6IDYwMDQ5OSwgJ3R5cGUnOiAndXBsb2FkJywgJ2V0YWcnOiAnODkxNGVmMmVhN2VjYTc1MzI0NWYwYzc4ZmMzMTg2NjQnLCAncGxhY2Vob2xkZXInOiBGYWxzZSwgJ3VybCc6ICdodHRwOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQvdjE1MTMyODU4MzMvd2xiN3RiYTBjd3h4aHFicGJ4aGcuanBnJywgJ3NlY3VyZV91cmwnOiAnaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMy93bGI3dGJhMGN3eHhocWJwYnhoZy5qcGcnLCAnb3JpZ2luYWxfZmlsZW5hbWUnOiAnd2FsbHBhcGVyLTQ1MTUzNSd9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAjIGNsYXNzIE1ldGE6</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -209,12 +187,6 @@ cloudinary.config(
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
