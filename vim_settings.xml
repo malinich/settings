@@ -24,7 +24,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/windowsLogListener/cache.py" timestamp="1513344107169" />
+      <file name="C:/dev/py/diff/DiffApp/clients/windowsLogListener/cache.py" timestamp="1513345324856" />
       <file name="C:/dev/py/diff/DiffApp/web/templates/mail/syncTask.html" timestamp="1513332595666">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="17" column="15" />
@@ -40,11 +40,11 @@
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/tasks/sync.py" timestamp="1513158834155">
         <mark key="[" line="25" column="19" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513343409263">
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="37" column="37" />
-        <mark key="^" line="37" column="55" />
-        <mark key="." line="37" column="37" />
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513347003080">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513160400269">
         <mark key="[" line="29" column="7" />
@@ -99,7 +99,7 @@
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513342518834">
         <mark key="[" line="154" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513344308303">
+      <file name="/Dummy.txt" timestamp="1513345314045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -110,19 +110,22 @@
         <mark key="." line="28" column="21" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2/six/__init__.pyi" timestamp="1513338893095" />
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513344276839">
-        <mark key="[" line="57" column="40" />
-        <mark key="]" line="57" column="40" />
-        <mark key="^" line="49" column="53" />
-        <mark key="." line="57" column="40" />
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513346686467">
+        <mark key="'" line="41" column="36" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="39" column="43" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/web/views/aceViewSet.py" timestamp="1513162631498">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="53" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/service.py" timestamp="1513335330363">
-        <mark key="[" line="83" column="0" />
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/service.py" timestamp="1513346934273">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/ntfs/colDefs.ts" timestamp="1513082909131">
         <mark key="[" line="155" column="21" />
@@ -154,46 +157,47 @@
       <jump line="357" column="29" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
       <jump line="358" column="25" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
       <jump line="34" column="0" filename="C:/dev/py/diff/DiffApp/clients/ad/client.py" />
+      <jump line="41" column="36" filename="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setdefault</text>
+        <text encoding="base64">ICAgIGVycm9ycyA9IHt9</text>
       </register>
       <register name="-" type="4">
-        <text>setdefault</text>
+        <text encoding="base64">ICAgIGVycm9ycyA9IHt9</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
       </register>
       <register name="0" type="4">
-        <text>FactSyncTask</text>
+        <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVycm9yID0gdHlwZSgiRXJyb3IiLCAob2JqZWN0LCksIHt9KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybF9lcnJvciA9IGVycm9yLmVycm9ycy5nZXQodXJsLCBOb25lKQogICAgICAgICAgICAgICAgaWYgdXJsX2Vycm9yOgogICAgICAgICAgICAgICAgICAgIEZhY3RTeW5jVGFzay5lcnJvcnNbdXJsXSA9IHVybF9lcnJvcg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzID0ge31kZAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQEZhY3RTeW5jVGFzay5zdG9yZV9lcnJvcnMK</text>
+        <text encoding="base64">ICAgIGVycm9yID0gdHlwZSgiRXJyb3IiLCAob2JqZWN0LCksIHt9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBrd2FyZ3MuZ2V0KCdlcnJvcnMnIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzID0ge31kZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgQEZhY3RTeW5jVGFzay5zdG9yZV9lcnJvcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgnSWdvciBNYWxpbm92JywgJycpLAogICAgKCJEIiwgImNoaW5naXouZGlhcm92QGRlbW8ub2ltIikK</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcnMgPSBrd2FyZ3MuZ2V0KCdlcnJvcnMnIE5vbmUpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KDAuMDAxKSBTRUxFQ3JyVCAiZHZfc3ViamVjdCIuImlkIiwgImR2X3N1YmplY3QiLiJzb3VyY2VfaWQiLCAiZHZfc3ViamVjdCIuImRpc3BsYXlfbmFtZSIsICJkdl9zdWJqZWN0Ii4idWlkIiwgImR2X3N1YmplY3QiLiJwaG90byIsICJkdl9zdWJqZWN0Ii4iYWRfc3ViamVjdF9pZCIsICJkdl9zdWJqZWN0Ii4ic3ViamVjdF90eXBlIiwgImR2X3N1YmplY3QiLiJuYW1lIiBGUk9NICJkdl9zdWJqZWN0IiBXSEVSRSAiZHZfc3ViamVjdCIuImlkIiA9IDYyMTsgYXJncz0oNjIxLClpCg==</text>
+        <text encoding="base64">ICAgICgnSWdvciBNYWxpbm92JywgJycpLAogICAgKCJEIiwgImNoaW5naXouZGlhcm92QGRlbW8ub2ltIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICogZnJvbSBtc3NwX3N1YmplY3Qgd2hlcmUgbmFtZT0nYyU0QTAlMkIudyUyNTdDcy0xLTUtMjEtMjE3MTcwNzM5My0xMjc0ODM3ODEzLTUzODU4NDQ0MS0xNjU1Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
