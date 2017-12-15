@@ -19,9 +19,8 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="18" column="52" />
       </file>
-      <file name="/Python Console" timestamp="1513328174378">
+      <file name="/Python Console" timestamp="1513333264570">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1513241795703">
         <mark key="[" line="0" column="0" />
@@ -36,15 +35,16 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1513157557546">
-        <mark key="[" line="0" column="99" />
-        <mark key="]" line="0" column="99" />
-        <mark key="." line="0" column="99" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1513329616953">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/web/templates/mail/syncTask.html" timestamp="1513326252264">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="C:/dev/py/diff/DiffApp/web/templates/mail/syncTask.html" timestamp="1513332595666">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/dv/web/filters.py" timestamp="1513157601945">
         <mark key="[" line="23" column="4" />
@@ -66,6 +66,7 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="161" column="33" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513333555225" />
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513160400269">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="4" />
@@ -82,6 +83,9 @@
         <mark key="[" line="247" column="39" />
         <mark key="]" line="247" column="52" />
       </file>
+      <file name="C:/dev/py/rsafe-front/package.json" timestamp="1513333885965">
+        <mark key="[" line="96" column="23" />
+      </file>
       <file name="colors/_@user_Darcula.icls" timestamp="1513322369268">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,15 +94,30 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513333763828">
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="101" column="11" />
+        <mark key="." line="101" column="11" />
+        <mark key="^" line="104" column="24" />
+      </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/filters/utils.py" timestamp="1513077966869">
         <mark key="[" line="59" column="43" />
       </file>
-      <file name="/dummy.sql" timestamp="1513251697473">
+      <file name="/dummy.sql" timestamp="1513332584444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513250657452">
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/tasks/mixins.py" timestamp="1513331475866">
+        <mark key="[" line="92" column="51" />
+      </file>
+      <file name="C:/dev/py/diff/Diff/settings/dev_igor.py" timestamp="1513332100211">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+      </file>
+      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513332663726" />
+      <file name="/Dummy.txt" timestamp="1513333928702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -112,11 +131,11 @@
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513327881884">
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="90" column="51" />
-        <mark key="." line="90" column="51" />
-        <mark key="^" line="90" column="51" />
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513332838828">
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/web/views/aceViewSet.py" timestamp="1513162631498">
         <mark key="[" line="13" column="32" />
@@ -136,7 +155,7 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="53" column="82" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513327960955">
+      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513332823403">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
@@ -168,11 +187,11 @@
       <jump line="34" column="0" filename="C:/dev/py/diff/DiffApp/clients/ad/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>erro</text>
       </register>
       <register name="-" type="4">
-        <text>logger.exception(e)</text>
+        <text>erro</text>
       </register>
       <register name="/" type="4">
         <text>parse_upn</text>
@@ -181,47 +200,35 @@
         <text>add_.s(1,1)]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICgnSWdvciBNYWxpbm92JywgJycpLAogICAgKCJEIiwgImNoaW5naXouZGlhcm92QGRlbW8ub2ltIikK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">KDAuMDAxKSBTRUxFQ3JyVCAiZHZfc3ViamVjdCIuImlkIiwgImR2X3N1YmplY3QiLiJzb3VyY2VfaWQiLCAiZHZfc3ViamVjdCIuImRpc3BsYXlfbmFtZSIsICJkdl9zdWJqZWN0Ii4idWlkIiwgImR2X3N1YmplY3QiLiJwaG90byIsICJkdl9zdWJqZWN0Ii4iYWRfc3ViamVjdF9pZCIsICJkdl9zdWJqZWN0Ii4ic3ViamVjdF90eXBlIiwgImR2X3N1YmplY3QiLiJuYW1lIiBGUk9NICJkdl9zdWJqZWN0IiBXSEVSRSAiZHZfc3ViamVjdCIuImlkIiA9IDYyMTsgYXJncz0oNjIxLClpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUICogZnJvbSBtc3NwX3N1YmplY3Qgd2hlcmUgbmFtZT0nYyU0QTAlMkIudyUyNTdDcy0xLTUtMjEtMjE3MTcwNzM5My0xMjc0ODM3ODEzLTUzODU4NDQ0MS0xNjU1Jwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>r = hello.apply_async()
 print(r.get(on_message=on_raw_message, propagate=False))</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QHRhc2sK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">c3RhdGljIGNoYW5nZWRfYnk6IEN1c3RvbUNvbERlZiA9IHsKICAgICAgICBoZWFkZXJOYW1lOiAnyOfs5e3o6ycsCiAgICAgICAgZmllbGQ6ICdjaGFuZ2VkX2J5JywKICAgICAgICB3aWR0aDogMTcwLAogICAgICAgIG1pbldpZHRoOiAxNzAsCiAgICAgICAgZmlsdGVyRnJhbWV3b3JrOiBUZXh0RmlsdGVyQ29tcG9uZW50LAogICAgICAgIGhlYWRlckNvbXBvbmVudEZyYW1ld29yazogPHtuZXcoKTogR3JpZEhlYWRlckNvbXBvbmVudH0+R3JpZEhlYWRlckNvbXBvbmVudCwKICAgIH07</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmNsYXNzIERWQWNlRG93bmxvYWRTZXJpYWxpemVyKEZhY3REb3dubG9hZFNlcmlhbGl6ZXJNaXhpbiwgQWNlU2VyaWFsaXplcik6CiAgICBfX21ldGFjbGFzc19fID0gT3ZlcnJpZGluZ1NlcmlhbGl6ZXJNZXRhY2xhc3M=</text>
       </register>
-      <register name="6" type="4">
-        <text>dclass MembershipDownloadSerializer(FactDownloadSerializerMixin, MembershipSerializer):
-    __metaclass__ = OverridingSerializerMetaclass</text>
-      </register>
-      <register name="7" type="4">
-        <text>DELETE FROM mssp_membership;
-DELETE FROM mssp_subject;
-DELETE FROM mssp_ace;
-
-SELECT
-  &quot;core_extsystemclient&quot;.&quot;id&quot;,
-  &quot;core_extsystemclient&quot;.&quot;base_url&quot;,
-  &quot;core_extsystemclient&quot;.&quot;name&quot;,
-  &quot;core_extsystemclient&quot;.&quot;client_type&quot;,
-  &quot;core_extsystemclient&quot;.&quot;hidden&quot;
-FROM &quot;core_extsystemclient&quot;
-WHERE &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http:/sharepointdemo:3201';</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ImNvcmVfZXh0c3lzdGVtY2xpZW50Ii4iYmFzZV91cmwiLCAiY29yZV9leHRzeXN0ZW1jbGllbnQiLiJuYW1lIiwgImNvcmVfZXh0c3lzdGVtY2xpZW50Ii4iY2xpZW50X3R5cGUiLCAiY29yZV9leHRzeXN0ZW1jbGllbnQiLiJoaWRkZW4iIEZST00gImNvcmVfZXh0c3lzdGVtY2xpZW50IiBXSEVSRSAiY29yZV9leHRzeXN0ZW1jbGllbnQiLiJiYXNlX3VybCIgPSAnbXNzcDovL2h0dHA6L3NoYXJlcG9pbnRkZW1vOjMyMDEnOyBhcmdzPSh1J21zc3A6Ly9odHRwOi9zaGFyZXBvaW50ZGVtbzozMjAxJywpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">WzIwMTctMTItMTMgMTE6MjA6MDVdIFdvcmtlci0xOjpERUJVRzo6ZGphbmdvLmRiLmJhY2tlbmRzOjpleGVjdXRlOjo5MCAtICgwZGQuMDAxKSBTRUxFQ1QgImNvcmVfZXh0c3lzdGVtY2xpZW50Ii4iaWQiLAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>%y+</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -243,10 +250,11 @@ WHERE &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http:/shar
         <entry>parse_upn</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>%y+</entry>
         <entry>%V</entry>
         <entry>%v</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -281,6 +289,9 @@ WHERE &quot;core_extsystemclient&quot;.&quot;base_url&quot; = 'mssp://http:/shar
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
