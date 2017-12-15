@@ -66,8 +66,11 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="161" column="33" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513334806804">
-        <mark key="[" line="35" column="18" />
+      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513335533162">
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="33" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513160400269">
         <mark key="[" line="29" column="7" />
@@ -146,6 +149,9 @@
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="53" />
         <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/service.py" timestamp="1513335330363">
+        <mark key="[" line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django_filters/filters.py" timestamp="1513161383798">
         <mark key="[" line="216" column="4" />
