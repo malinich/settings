@@ -16,14 +16,15 @@
       <file name="/fragment.py" timestamp="1513205102165">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/nginx.nginx" timestamp="1513422823033">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513177273234">
         <mark key="[" line="96" column="25" />
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="25" />
-      </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513174872394">
-        <mark key="'" line="401" column="63" />
-        <mark key="[" line="436" column="52" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/handlers.py" timestamp="1513176403593">
         <mark key="[" line="15" column="8" />
@@ -31,8 +32,9 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_users/app.py" timestamp="1513205309475" />
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/frameworks/motor_asyncio.py" timestamp="1513204142263" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/nginx.conf" timestamp="1513420303598">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/app.py" timestamp="1513205259073">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="8" />
@@ -63,15 +65,13 @@
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/motor/core.py" timestamp="1513204334100" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" timestamp="1513423230116">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513201403695">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/marshmallow/fields.py" timestamp="1513111214633">
-        <mark key="[" line="432" column="15" />
-        <mark key="]" line="432" column="27" />
       </file>
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_proxy.py" timestamp="1513176898836">
         <mark key="[" line="65" column="0" />
@@ -94,11 +94,11 @@
       <jump line="8" column="32" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aXNzdWJjbGFzcyhtb2RlbCwgRG9jdW1lbnRJbXBsZW1lbnRhdGlvbikg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvKi5jb25mOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXNzdWJjbGFzcyhtb2RlbCwgRG9jdW1lbnRJbXBsZW1lbnRhdGlvbikg</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfdHlwZSBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW07</text>
       </register>
       <register name="/" type="4">
         <text>as_marshmallow_schema</text>
@@ -107,10 +107,10 @@
         <text>fields.IntegerField(required=True, missing=0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvKi5jb25mOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -118,7 +118,10 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>class Comment(EmbeddedDocument, metaclass=MetaBaseTemplate):
     user = fields.UUIDField(required=True)
     text = fields.StringField(validate=validate.Length(min=3), required=True)
@@ -130,17 +133,14 @@ class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
     cities = fields.ListField(fields.StringField, missing=list)
     geo = fields.ListField(fields.DictField)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgZCB0aXRsZSA9IGZpZWxkcy5TdHJpbmdGaWVsZCh2YWxpZGF0ZT12YWxpZGF0ZS5MZW5ndGgobWF4PTEyOCksIHJlcXVpcmVkPVRydWUpCiAgICB0ZXh0ID0gZmllbGRzLlN0cmluZ0ZpZWxkKHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtaW49MTI4KSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXIgPSBmaWVsZHMuVVVJREZpZWxkKHJlcXVpcmVkPVRydWUpCiAgICBjcmVhdGVkID0gZmllbGRzLkRhdGVUaW1lRmllbGQobWlzc2luZz1kYXRldGltZS5kYXRldGltZS5ub3cpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAjIGNsYXNzIE1ldGE6</text>
+        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -187,6 +187,9 @@ class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
