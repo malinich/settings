@@ -21,10 +21,18 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/marshmallow_bonus.py" timestamp="1513465850215" />
       <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/embedded_document.py" timestamp="1513177273234">
         <mark key="[" line="96" column="25" />
         <mark key="]" line="96" column="25" />
         <mark key="." line="96" column="25" />
+      </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" timestamp="1513465232848">
+        <mark key="'" line="360" column="20" />
+        <mark key="[" line="239" column="13" />
+        <mark key="]" line="239" column="22" />
+        <mark key="^" line="239" column="22" />
+        <mark key="." line="239" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_blog/blog/handlers.py" timestamp="1513176403593">
         <mark key="[" line="15" column="8" />
@@ -36,6 +44,7 @@
       <file name="$USER_HOME$/PycharmProjects/wli_image/nginx.conf" timestamp="1513420303598">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/data_objects.py" timestamp="1513465223490" />
       <file name="$USER_HOME$/PycharmProjects/wli_blog/app.py" timestamp="1513205259073">
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="8" />
@@ -109,19 +118,31 @@
       <jump line="79" column="79" filename="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" />
       <jump line="58" column="14" filename="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" />
+      <jump line="239" column="29" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="272" column="39" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="273" column="29" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="294" column="34" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="296" column="20" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="309" column="30" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="311" column="29" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="325" column="39" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="326" column="29" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="332" column="24" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="353" column="34" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
+      <jump line="360" column="20" filename="$USER_HOME$/Envs/trc/lib/python3.6/site-packages/umongo/fields.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>alpi</text>
+        <text>reference_</text>
       </register>
       <register name="-" type="4">
         <text>alpi</text>
       </register>
       <register name="/" type="4">
-        <text>GPG_KEYS</text>
+        <text>reference_cls</text>
       </register>
       <register name="0" type="4">
-        <text>GPG_KEYS</text>
+        <text>reference_</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RlJPTSBhbHBpbmU6My41CgpMQUJFTCBtYWludGFpbmVyPSJOR0lOWCBEb2NrZXIgTWFpbnRhaW5lcnMgPGRvY2tlci1tYWludEBuZ2lueC5jb20+IgoKRU5WIE5HSU5YX1ZFUlNJT04gMS4xMy43CgpDT1BZIG5naW54X21vZHVsZXMgL29wdC9uZ2lueApSVU4gR1BHX0tFWVM9QjBGNDI1MzM3M0Y4RjZGNTEwRDQyMTc4NTIwQTk5OTNBMUMwNTJGOCBcCgkmJiBDT05GSUc9IlwKCQkvLS1wcmVmaXg9L2V0Yy9uZ2lueCBcCgkJLS1zYmluLXBhdGg9L3Vzci9zYmluL25naW54IFwKCQktLW1vZHVsZXMtcGF0aD0vdXNyL2xpYi9uZ2lueC9tb2R1bGVzIFwKCQktLWNvbmYtcGF0aD0vZXRjL25naW54L25naW54LmNvbmYgXAoJCS0tZXJyb3ItbG9nLXBhdGg9L3Zhci9sb2cvbmdpbngvZXJyb3IubG9nIFwKCQktLWh0dHAtbG9nLXBhdGg9L3Zhci9sb2cvbmdpbngvYWNjZXNzLmxvZyBcCgkJLS1waWQtcGF0aD0vdmFyL3J1bi9uZ2lueC5waWQgXAoJCS0tbG9jay1wYXRoPS92YXIvcnVuL25naW54LmxvY2sgXAoJCS0taHR0cC1jbGllbnQtYm9keS10ZW1wLXBhdGg9L3Zhci9jYWNoZS9uZ2lueC9jbGllbnRfdGVtcCBcCgkJLS1odHRwLXByb3h5LXRlbXAtcGF0aD0vdmFyL2NhY2hlL25naW54L3Byb3h5X3RlbXAgXAoJCS0taHR0cC1mYXN0Y2dpLXRlbXAtcGF0aD0vdmFyL2NhY2hlL25naW54L2Zhc3RjZ2lfdGVtcCBcCgkJLS1odHRwLXV3c2dpLXRlbXAtcGF0aD0vdmFyL2NhY2hlL25naW54L3V3c2dpX3RlbXAgXAoJCS0taHR0cC1zY2dpLXRlbXAtcGF0aD0vdmFyL2NhY2hlL25naW54L3NjZ2lfdGVtcCBcCgkJLS11c2VyPW5naW54IFwKCQktLWdyb3VwPW5naW54IFwKCQktLXdpdGgtaHR0cF9zc2xfbW9kdWxlIFwKCQktLXdpdGgtaHR0cF9yZWFsaXBfbW9kdWxlIFwKCQktLXdpdGgtaHR0cF9hZGRpdGlvbl9tb2R1bGUgXAoJCS0td2l0aC1odHRwX3N1Yl9tb2R1bGUgXAoJCS0td2l0aC1odHRwX2Rhdl9tb2R1bGUgXAoJCS0td2l0aC1odHRwX2Zsdl9tb2R1bGUgXAoJCS0td2l0aC1odHRwX21wNF9tb2R1bGUgXAoJCS0td2l0aC1odHRwX2d1bnppcF9tb2R1bGUgXAoJCS0td2l0aC1odHRwX2d6aXBfc3RhdGljX21vZHVsZSBcCgkJLS13aXRoLWh0dHBfcmFuZG9tX2luZGV4X21vZHVsZSBcCgkJLS13aXRoLWh0dHBfc2VjdXJlX2xpbmtfbW9kdWxlIFwKCQktLXdpdGgtaHR0cF9zdHViX3N0YXR1c19tb2R1bGUgXAoJCS0td2l0aC1odHRwX2F1dGhfcmVxdWVzdF9tb2R1bGUgXAoJCS0td2l0aC1odHRwX3hzbHRfbW9kdWxlPWR5bmFtaWMgXAoJCS0td2l0aC1odHRwX2ltYWdlX2ZpbHRlcl9tb2R1bGU9ZHluYW1pYyBcCgkJLS13aXRoLWh0dHBfZ2VvaXBfbW9kdWxlPWR5bmFtaWMgXAoJCS0td2l0aC10aHJlYWRzIFwKCQktLXdpdGgtc3RyZWFtIFwKCQktLXdpdGgtc3RyZWFtX3NzbF9tb2R1bGUgXAoJCS0td2l0aC1zdHJlYW1fc3NsX3ByZXJlYWRfbW9kdWxlIFwKCQktLXdpdGgtc3RyZWFtX3JlYWxpcF9tb2R1bGUgXAoJCS0td2l0aC1zdHJlYW1fZ2VvaXBfbW9kdWxlPWR5bmFtaWMgXAoJCS0td2l0aC1odHRwX3NsaWNlX21vZHVsZSBcCgkJLS13aXRoLW1haWwgXAoJCS0td2l0aC1tYWlsX3NzbF9tb2R1bGUgXAoJCS0td2l0aC1jb21wYXQgXAoJCS0td2l0aC1maWxlLWFpbyBcCgkJLS13aXRoLWh0dHBfdjJfbW9kdWxlIFwKCSIgXAoJJiYgYWRkZ3JvdXAgLVMgbmdpbnggXAoJJiYgYWRkdXNlciAtRCAtUyAtaCAvdmFyL2NhY2hlL25naW54IC1zIC9zYmluL25vbG9naW4gLUcgbmdpbnggbmdpbnggXAoJJiYgYXBrIGFkZCAtLW5vLWNhY2hlIC0tdmlydHVhbCAuYnVpbGQtZGVwcyBcCgkJZ2NjIFwKCQlsaWJjLWRldiBcCgkJbWFrZSBnZwkJb3BlbnNzbC1kZXYgXAoJCXBjcmUtZGV2IFwKCQl6bGliLWRldiBcCgkJbGludXgtaGVhZGVycyBcCgkJY3VybCBcCgkJZ251cGcgXAoJCWxpYnhzbHQtZGV2IFwKCQlnZC1kZXYgXAoJCWdlb2lwLWRldiBcCgkmJiBjdXJsIC1mU0wgaHR0cDovL25naW54Lm9yZy9kb3dubG9hZC9uZ2lueC0kTkdJTlhfVkVSU0lPTi50YXIuZ3ogLW8gbmdpbngudGFyLmd6IFwKCSYmIGN1cmwgLWZTTCBodHRwOi8vbmdpbngub3JnL2Rvd25sb2FkL25naW54LSROR0lOWF9WRVJTSU9OLnRhci5nei5hc2MgIC1vIG5naW54LnRhci5nei5hc2MgXAoJJiYgZXhwb3J0IEdOVVBHSE9NRT0iJChta3RlbXAgLWQpIiBcCgkmJiBmb3VuZD0nJzsgXAoJZm9yIHNlcnZlciBpbiBcCgkJaGEucG9vbC5za3Mta2V5c2VydmVycy5uZXQgXAoJCWhrcDovL2tleXNlcnZlci51YnVudHUuY29tOjgwIFwKCQloa3A6Ly9wODAucG9vbC5za3Mta2V5c2VydmVycy5uZXQ6ODAgXAoJCXBncC5taXQuZWR1IFwKCTsgZG8gXAoJCWVjaG8gIkZldGNoaW5nIEdQRyBrZXkgJEdQR19LRVlTIGZyb20gJHNlcnZlciI7IFwKCQlncGcgLS1rZXlzZXJ2ZXIgIiRzZXJ2ZXIiIC0ta2V5c2VydmVyLW9wdGlvbnMgdGltZW91dD0xMCAtLXJlY3Yta2V5cyAiJEdQR19LRVlTIiAmJiBmb3VuZD15ZXMgJiYgYnJlYWs7IFwKCWRvbmU7IFwKCXRlc3QgLXogIiRmb3VuZCIgJiYgZWNobyA+JjIgImVycm9yOiBmYWlsZWQgdG8gZmV0Y2ggR1BHIGtleSAkR1BHX0tFWVMiICYmIGV4aXQgMTsgXAoJZ3BnIC0tYmF0Y2ggLS12ZXJpZnkgbmdpbngudGFyLmd6LmFzYyBuZ2lueC50YXIuZ3ogXAoJJiYgcm0gLXIgIiRHTlVQR0hPTUUiIG5naW54LnRhci5nei5hc2MgXAoJJiYgbWtkaXIgLXAgL3Vzci9zcmMgXAoJJiYgdGFyIC16eEMgL3Vzci9zcmMgLWYgbmdpbngudGFyLmd6IFwKCSYmIHJtIG5naW54LnRhci5neiBcCgkmJiBjZCAvdXNyL3NyYy9uZ2lueC0kTkdJTlhfVkVSU0lPTiBcCgkmJiAuL2NvbmZpZ3VyZSAkQ09ORklHIC0td2l0aC1kZWJ1ZyBcCgkmJiBtYWtlIC1qJChnZXRjb25mIF9OUFJPQ0VTU09SU19PTkxOKSBcCgkmJiBtdiBvYmpzL25naW54IG9ianMvbmdpbngtZGVidWcgXAoJJiYgbXYgb2Jqcy9uZ3hfaHR0cF94c2x0X2ZpbHRlcl9tb2R1bGUuc28gb2Jqcy9uZ3hfaHR0cF94c2x0X2ZpbHRlcl9tb2R1bGUtZGVidWcuc28gXAoJJiYgbXYgb2Jqcy9uZ3hfaHR0cF9pbWFnZV9maWx0ZXJfbW9kdWxlLnNvIG9ianMvbmd4X2h0dHBfaW1hZ2VfZmlsdGVyX21vZHVsZS1kZWJ1Zy5zbyBcCgkmJiBtdiBvYmpzL25neF9odHRwX2dlb2lwX21vZHVsZS5zbyBvYmpzL25neF9odHRwX2dlb2lwX21vZHVsZS1kZWJ1Zy5zbyBcCgkmJiBtdiBvYmpzL25neF9zdHJlYW1fZ2VvaXBfbW9kdWxlLnNvIG9ianMvbmd4X3N0cmVhbV9nZW9pcF9tb2R1bGUtZGVidWcuc28gXAoJJiYgLi9jb25maWd1cmUgJENPTkZJRyBcCgkmJiBtYWtlIC1qJChnZXRjb25mIF9OUFJPQ0VTU09SU19PTkxOKSBcCgkmJiBtYWtlIGluc3RhbGwgXAoJJiYgcm0gLXJmIC9ldGMvbmdpbngvaHRtbC8gXAoJJiYgbWtkaXIgL2V0Yy9uZ2lueC9jb25mLmQvIFwKCSYmIG1rZGlyIC1wIC91c3Ivc2hhcmUvbmdpbngvaHRtbC8gXAoJJiYgaW5zdGFsbCAtbTY0NCBodG1sL2luZGV4Lmh0bWwgL3Vzci9zaGFyZS9uZ2lueC9odG1sLyBcCgkmJiBpbnN0YWxsIC1tNjQ0IGh0bWwvNTB4Lmh0bWwgL3Vzci9zaGFyZS9uZ2lueC9odG1sLyBcCgkmJiBpbnN0YWxsIC1tNzU1IG9ianMvbmdpbngtZGVidWcgL3Vzci9zYmluL25naW54LWRlYnVnIFwKCSYmIGluc3RhbGwgLW03NTUgb2Jqcy9uZ3hfaHR0cF94c2x0X2ZpbHRlcl9tb2R1bGUtZGVidWcuc28gL3Vzci9saWIvbmdpbngvbW9kdWxlcy9uZ3hfaHR0cF94c2x0X2ZpbHRlcl9tb2R1bGUtZGVidWcuc28gXAoJJiYgaW5zdGFsbCAtbTc1NSBvYmpzL25neF9odHRwX2ltYWdlX2ZpbHRlcl9tb2R1bGUtZGVidWcuc28gL3Vzci9saWIvbmdpbngvbW9kdWxlcy9uZ3hfaHR0cF9pbWFnZV9maWx0ZXJfbW9kdWxlLWRlYnVnLnNvIFwKCSYmIGluc3RhbGwgLW03NTUgb2Jqcy9uZ3hfaHR0cF9nZW9pcF9tb2R1bGUtZGVidWcuc28gL3Vzci9saWIvbmdpbngvbW9kdWxlcy9uZ3hfaHR0cF9nZW9pcF9tb2R1bGUtZGVidWcuc28gXAoJJiYgaW5zdGFsbCAtbTc1NSBvYmpzL25neF9zdHJlYW1fZ2VvaXBfbW9kdWxlLWRlYnVnLnNvIC91c3IvbGliL25naW54L21vZHVsZXMvbmd4X3N0cmVhbV9nZW9pcF9tb2R1bGUtZGVidWcuc28gXAoJJiYgbG4gLXMgLi4vLi4vdXNyL2xpYi9uZ2lueC9tb2R1bGVzIC9ldGMvbmdpbngvbW9kdWxlcyBcCgkmJiBzdHJpcCAvdXNyL3NiaW4vbmdpbngqIFwKCSYmIHN0cmlwIC91c3IvbGliL25naW54L21vZHVsZXMvKi5zbyBcCgkmJiBybSAtcmYgL3Vzci9zcmMvbmdpbngtJE5HSU5YX1ZFUlNJT04gXAoJXAoJIyBCcmluZyBpbiBnZXR0ZXh0IHNvIHdlIGNhbiBnZXQgYGVudnN1YnN0YCwgdGhlbiB0aHJvdwoJIyB0aGUgcmVzdCBhd2F5LiBUbyBkbyB0aGlzLCB3ZSBuZWVkIHRvIGluc3RhbGwgYGdldHRleHRgCgkjIHRoZW4gbW92ZSBgZW52c3Vic3RgIG91dCBvZiB0aGUgd2F5IHNvIGBnZXR0ZXh0YCBjYW4KCSMgYmUgZGVsZXRlZCBjb21wbGV0ZWx5LCB0aGVuIG1vdmUgYGVudnN1YnN0YCBiYWNrLgoJJiYgYXBrIGFkZCAtLW5vLWNhY2hlIC0tdmlydHVhbCAuZ2V0dGV4dCBnZXR0ZXh0IFwKCSYmIG12IC91c3IvYmluL2VudnN1YnN0IC90bXAvIFwKCVwKCSYmIHJ1bkRlcHM9IiQoIFwKCQlzY2FuZWxmIC0tbmVlZGVkIC0tbm9iYW5uZXIgLS1mb3JtYXQgJyVuI3AnIC91c3Ivc2Jpbi9uZ2lueCAvdXNyL2xpYi9uZ2lueC9tb2R1bGVzLyouc28gL3RtcC9lbnZzdWJzdCBcCgkJCXwgdHIgJywnICdcbicgXAoJCQl8IHNvcnQgLXUgXAoJCQl8IGF3ayAnc3lzdGVtKCJbIC1lIC91c3IvbG9jYWwvbGliLyIgJDEgIiBdIikgPT0gMCB7IG5leHQgfSB7IHByaW50ICJzbzoiICQxIH0nIFwKCSkiIFwKCSYmIGFwayBhZGQgLS1uby1jYWNoZSAtLXZpcnR1YWwgLm5naW54LXJ1bmRlcHMgJHJ1bkRlcHMgXAoJJiYgYXBrIGRlbCAuYnVpbGQtZGVwcyBcCgkmJiBhcGsgZGVsIC5nZXR0ZXh0IFwKCSYmIG12IC90bXAvZW52c3Vic3QgL3Vzci9sb2NhbC9iaW4vIFwKCVwKCSMgZm9yd2FyZCByZXF1ZXN0IGFuZCBlcnJvciBsb2dzIHRvIGRvY2tlciBsb2cgY29sbGVjdG9yCgkmJiBsbiAtc2YgL2Rldi9zdGRvdXQgL3Zhci9sb2cvbmdpbngvYWNjZXNzLmxvZyBcCgkmJiBsbiAtc2YgL2Rldi9zdGRlcnIgL3Zhci9sb2cvbmdpbngvZXJyb3IubG9nCgpDT1BZIG5naW54LmNvbmYgL2V0Yy9uZ2lueC9uZ2lueC5jb25mCkNPUFkgbmdpbngudmguZGVmYXVsdC5jb25mIC9ldGMvbmdpbngvY29uZi5kL2RlZmF1bHQuY29uZgoKRVhQT1NFIDgwCgpTVE9QU0lHTkFMIFNJR1RFUk0KCkNNRCBbIm5naW54IiwgIi1nIiwgImRhZW1vbiBvZmY7Il0K</text>
@@ -155,9 +176,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GPG_KEYS</last-search>
+      <last-search>reference_cls</last-search>
       <last-offset />
-      <last-pattern>GPG_KEYS</last-pattern>
+      <last-pattern>reference_cls</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -168,6 +189,7 @@
         <entry>as_marshmallow_schema</entry>
         <entry>config</entry>
         <entry>GPG_KEYS</entry>
+        <entry>reference_cls</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
