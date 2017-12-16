@@ -65,8 +65,12 @@
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" timestamp="1513423230116">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" timestamp="1513426396691">
+        <mark key="'" line="47" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="51" column="34" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_city/city/models.py" timestamp="1513201403695">
         <mark key="[" line="15" column="18" />
@@ -92,36 +96,43 @@
       <jump line="29" column="22" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
       <jump line="31" column="34" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
       <jump line="8" column="32" filename="$USER_HOME$/PycharmProjects/wli_blog/blog/models.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/PycharmProjects/wli_image/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvKi5jb25mOwo=</text>
+        <text encoding="base64">Q01EIFsnbHMnLCAnL29wdC9uZ2lueCddCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGRlZmF1bHRfdHlwZSBhcHBsaWNhdGlvbi9vY3RldC1zdHJlYW07</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>as_marshmallow_schema</text>
+        <text>config</text>
       </register>
       <register name="0" type="4">
         <text>fields.IntegerField(required=True, missing=0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvKi5jb25mOwo=</text>
+        <text encoding="base64">Q01EIFsnbHMnLCAnL29wdC9uZ2lueCddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ClJVTiBHUEdfS0VZUz1CMEY0MjUzMzczRjhGNkY1MTBENDIxNzg1MjBBOTk5M0ExQzA1MkY4IFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvKi5jb25mOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>class Comment(EmbeddedDocument, metaclass=MetaBaseTemplate):
     user = fields.UUIDField(required=True)
     text = fields.StringField(validate=validate.Length(min=3), required=True)
@@ -133,23 +144,17 @@ class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
     cities = fields.ListField(fields.StringField, missing=list)
     geo = fields.ListField(fields.DictField)</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbW1lbnRzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuRW1iZWRkZWRGaWVsZChDb21tZW50KSwgbWlzc2luZz1saXN0KQogICAgYXJlYWwgPSBmaWVsZHMuRW1iZWRkZWRGaWVsZChBcmVhbCwgbWlzc2luZz1kaWN0KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgZCB0aXRsZSA9IGZpZWxkcy5TdHJpbmdGaWVsZCh2YWxpZGF0ZT12YWxpZGF0ZS5MZW5ndGgobWF4PTEyOCksIHJlcXVpcmVkPVRydWUpCiAgICB0ZXh0ID0gZmllbGRzLlN0cmluZ0ZpZWxkKHZhbGlkYXRlPXZhbGlkYXRlLkxlbmd0aChtaW49MTI4KSwgcmVxdWlyZWQ9VHJ1ZSkKICAgIHVzZXIgPSBmaWVsZHMuVVVJREZpZWxkKHJlcXVpcmVkPVRydWUpCiAgICBjcmVhdGVkID0gZmllbGRzLkRhdGVUaW1lRmllbGQobWlzc2luZz1kYXRldGltZS5kYXRldGltZS5ub3cpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkBXbGlCbG9nQXBwbGljYXRpb24uZGJfaW5zdGFuY2UucmVnaXN0ZXI=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>as_marshmallow_schema</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>as_marshmallow_schema</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -158,6 +163,7 @@ class Areal(EmbeddedDocument, metaclass=MetaBaseTemplate):
         <entry>EmbeddedDocumentImplementation</entry>
         <entry>DataProxy</entry>
         <entry>as_marshmallow_schema</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
