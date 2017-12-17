@@ -108,11 +108,11 @@
         <mark key="^" line="58" column="17" />
         <mark key="." line="68" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513517842578">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513518079496">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513514148944">
         <mark key="[" line="21" column="6" />
@@ -155,10 +155,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXN5bmMgZGVmIHNhdmVfaW1hZ2VfbWV0YShzZWxmLCBpbWFnZXNfcmVmcyk6CiAgICBmb3IgcmVmIGluIGltYWdlc19yZWZzOgogICAgICAgIEltYWdlRG9jdW1lbnRNZXRhRGF0YSgpCg==</text>
+        <text>uploaded_file['tags'],</text>
       </register>
       <register name="-" type="4">
-        <text>inserted_id</text>
+        <text>uploaded_file['tags'],</text>
       </register>
       <register name="/" type="4">
         <text>reference_cls</text>
