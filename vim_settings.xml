@@ -40,6 +40,11 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513628638616">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_city/settings.py" timestamp="1513183210158">
         <mark key="[" line="1" column="9" />
       </file>
@@ -160,13 +165,15 @@
       <jump line="44" column="11" filename="$USER_HOME$/PycharmProjects/worklog/apps/eventlog/handlers.py" />
       <jump line="57" column="36" filename="$USER_HOME$/PycharmProjects/worklog/apps/eventlog/handlers.py" />
       <jump line="78" column="19" filename="$USER_HOME$/PycharmProjects/worklog/apps/eventlog/handlers.py" />
+      <jump line="40" column="47" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>created_at = fields.DateTimeField()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHJlCgppbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgppbXBvcnQgdG9ybmFkbwpmcm9tIG1vdG9yLm1vdG9yX2FzeW5jaW8gaW1wb3J0IEFzeW5jSU9Nb3RvckNsaWVudApmcm9tIHRvcm5hZG8ud2ViIGltcG9ydCBBcHBsaWNhdGlvbgpmcm9tIHVtb25nbyBpbXBvcnQgTW90b3JBc3luY0lPSW5zdGFuY2UKZnJvbSB1bW9uZ28uZG9jdW1lbnQgaW1wb3J0IE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uCmZyb20gdW1vbmdvLnRlbXBsYXRlIGltcG9ydCBNZXRhVGVtcGxhdGUKCmltcG9ydCBzZXR0aW5ncwpmcm9tIHV0aWxzIGltcG9ydCBSb3V0ZXJzCgoKY2xhc3MgV2xpSW1hZ2VzQXBwbGljYXRpb24oQXBwbGljYXRpb24pOgogICAgZGIgPSBBc3luY0lPTW90b3JDbGllbnQoKS53bGkKICAgIGRiX2luc3RhbmNlID0gTW90b3JBc3luY0lPSW5zdGFuY2UoKQogICAgZGJfaW5zdGFuY2UuaW5pdChkYikKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgY2xvdWRpbmFyeS5jb25maWcoCiAgICAgICAgICAgICoqc2V0dGluZ3MuQ0xPVURJTkFSWQogICAgICAgICkKICAgICAgICBzZWxmLnJlZ2lzdGVyX21vZGVscygpCiAgICAgICAgaGFkbGVycyA9IHNlbGYucmVnaXN0ZXJfaGFuZGxlcnMoKQogICAgICAgIHN1cGVyKFdsaUltYWdlc0FwcGxpY2F0aW9uLCBzZWxmKS5fX2luaXRfXyhoYWRsZXJzKQoKICAgIGRlZiByZWdpc3Rlcl9tb2RlbHMoc2VsZik6CiAgICAgICAgZm9yIGFwcF9wYXRoIGluIHNldHRpbmdzLkFQUFM6CiAgICAgICAgICAgIF9faW1wb3J0X18oYXBwX3BhdGgsIGdsb2JhbHMoKSwgbG9jYWxzKCksIFsnbW9kZWxzJ10pCgogICAgZGVmIHJlZ2lzdGVyX2hhbmRsZXJzKHNlbGYpOgogICAgICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgICAgICBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ2hhbmRsZXJzJ10pCiAgICAgICAgcmV0dXJuIFJvdXRlcnMuZ2V0X3JvdXRlcnMoKQoKCmNsYXNzIE1ldGFCYXNlTW9kZWwodHlwZSk6CiAgICBkZWYgX19uZXdfXyhjbHMsIG5hbWUsIGJhc2VzLCBhdHRyczogZGljdCwgKiprd2FyZ3MpOgogICAgICAgIGtsYXNzID0gc3VwZXIoKS5fX25ld19fKGNscywgbmFtZSwgYmFzZXMsIGF0dHJzLCAqKmt3YXJncykKICAgICAgICBpZiAnX19jb2xsZWN0aW9uX18nIGluIGF0dHJzOgogICAgICAgICAgICBrbGFzcy5NZXRhLmNvbGxlY3Rpb24gPSBnZXRhdHRyKGNscy5kYigpLCBhdHRyc1snX19jb2xsZWN0aW9uX18nXSkKICAgICAgICBkYl9pbnN0YW5jZSA9IGNscy5kYl9pbnN0YW5jZSgpCiAgICAgICAga2xhc3MgPSBkYl9pbnN0YW5jZS5yZWdpc3RlcihrbGFzcykKICAgICAgICByZXR1cm4ga2xhc3MKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZGIoKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24uZGIKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZGJfaW5zdGFuY2UoKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24uZGJfaW5zdGFuY2UKCiAgICBAcHJvcGVydHkKICAgIGRlZiB1cGxvYWRlcihjbHMpOgogICAgICAgIHJldHVybiBXbGlJbWFnZXNBcHBsaWNhdGlvbi51cGxvYWRlcgoKCmNsYXNzIE1ldGFCYXNlVGVtcGxhdGUoTWV0YUJhc2VNb2RlbCwgTWV0YVRlbXBsYXRlKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgcGFzcwoKCmRlZiBtYWluKCk6CiAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24oKQoKCmFzeW5jIGRlZiBjcmVhdGVfaW5kZXgoKToKICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgIG1vZGVscyA9IF9faW1wb3J0X18oYXBwX3BhdGgsIGdsb2JhbHMoKSwgbG9jYWxzKCksIFsnbW9kZWxzJ10pLm1vZGVscwoKICAgICAgICBmb3IgbmFtZSBpbiAobSBmb3IgbSBpbiBkaXIobW9kZWxzKSBpZiByZS5tYXRjaChyJ1tBLVpdJywgbSkpOgogICAgICAgICAgICBtb2RlbCA9IGdldGF0dHIobW9kZWxzLCBuYW1lKQoKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShtb2RlbCwgTWV0YURvY3VtZW50SW1wbGVtZW50YXRpb24pIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgaGFzYXR0cihtb2RlbCwgJ19fY29sbGVjdGlvbl9fJyk6CiAgICAgICAgICAgICAgICBhd2FpdCBtb2RlbC5lbnN1cmVfaW5kZXhlcygpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcCA9IG1haW4oKQogICAgdG9ybmFkby5wbGF0Zm9ybS5hc3luY2lvLkFzeW5jSU9NYWluTG9vcCgpLmluc3RhbGwoKQogICAgYXBwLmxpc3RlbigzMDAxKQogICAgYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpLnJ1bl91bnRpbF9jb21wbGV0ZShjcmVhdGVfaW5kZXgoKSkKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fZm9yZXZlcigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>created_at = fields.DateTimeField()</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVwbG9hZGVyID0gVXBsb2FkZXIoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>EventLog</text>
@@ -174,7 +181,16 @@
       <register name="0" type="4">
         <text encoding="base64">IHB1YmxpY19pZCA9IGZpZWxkcy5TdHJpbmdGaWVsZChyZXF1aXJlZD1UcnVlKQogICAgZmlsZW5hbWUgPSBmaWVsZHMuU3RyaW5nRmllbGQoKQogICAgdGFncyA9IGZpZWxkcy5MaXN0RmllbGQoZmllbGRzLlN0cmluZ0ZpZWxkKQogICAgY3JlYXRlZF9hdCA9IGZpZWxkcy5EYXRlVGltZUZpZWxkKCkKICAgIHVybCA9IGZpZWxkcy5VcmxGaWVsZChyZXF1aXJlZD1UcnVlKQogICAgc2lnbmF0dXJlID0gZmllbGRzLlN0cmluZ0ZpZWxkKCkKICAgIGV0YWcgPSBmaWVsZHMuU3RyaW5nRmllbGQoKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHJlCgppbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgppbXBvcnQgdG9ybmFkbwpmcm9tIG1vdG9yLm1vdG9yX2FzeW5jaW8gaW1wb3J0IEFzeW5jSU9Nb3RvckNsaWVudApmcm9tIHRvcm5hZG8ud2ViIGltcG9ydCBBcHBsaWNhdGlvbgpmcm9tIHVtb25nbyBpbXBvcnQgTW90b3JBc3luY0lPSW5zdGFuY2UKZnJvbSB1bW9uZ28uZG9jdW1lbnQgaW1wb3J0IE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uCmZyb20gdW1vbmdvLnRlbXBsYXRlIGltcG9ydCBNZXRhVGVtcGxhdGUKCmltcG9ydCBzZXR0aW5ncwpmcm9tIHV0aWxzIGltcG9ydCBSb3V0ZXJzCgoKY2xhc3MgV2xpSW1hZ2VzQXBwbGljYXRpb24oQXBwbGljYXRpb24pOgogICAgZGIgPSBBc3luY0lPTW90b3JDbGllbnQoKS53bGkKICAgIGRiX2luc3RhbmNlID0gTW90b3JBc3luY0lPSW5zdGFuY2UoKQogICAgZGJfaW5zdGFuY2UuaW5pdChkYikKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgY2xvdWRpbmFyeS5jb25maWcoCiAgICAgICAgICAgICoqc2V0dGluZ3MuQ0xPVURJTkFSWQogICAgICAgICkKICAgICAgICBzZWxmLnJlZ2lzdGVyX21vZGVscygpCiAgICAgICAgaGFkbGVycyA9IHNlbGYucmVnaXN0ZXJfaGFuZGxlcnMoKQogICAgICAgIHN1cGVyKFdsaUltYWdlc0FwcGxpY2F0aW9uLCBzZWxmKS5fX2luaXRfXyhoYWRsZXJzKQoKICAgIGRlZiByZWdpc3Rlcl9tb2RlbHMoc2VsZik6CiAgICAgICAgZm9yIGFwcF9wYXRoIGluIHNldHRpbmdzLkFQUFM6CiAgICAgICAgICAgIF9faW1wb3J0X18oYXBwX3BhdGgsIGdsb2JhbHMoKSwgbG9jYWxzKCksIFsnbW9kZWxzJ10pCgogICAgZGVmIHJlZ2lzdGVyX2hhbmRsZXJzKHNlbGYpOgogICAgICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgICAgICBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ2hhbmRsZXJzJ10pCiAgICAgICAgcmV0dXJuIFJvdXRlcnMuZ2V0X3JvdXRlcnMoKQoKCmNsYXNzIE1ldGFCYXNlTW9kZWwodHlwZSk6CiAgICBkZWYgX19uZXdfXyhjbHMsIG5hbWUsIGJhc2VzLCBhdHRyczogZGljdCwgKiprd2FyZ3MpOgogICAgICAgIGtsYXNzID0gc3VwZXIoKS5fX25ld19fKGNscywgbmFtZSwgYmFzZXMsIGF0dHJzLCAqKmt3YXJncykKICAgICAgICBpZiAnX19jb2xsZWN0aW9uX18nIGluIGF0dHJzOgogICAgICAgICAgICBrbGFzcy5NZXRhLmNvbGxlY3Rpb24gPSBnZXRhdHRyKGNscy5kYigpLCBhdHRyc1snX19jb2xsZWN0aW9uX18nXSkKICAgICAgICBkYl9pbnN0YW5jZSA9IGNscy5kYl9pbnN0YW5jZSgpCiAgICAgICAga2xhc3MgPSBkYl9pbnN0YW5jZS5yZWdpc3RlcihrbGFzcykKICAgICAgICByZXR1cm4ga2xhc3MKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZGIoKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24uZGIKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZGJfaW5zdGFuY2UoKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24uZGJfaW5zdGFuY2UKCiAgICBAcHJvcGVydHkKICAgIGRlZiB1cGxvYWRlcihjbHMpOgogICAgICAgIHJldHVybiBXbGlJbWFnZXNBcHBsaWNhdGlvbi51cGxvYWRlcgoKCmNsYXNzIE1ldGFCYXNlVGVtcGxhdGUoTWV0YUJhc2VNb2RlbCwgTWV0YVRlbXBsYXRlKToKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgcGFzcwoKCmRlZiBtYWluKCk6CiAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24oKQoKCmFzeW5jIGRlZiBjcmVhdGVfaW5kZXgoKToKICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgIG1vZGVscyA9IF9faW1wb3J0X18oYXBwX3BhdGgsIGdsb2JhbHMoKSwgbG9jYWxzKCksIFsnbW9kZWxzJ10pLm1vZGVscwoKICAgICAgICBmb3IgbmFtZSBpbiAobSBmb3IgbSBpbiBkaXIobW9kZWxzKSBpZiByZS5tYXRjaChyJ1tBLVpdJywgbSkpOgogICAgICAgICAgICBtb2RlbCA9IGdldGF0dHIobW9kZWxzLCBuYW1lKQoKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShtb2RlbCwgTWV0YURvY3VtZW50SW1wbGVtZW50YXRpb24pIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgaGFzYXR0cihtb2RlbCwgJ19fY29sbGVjdGlvbl9fJyk6CiAgICAgICAgICAgICAgICBhd2FpdCBtb2RlbC5lbnN1cmVfaW5kZXhlcygpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcCA9IG1haW4oKQogICAgdG9ybmFkby5wbGF0Zm9ybS5hc3luY2lvLkFzeW5jSU9NYWluTG9vcCgpLmluc3RhbGwoKQogICAgYXBwLmxpc3RlbigzMDAxKQogICAgYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpLnJ1bl91bnRpbF9jb21wbGV0ZShjcmVhdGVfaW5kZXgoKSkKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fZm9yZXZlcigpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>sync def save_image_meta(self, image_ref, data):
         meta = {
             &quot;image&quot;: image_ref,
@@ -184,7 +200,7 @@
         }
         await ImageDocumentMetaData(**meta).commit()</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>class ImageDocument(Document, metaclass=MetaBaseTemplate):
 
     public_id = fields.StringField(required=True)
@@ -198,30 +214,18 @@
     class Meta:
         collection_name = &quot;images&quot;</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICB0YWdzID0gZmllbGRzLkxpc3RGaWVsZChmaWVsZHMuU3RyaW5nRmllbGQsIG1pc3Npbmc9bGlzdCk=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBpbWFnZSA9IGZpZWxkcy5SZWZlcmVuY2VGaWVsZChJbWFnZURvY3VtZW50LCByZXF1aXJlZD1UcnVlLCB1bmlxdWU9VHJ1ZSk=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzaC5sb2FkKGltYWdlc2RkLCBtYW55PVRydWUpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>if '__collection__' in attrs:
             klass.Meta.collection = getattr(cls.db(), attrs['__collection__'])</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXTQstGR0LJhX2ltYWdlcyA9IEltYWdlRG9jdW1lbnRNZXRhRGF0YS5sb2FkKGltYWdlcykK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">YXN5bmMgZGVmIHNhdmVfaW1hZ2VfbWV0YShzZWxmLCBpbWFnZXNfcmVmcyk6CiAgICBmb3IgcmVmIGluIGltYWdlc19yZWZzOgogICAgICAgIEltYWdlRG9jdW1lbnRNZXRhRGF0YSgpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>@Routers(&quot;/&quot;)
-class ImageList(tornado.web.RequestHandler):
-
-    async def get(self, *args, **kwargs):</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

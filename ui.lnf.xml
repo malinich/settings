@@ -2,8 +2,7 @@
   <component name="UISettings">
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="10" />
+    <option name="FONT_SCALE" value="1.25" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
