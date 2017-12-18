@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="vcvarsall" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="vcvarsall.bat" />
-      <option name="PARAMETERS" value="x86" />
-      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Microsoft Visual Studio 9.0/VC" />
-    </exec>
-  </tool>
-</toolSet>

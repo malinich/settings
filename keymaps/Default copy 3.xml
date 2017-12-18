@@ -1,9 +1,0 @@
-<keymap version="1" name="Default copy 3" parent="$default">
-  <action id="ShowExecutionPoint">
-    <keyboard-shortcut first-keystroke="alt f10" />
-    <keyboard-shortcut first-keystroke="alt less" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-</keymap>

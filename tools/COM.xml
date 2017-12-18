@@ -1,9 +1,0 @@
-<toolSet name="COM">
-  <tool name="makepy" description="Calls makepy utility from win32 package" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\soft\Python27\python.exe" />
-      <option name="PARAMETERS" value="C:\soft\Python27\Lib\site-packages\win32com\client\makepy.py" />
-      <option name="WORKING_DIRECTORY" value="C:/soft/Python27" />
-    </exec>
-  </tool>
-</toolSet>
