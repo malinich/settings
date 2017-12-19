@@ -3,16 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513630363078">
-        <mark key="[" line="75" column="40" />
-        <mark key="]" line="75" column="51" />
-        <mark key="." line="23" column="0" />
+      <file name="/Python Console" timestamp="1513718049679">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/route/handlers.py" timestamp="1513630554569">
-        <mark key="[" line="8" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
+        <mark key="[" line="74" column="60" />
+        <mark key="]" line="74" column="61" />
+        <mark key="." line="74" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513630426182">
-        <mark key="[" line="38" column="0" />
+      <file name="/a.dummy" timestamp="1513718181510">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/handlers.py" timestamp="1513718386041">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513718378669">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/handlers.py" timestamp="1513718219062">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -24,26 +37,33 @@
       <register name="0" type="4">
         <text>__embedded__</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHBheWxvYWQoc2VsZikgLT4gZGljdDoKICAgICAgICByZXR1cm4gdG9ybmFkby5lc2NhcGUuanNvbl9kZWNvZGUoc2VsZi5yZXF1ZXN0LmJvZHkpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucGF5bG9hZFsndXNlcidd</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
+      <register name="&quot;" type="4">
+        <text>tornado.web.RequestHandler</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>and \
+                    not hasattr(model, '__embedded__'):</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgICMgICdmb3JtYXQnOiAnanBnJywKICAgICMgICdoZWlnaHQnOiAxMjAwLAogICAgIyAgJ29yaWdpbmFsX2ZpbGVuYW1lJzogJ3dhbGxwYXBlci00NTE1MzUnLAogICAgIyAgJ3BsYWNlaG9sZGVyJzogRmFsc2UsCiAgICAjICAncHVibGljX2lkJzogJ3dsYjd0YmEwY3d4eGhxYnBieGhnJywKICAgICMgICdyZXNvdXJjZV90eXBlJzogJ3JvdXRlJywKICAgICMgICdzZWN1cmVfdXJsJzogJ2h0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQgXAogICAgIyAgL3YxNTEzMjg1ODMzL3dsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAnc2lnbmF0dXJlJzogJzkyMDJkZWQ1NDQ1NDc2ODZjODhlZmQ3YjYxNzUxYzc0M2M4MjA4MTMnLAogICAgIyAgJ3RhZ3MnOiBbXSwKICAgICMgICd0eXBlJzogJ3VwbG9hZCcsCiAgICAjICAndXJsJzogJ2h0dHA6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMwogICAgIyAvXHdsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAndmVyc2lvbic6IDE1MTMyODU4MzMsCiAgICAjICAnd2lkdGgnOiAxOTIwfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHJlCgppbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgppbXBvcnQgdG9ybmFkbwpmcm9tIG1vdG9yLm1vdG9yX2FzeW5jaW8gaW1wb3J0IEFzeW5jSU9Nb3RvckNsaWVudApmcm9tIHRvcm5hZG8ud2ViIGltcG9ydCBBcHBsaWNhdGlvbgpmcm9tIHVtb25nbyBpbXBvcnQgTW90b3JBc3luY0lPSW5zdGFuY2UKZnJvbSB1bW9uZ28uZG9jdW1lbnQgaW1wb3J0IE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uCmZyb20gdW1vbmdvLnRlbXBsYXRlIGltcG9ydCBNZXRhVGVtcGxhdGUKCmltcG9ydCBzZXR0aW5ncwpmcm9tIHNlcnZpY2UgaW1wb3J0IFVwbG9hZGVyCmZyb20gdXRpbHMgaW1wb3J0IFJvdXRlcnMKCgpjbGFzcyBXbGlJbWFnZXNBcHBsaWNhdGlvbihBcHBsaWNhdGlvbik6CiAgICBkYiA9IEFzeW5jSU9Nb3RvckNsaWVudCgpLndsaQogICAgZGJfaW5zdGFuY2UgPSBNb3RvckFzeW5jSU9JbnN0YW5jZSgpCiAgICBkYl9pbnN0YW5jZS5pbml0KGRiKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBjbG91ZGluYXJ5LmNvbmZpZygKICAgICAgICAgICAgKipzZXR0aW5ncy5DTE9VRElOQVJZCiAgICAgICAgKQogICAgICAgIHNlbGYudXBsb2FkZXIgPSBVcGxvYWRlcigpCiAgICAgICAgc2VsZi5yZWdpc3Rlcl9tb2RlbHMoKQogICAgICAgIGhhZGxlcnMgPSBzZWxmLnJlZ2lzdGVyX2hhbmRsZXJzKCkKICAgICAgICBzdXBlcihXbGlJbWFnZXNBcHBsaWNhdGlvbiwgc2VsZikuX19pbml0X18oaGFkbGVycykKCiAgICBkZWYgcmVnaXN0ZXJfbW9kZWxzKHNlbGYpOgogICAgICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgICAgICBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ21vZGVscyddKQoKICAgIGRlZiByZWdpc3Rlcl9oYW5kbGVycyhzZWxmKToKICAgICAgICBmb3IgYXBwX3BhdGggaW4gc2V0dGluZ3MuQVBQUzoKICAgICAgICAgICAgX19pbXBvcnRfXyhhcHBfcGF0aCwgZ2xvYmFscygpLCBsb2NhbHMoKSwgWydoYW5kbGVycyddKQogICAgICAgIHJldHVybiBSb3V0ZXJzLmdldF9yb3V0ZXJzKCkKCgpjbGFzcyBNZXRhQmFzZU1vZGVsKHR5cGUpOgogICAgZGVmIF9fbmV3X18oY2xzLCBuYW1lLCBiYXNlcywgYXR0cnM6IGRpY3QsICoqa3dhcmdzKToKICAgICAgICBrbGFzcyA9IHN1cGVyKCkuX19uZXdfXyhjbHMsIG5hbWUsIGJhc2VzLCBhdHRycywgKiprd2FyZ3MpCiAgICAgICAgZGJfaW5zdGFuY2UgPSBjbHMuZGJfaW5zdGFuY2UoKQogICAgICAgIGtsYXNzID0gZGJfaW5zdGFuY2UucmVnaXN0ZXIoa2xhc3MpCiAgICAgICAgcmV0dXJuIGtsYXNzCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRiKCk6CiAgICAgICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uLmRiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRiX2luc3RhbmNlKCk6CiAgICAgICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uLmRiX2luc3RhbmNlCgogICAgQHByb3BlcnR5CiAgICBkZWYgdXBsb2FkZXIoY2xzKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24udXBsb2FkZXIKCgpjbGFzcyBNZXRhQmFzZVRlbXBsYXRlKE1ldGFCYXNlTW9kZWwsIE1ldGFUZW1wbGF0ZSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIHBhc3MKCgpkZWYgbWFpbigpOgogICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uKCkKCgphc3luYyBkZWYgY3JlYXRlX2luZGV4KCk6CiAgICBmb3IgYXBwX3BhdGggaW4gc2V0dGluZ3MuQVBQUzoKICAgICAgICBtb2RlbHMgPSBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ21vZGVscyddKS5tb2RlbHMKCiAgICAgICAgZm9yIG5hbWUgaW4gKG0gZm9yIG0gaW4gZGlyKG1vZGVscykgaWYgcmUubWF0Y2gocidbQS1aXScsIG0pKToKICAgICAgICAgICAgbW9kZWwgPSBnZXRhdHRyKG1vZGVscywgbmFtZSkKCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UobW9kZWwsIE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uKSBhbmQgXAogICAgICAgICAgICAgICAgICAgIG5vdCBoYXNhdHRyKG1vZGVsLCAnX19lbWJlZGRlZF9fJyk6CiAgICAgICAgICAgICAgICBhd2FpdCBtb2RlbC5lbnN1cmVfaW5kZXhlcygpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcCA9IG1haW4oKQogICAgdG9ybmFkby5wbGF0Zm9ybS5hc3luY2lvLkFzeW5jSU9NYWluTG9vcCgpLmluc3RhbGwoKQogICAgYXBwLmxpc3RlbigzMDAxKQogICAgYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpLnJ1bl91bnRpbF9jb21wbGV0ZShjcmVhdGVfaW5kZXgoKSkKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fZm9yZXZlcigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>tornado.web.RequestHandler</text>
       </register>
     </registers>
     <search>
@@ -62,6 +82,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
