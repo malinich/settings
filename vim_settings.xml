@@ -47,12 +47,17 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="C:/dev/py/rsafe-front/src/app/clients/dv/components/subject-detail/subject-detail.component.ts" timestamp="1513681086963">
+        <mark key="[" line="144" column="47" />
+        <mark key="]" line="144" column="47" />
+        <mark key="." line="144" column="47" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513340210069">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513676334812">
+      <file name="/Python Console" timestamp="1513680756262">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -86,7 +91,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513676584186">
+      <file name="/Dummy.txt" timestamp="1513681096259">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -123,10 +128,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u&quot;'[]:*?/\\' in sheetname '\u0420\u043e\u043b\u0438/\u0433\u0440\u0443\u043f\u043f\u044b'&quot;</text>
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>u&quot;'[]:*?/\\' in sheetname '\u0420\u043e\u043b\u0438/\u0433\u0440\u0443\u043f\u043f\u044b'&quot;</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>six</text>
