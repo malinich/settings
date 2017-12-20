@@ -44,12 +44,12 @@
       <file name="/dummy.sql" timestamp="1513777876750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513779668336">
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513781418850">
         <mark key="'" line="205" column="105" />
-        <mark key="[" line="233" column="38" />
-        <mark key="]" line="233" column="34" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
         <mark key="^" line="233" column="34" />
-        <mark key="." line="233" column="34" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="C:/dev/py/diff/Diff/settings/dev_igor.py" timestamp="1513770742156">
         <mark key="[" line="362" column="26" />
@@ -74,11 +74,11 @@
       <jump line="198" column="105" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByYWlzZSBSZXRyeUVycm9yKCJFUlJSIik=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>yield None, None</text>
+        <text>logger.error(e)</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
@@ -86,34 +86,33 @@
       <register name="0" type="2">
         <text encoding="base64">REVMRVRFIEZST00gbXNzcF9tZW1iZXJzaGlwOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByYWlzZSBSZXRyeUVycm9yKCJFUlJSIik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJlcywgYXJncwogICAgICAgICAgICBleGNlcHQgUmV0cnlFcnJvciBhcyBlOgogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUpCiAgICAgICAgICAgICAgICB5aWVsZCBOb25lLCBOb25l</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVzcG9uc2UgaXMgTm9uZToKICAgICAgICAgICAgICAgIGNvbnRpbnVl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVxdWVzdCBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text>if request is None:
-                continue</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByYWlzZSBSZXRyeUVycm9yKCJFUlJSIik=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJlcywgYXJncwogICAgICAgICAgICBleGNlcHQgUmV0cnlFcnJvciBhcyBlOgogICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGUpCiAgICAgICAgICAgICAgICB5aWVsZCBOb25lLCBOb25l</text>
       </register>
-      <register name="7" type="4">
-        <text>if request is None:
-                continue</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcmVxdWVzdCBpcyBOb25lOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlxuXG5cbkNoaW5naXogSEVMTE9cbiIpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCIjIyMjc3Vic2l0ZXMgZm9yIGhvc3Q6ICVzIGZvciBwYXRoOiAlcyAjIyMiICUgKGhvc3QsIHBhdGgpKQogICAgICAgICAgICBsb2dnZXIuaW5mbyhsaXN0KHNlbGYuX2dldF9zdWJzaXRlX3Blcm1pc3Npb25zKCkpKQogICAgICAgICAgICBsb2dnZXIuaW5mbygiIyMjIyBmaW5pc2ggbG9nICMjIyMiKQ==</text>
+        <text>if request is None:
+                continue</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
