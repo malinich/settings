@@ -3,285 +3,65 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/py/diff/DiffApp/clients/windowsLogListener/cache.py" timestamp="1513345324856" />
-      <file name="C:/dev/py/diff/DiffApp/web/templates/mail/syncTask.html" timestamp="1513332595666">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513630363078">
+        <mark key="[" line="75" column="40" />
+        <mark key="]" line="75" column="51" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/ldap3/extend/standard/PagedSearch.py" timestamp="1513341014873" />
-      <file name="C:/dev/py/rsafe-front/src/app/clients/dv/colDefs.ts" timestamp="1513755478549">
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="25" />
-        <mark key="." line="50" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/handlers.py" timestamp="1513630554569">
+        <mark key="[" line="8" column="10" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513591598548">
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="102" column="3" />
-        <mark key="." line="35" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513630426182">
+        <mark key="[" line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1513589511674" />
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/subscription.py" timestamp="1513591669710">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="41" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/xlsxReportTask.py" timestamp="1513676235280" />
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513763724241">
-        <mark key="'" line="233" column="21" />
-        <mark key="[" line="172" column="11" />
-        <mark key="]" line="221" column="20" />
-        <mark key="^" line="221" column="20" />
-        <mark key="." line="221" column="20" />
-      </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/tasks/mixins.py" timestamp="1513349575284">
-        <mark key="[" line="108" column="0" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513342518834">
-        <mark key="[" line="154" column="58" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/utils.py" timestamp="1513591809992">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="32" column="78" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/text/text-filter.component.ts" timestamp="1513756191751">
-        <mark key="[" line="23" column="77" />
-        <mark key="]" line="23" column="77" />
-        <mark key="." line="23" column="77" />
-        <mark key="^" line="23" column="41" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/ui-select/ui-select-filter.component.ts" timestamp="1513755694149">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="106" column="4" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513591477430">
-        <mark key="'" line="40" column="8" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="33" column="43" />
-      </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/service.py" timestamp="1513347034163">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/src/app/clients/dv/components/subject-detail/subject-detail.component.ts" timestamp="1513681086963">
-        <mark key="[" line="144" column="47" />
-        <mark key="]" line="144" column="47" />
-        <mark key="." line="144" column="47" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/subject.py" timestamp="1513340210069">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1513755231591">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="/fragment.py" timestamp="1513585139476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/web/view/factViewSet.py" timestamp="1513676001702" />
-      <file name="C:/dev/py/rsafe-front/src/app/clients/dv/components/grid/filters/text/uid-text-filter.component.ts" timestamp="1513755509977">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="16" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1513760192571">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/node_modules/nz-common/package.json" timestamp="1513761945562" />
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/models/members.py" timestamp="1513677597133">
-        <mark key="[" line="46" column="30" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/package.json" timestamp="1513333885965">
-        <mark key="[" line="96" column="23" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/client.py" timestamp="1513343365896">
-        <mark key="[" line="107" column="4" />
-        <mark key="]" line="107" column="4" />
-        <mark key="." line="107" column="4" />
-        <mark key="^" line="105" column="19" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ad/tasks/sync.py" timestamp="1513674913811">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="21" column="49" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513763634146">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/serializers.py" timestamp="1513675302211">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="76" column="48" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2/six/__init__.pyi" timestamp="1513338893095" />
     </filemarks>
     <jumps>
-      <jump line="78" column="65" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="508" column="27" filename="C:/dev/py/diff/DiffApp/clients/mssql/client/client.py" />
-      <jump line="484" column="23" filename="C:/dev/py/diff/DiffApp/clients/mssql/client/client.py" />
-      <jump line="640" column="23" filename="C:/dev/py/diff/DiffApp/clients/mssql/client/client.py" />
-      <jump line="6" column="40" filename="C:/dev/py/diff/DiffApp/clients/mssql/client/client.py" />
-      <jump line="141" column="1084" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="35" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="120" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="41" column="0" filename="C:/dev/py/diff/DiffApp/clients/mssp/service.py" />
-      <jump line="32" column="54" filename="C:/dev/py/diff/DiffApp/clients/mssp/service.py" />
-      <jump line="45" column="8" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
-      <jump line="169" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
-      <jump line="357" column="29" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
-      <jump line="358" column="25" filename="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/forms/forms.py" />
-      <jump line="34" column="0" filename="C:/dev/py/diff/DiffApp/clients/ad/client.py" />
-      <jump line="41" column="36" filename="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" />
-      <jump line="40" column="8" filename="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="221" column="21" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
-      <jump line="233" column="21" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
+      <jump line="9" column="37" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
+      <jump line="86" column="4" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="0" type="4">
+        <text>__embedded__</text>
       </register>
-      <register name="-" type="4">
-        <text>str</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
       </register>
-      <register name="/" type="4">
-        <text>obj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5tb2RlbC5pbmRleE9mKHRoaXMucGFyYW1zLnZhbHVlR2V0dGVyKHBhcmFtcy5ub2RlKSkgPj0gMDsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>SELECT
-  &quot;dv_membership&quot;.&quot;id&quot;,
-  &quot;dv_membership&quot;.&quot;is_last&quot;,
-  &quot;dv_membership&quot;.&quot;effective_from&quot;,
-  &quot;dv_membership&quot;.&quot;effective_to&quot;,
-  &quot;dv_membership&quot;.&quot;last_sync&quot;,
-  &quot;dv_membership&quot;.&quot;change_type&quot;,
-  &quot;dv_membership&quot;.&quot;subject_id&quot;,
-  &quot;dv_membership&quot;.&quot;member_of_id&quot;
-FROM &quot;dv_membership&quot;
-  INNER JOIN &quot;dv_subject&quot; ON (&quot;dv_membership&quot;.&quot;subject_id&quot; = &quot;dv_subject&quot;.&quot;id&quot;)
-WHERE (&quot;dv_membership&quot;.&quot;is_last&quot; = TRUE AND UPPER(&quot;dv_subject&quot;.&quot;name&quot; :: TEXT) = UPPER('Malinov_NAME'));</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gcmV0dXJuIHRoaXMubW9kZWwuaW5kZXhPZih0aGlzLnBhcmFtcy52YWx1ZUdldHRlcihwYXJhbXMubm9kZSkpID49IDA7</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGRvZXNGaWx0ZXJQYXNzKHBhcmFtczogSURvZXNGaWx0ZXJQYXNzUGFyYW1zKTogYm9vbGVhbiB7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIGNsZWFyTW9kZWwoKSB7CiAgICAgICAgdGhpcy5zZXRNb2RlbCh7dmFsdWU6ICcnfSk7CiAgICAgICAgdGhpcy5wYXJhbXMuZmlsdGVyQ2hhbmdlZENhbGxiYWNrKCk7CiAgICAgICAgdGhpcy5zZWxlY3QucmVtb3ZlKHRoaXMubW9kZWwpOwogICAgICAgIHRoaXMuaXRlbXMgPSBbXTsKICAgIH0=</text>
+        <text encoding="base64">ICAgICMgICdmb3JtYXQnOiAnanBnJywKICAgICMgICdoZWlnaHQnOiAxMjAwLAogICAgIyAgJ29yaWdpbmFsX2ZpbGVuYW1lJzogJ3dhbGxwYXBlci00NTE1MzUnLAogICAgIyAgJ3BsYWNlaG9sZGVyJzogRmFsc2UsCiAgICAjICAncHVibGljX2lkJzogJ3dsYjd0YmEwY3d4eGhxYnBieGhnJywKICAgICMgICdyZXNvdXJjZV90eXBlJzogJ3JvdXRlJywKICAgICMgICdzZWN1cmVfdXJsJzogJ2h0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQgXAogICAgIyAgL3YxNTEzMjg1ODMzL3dsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAnc2lnbmF0dXJlJzogJzkyMDJkZWQ1NDQ1NDc2ODZjODhlZmQ3YjYxNzUxYzc0M2M4MjA4MTMnLAogICAgIyAgJ3RhZ3MnOiBbXSwKICAgICMgICd0eXBlJzogJ3VwbG9hZCcsCiAgICAjICAndXJsJzogJ2h0dHA6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMwogICAgIyAvXHdsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAndmVyc2lvbic6IDE1MTMyODU4MzMsCiAgICAjICAnd2lkdGgnOiAxOTIwfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>class StorageErrorMixin(object):
-    storage_error = StorageError()
-
-    def __init__(self, *args, **kwargs):
-        super(StorageErrorMixin, self).__init__(*args, **kwargs)</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHJlCgppbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgppbXBvcnQgdG9ybmFkbwpmcm9tIG1vdG9yLm1vdG9yX2FzeW5jaW8gaW1wb3J0IEFzeW5jSU9Nb3RvckNsaWVudApmcm9tIHRvcm5hZG8ud2ViIGltcG9ydCBBcHBsaWNhdGlvbgpmcm9tIHVtb25nbyBpbXBvcnQgTW90b3JBc3luY0lPSW5zdGFuY2UKZnJvbSB1bW9uZ28uZG9jdW1lbnQgaW1wb3J0IE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uCmZyb20gdW1vbmdvLnRlbXBsYXRlIGltcG9ydCBNZXRhVGVtcGxhdGUKCmltcG9ydCBzZXR0aW5ncwpmcm9tIHNlcnZpY2UgaW1wb3J0IFVwbG9hZGVyCmZyb20gdXRpbHMgaW1wb3J0IFJvdXRlcnMKCgpjbGFzcyBXbGlJbWFnZXNBcHBsaWNhdGlvbihBcHBsaWNhdGlvbik6CiAgICBkYiA9IEFzeW5jSU9Nb3RvckNsaWVudCgpLndsaQogICAgZGJfaW5zdGFuY2UgPSBNb3RvckFzeW5jSU9JbnN0YW5jZSgpCiAgICBkYl9pbnN0YW5jZS5pbml0KGRiKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBjbG91ZGluYXJ5LmNvbmZpZygKICAgICAgICAgICAgKipzZXR0aW5ncy5DTE9VRElOQVJZCiAgICAgICAgKQogICAgICAgIHNlbGYudXBsb2FkZXIgPSBVcGxvYWRlcigpCiAgICAgICAgc2VsZi5yZWdpc3Rlcl9tb2RlbHMoKQogICAgICAgIGhhZGxlcnMgPSBzZWxmLnJlZ2lzdGVyX2hhbmRsZXJzKCkKICAgICAgICBzdXBlcihXbGlJbWFnZXNBcHBsaWNhdGlvbiwgc2VsZikuX19pbml0X18oaGFkbGVycykKCiAgICBkZWYgcmVnaXN0ZXJfbW9kZWxzKHNlbGYpOgogICAgICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgICAgICBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ21vZGVscyddKQoKICAgIGRlZiByZWdpc3Rlcl9oYW5kbGVycyhzZWxmKToKICAgICAgICBmb3IgYXBwX3BhdGggaW4gc2V0dGluZ3MuQVBQUzoKICAgICAgICAgICAgX19pbXBvcnRfXyhhcHBfcGF0aCwgZ2xvYmFscygpLCBsb2NhbHMoKSwgWydoYW5kbGVycyddKQogICAgICAgIHJldHVybiBSb3V0ZXJzLmdldF9yb3V0ZXJzKCkKCgpjbGFzcyBNZXRhQmFzZU1vZGVsKHR5cGUpOgogICAgZGVmIF9fbmV3X18oY2xzLCBuYW1lLCBiYXNlcywgYXR0cnM6IGRpY3QsICoqa3dhcmdzKToKICAgICAgICBrbGFzcyA9IHN1cGVyKCkuX19uZXdfXyhjbHMsIG5hbWUsIGJhc2VzLCBhdHRycywgKiprd2FyZ3MpCiAgICAgICAgZGJfaW5zdGFuY2UgPSBjbHMuZGJfaW5zdGFuY2UoKQogICAgICAgIGtsYXNzID0gZGJfaW5zdGFuY2UucmVnaXN0ZXIoa2xhc3MpCiAgICAgICAgcmV0dXJuIGtsYXNzCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRiKCk6CiAgICAgICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uLmRiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRiX2luc3RhbmNlKCk6CiAgICAgICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uLmRiX2luc3RhbmNlCgogICAgQHByb3BlcnR5CiAgICBkZWYgdXBsb2FkZXIoY2xzKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24udXBsb2FkZXIKCgpjbGFzcyBNZXRhQmFzZVRlbXBsYXRlKE1ldGFCYXNlTW9kZWwsIE1ldGFUZW1wbGF0ZSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIHBhc3MKCgpkZWYgbWFpbigpOgogICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uKCkKCgphc3luYyBkZWYgY3JlYXRlX2luZGV4KCk6CiAgICBmb3IgYXBwX3BhdGggaW4gc2V0dGluZ3MuQVBQUzoKICAgICAgICBtb2RlbHMgPSBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ21vZGVscyddKS5tb2RlbHMKCiAgICAgICAgZm9yIG5hbWUgaW4gKG0gZm9yIG0gaW4gZGlyKG1vZGVscykgaWYgcmUubWF0Y2gocidbQS1aXScsIG0pKToKICAgICAgICAgICAgbW9kZWwgPSBnZXRhdHRyKG1vZGVscywgbmFtZSkKCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UobW9kZWwsIE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uKSBhbmQgXAogICAgICAgICAgICAgICAgICAgIG5vdCBoYXNhdHRyKG1vZGVsLCAnX19lbWJlZGRlZF9fJyk6CiAgICAgICAgICAgICAgICBhd2FpdCBtb2RlbC5lbnN1cmVfaW5kZXhlcygpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcCA9IG1haW4oKQogICAgdG9ybmFkby5wbGF0Zm9ybS5hc3luY2lvLkFzeW5jSU9NYWluTG9vcCgpLmluc3RhbGwoKQogICAgYXBwLmxpc3RlbigzMDAxKQogICAgYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpLnJ1bl91bnRpbF9jb21wbGV0ZShjcmVhdGVfaW5kZXgoKSkKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fZm9yZXZlcigpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bWVyZ2Ugd2l0aCBkYXJpYSBkZWZhdWx0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGtleToKICAgICAgICA6dHlwZSBrZXk6CiAgICAgICAgOnBhcmFtIHZhbHVlOgogICAgICAgIDp0eXBlIHZhbHVlOiAgZGljdAogICAgICAgIDpyZXR1cm46CiAgICAgICAgOnJ0eXBlOgogICAgICAgICIiIg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>def pop(self, k):
-        logger.debug(&quot;get key %s&quot; % k)
-        return self.redis.lpop(self._pattern(k))</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="-" type="4">
+        <text>pass</text>
       </register>
     </registers>
     <search>
-      <last-search>obj</last-search>
-      <last-offset />
-      <last-pattern>obj</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>mask</entry>
-        <entry>case</entry>
-        <entry>Case</entry>
-        <entry>host</entry>
-        <entry>BaseFilterSet</entry>
-        <entry>cleaned_data</entry>
-        <entry>изменил</entry>
-        <entry>parse_upn</entry>
-        <entry>six</entry>
-        <entry>obj</entry>
-      </history-search>
-      <history-cmd>
-        <entry>%y+</entry>
-        <entry>%V</entry>
-        <entry>%v</entry>
-        <entry>W</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed BACK_SLASH</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
