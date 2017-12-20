@@ -11,6 +11,11 @@
         <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/ldap3/extend/standard/PagedSearch.py" timestamp="1513341014873" />
+      <file name="C:/dev/py/rsafe-front/src/app/clients/dv/colDefs.ts" timestamp="1513755478549">
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="25" />
+        <mark key="." line="50" column="25" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/ad/service.py" timestamp="1513591598548">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
@@ -37,15 +42,20 @@
         <mark key="^" line="32" column="78" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/text/text-filter.component.ts" timestamp="1513756191751">
+        <mark key="[" line="23" column="77" />
+        <mark key="]" line="23" column="77" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="23" column="41" />
+      </file>
+      <file name="C:/dev/py/rsafe-front/node_modules/nz-common/src/grid/filters/ui-select/ui-select-filter.component.ts" timestamp="1513755694149">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="106" column="4" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" timestamp="1513591477430">
         <mark key="'" line="40" column="8" />
         <mark key="]" line="79" column="21" />
         <mark key="^" line="33" column="43" />
-      </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/service.py" timestamp="1513347034163">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="C:/dev/py/rsafe-front/src/app/clients/dv/components/subject-detail/subject-detail.component.ts" timestamp="1513681086963">
         <mark key="[" line="144" column="47" />
@@ -57,7 +67,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513680756262">
+      <file name="/Python Console" timestamp="1513755231591">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -68,6 +78,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/web/view/factViewSet.py" timestamp="1513676001702" />
+      <file name="C:/dev/py/rsafe-front/src/app/clients/dv/components/grid/filters/text/uid-text-filter.component.ts" timestamp="1513755509977">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="16" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1513329616953">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -128,61 +142,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text encoding="base64">CiAgICAgICAgLy8gcmV0dXJuIHRoaXMubW9kZWwuaW5kZXhPZih0aGlzLnBhcmFtcy52YWx1ZUdldHRlcihwYXJhbXMubm9kZSkpID49IDA7</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">cmV0dXJuIHZhbHVlTG93ZXJDYXNlLmluZGV4T2YoZmlsdGVyVGV4dExvd2VDYXNlKSA+PSAwOw==</text>
       </register>
       <register name="/" type="4">
         <text>six</text>
       </register>
-      <register name="0" type="4">
-        <text>StorageError()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5tb2RlbC5pbmRleE9mKHRoaXMucGFyYW1zLnZhbHVlR2V0dGVyKHBhcmFtcy5ub2RlKSkgPj0gMDsK</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gcmV0dXJuIHRoaXMubW9kZWwuaW5kZXhPZih0aGlzLnBhcmFtcy52YWx1ZUdldHRlcihwYXJhbXMubm9kZSkpID49IDA7</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IGRvZXNGaWx0ZXJQYXNzKHBhcmFtczogSURvZXNGaWx0ZXJQYXNzUGFyYW1zKTogYm9vbGVhbiB7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGNsZWFyTW9kZWwoKSB7CiAgICAgICAgdGhpcy5zZXRNb2RlbCh7dmFsdWU6ICcnfSk7CiAgICAgICAgdGhpcy5wYXJhbXMuZmlsdGVyQ2hhbmdlZENhbGxiYWNrKCk7CiAgICAgICAgdGhpcy5zZWxlY3QucmVtb3ZlKHRoaXMubW9kZWwpOwogICAgICAgIHRoaXMuaXRlbXMgPSBbXTsKICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text>class StorageErrorMixin(object):
     storage_error = StorageError()
 
     def __init__(self, *args, **kwargs):
         super(StorageErrorMixin, self).__init__(*args, **kwargs)</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">bWVyZ2Ugd2l0aCBkYXJpYSBkZWZhdWx0Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAiIiIKCiAgICAgICAgOnBhcmFtIGtleToKICAgICAgICA6dHlwZSBrZXk6CiAgICAgICAgOnBhcmFtIHZhbHVlOgogICAgICAgIDp0eXBlIHZhbHVlOiAgZGljdAogICAgICAgIDpyZXR1cm46CiAgICAgICAgOnJ0eXBlOgogICAgICAgICIiIg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>def pop(self, k):
         logger.debug(&quot;get key %s&quot; % k)
         return self.redis.lpop(self._pattern(k))</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgciA9IHNlbGYucmVkaXMubHRyaW0oa2V5LCBzdGFydCwgc3RhcnQgKyAyMGRkKQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text>result = {}
-        length = redis.lpop(self._pattern(k))
-        length = int(redis.call('LLEN', ))
-        for i = 1, length do
-        local
-        val = redis.call('LPOP', KEYS[1])
-        if val then
-        table.insert(result, val)
-
-    end
-
-
-end</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">KAo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKEFERmluYWxTeW5jVGFzaywgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQ==</text>
+        <text encoding="base64">CiAgICAgICAgciA9IHNlbGYucmVkaXMubHRyaW0oa2V5LCBzdGFydCwgc3RhcnQgKyAyMGRkKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
