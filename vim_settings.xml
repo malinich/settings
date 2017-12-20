@@ -30,6 +30,12 @@
         <mark key="^" line="52" column="41" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/tasks/xlsxReportTask.py" timestamp="1513676235280" />
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513761151219">
+        <mark key="[" line="184" column="43" />
+        <mark key="]" line="184" column="59" />
+        <mark key="^" line="184" column="59" />
+        <mark key="." line="184" column="59" />
+      </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/tasks/mixins.py" timestamp="1513349575284">
         <mark key="[" line="108" column="0" />
       </file>
@@ -147,21 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SELECT
-  &quot;dv_membership&quot;.&quot;id&quot;,
-  &quot;dv_membership&quot;.&quot;is_last&quot;,
-  &quot;dv_membership&quot;.&quot;effective_from&quot;,
-  &quot;dv_membership&quot;.&quot;effective_to&quot;,
-  &quot;dv_membership&quot;.&quot;last_sync&quot;,
-  &quot;dv_membership&quot;.&quot;change_type&quot;,
-  &quot;dv_membership&quot;.&quot;subject_id&quot;,
-  &quot;dv_membership&quot;.&quot;member_of_id&quot;
-FROM &quot;dv_membership&quot;
-  INNER JOIN &quot;dv_subject&quot; ON (&quot;dv_membership&quot;.&quot;subject_id&quot; = &quot;dv_subject&quot;.&quot;id&quot;)
-WHERE (&quot;dv_membership&quot;.&quot;is_last&quot; = TRUE AND UPPER(&quot;dv_subject&quot;.&quot;name&quot; :: TEXT) = UPPER('Malinov_NAME'));</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIHZhbHVlTG93ZXJDYXNlLmluZGV4T2YoZmlsdGVyVGV4dExvd2VDYXNlKSA+PSAwOw==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>six</text>
