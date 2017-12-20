@@ -30,11 +30,12 @@
         <mark key="^" line="52" column="41" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/tasks/xlsxReportTask.py" timestamp="1513676235280" />
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513761151219">
-        <mark key="[" line="184" column="43" />
-        <mark key="]" line="184" column="59" />
-        <mark key="^" line="184" column="59" />
-        <mark key="." line="184" column="59" />
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513763724241">
+        <mark key="'" line="233" column="21" />
+        <mark key="[" line="172" column="11" />
+        <mark key="]" line="221" column="20" />
+        <mark key="^" line="221" column="20" />
+        <mark key="." line="221" column="20" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/tasks/mixins.py" timestamp="1513349575284">
         <mark key="[" line="108" column="0" />
@@ -117,7 +118,7 @@
         <mark key="." line="23" column="22" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513681096259">
+      <file name="/Dummy.txt" timestamp="1513763634146">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -151,16 +152,18 @@
       <jump line="41" column="36" filename="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" />
       <jump line="40" column="8" filename="C:/dev/py/diff/DiffApp/core/tasks/sync/__init__.py" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="221" column="21" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
+      <jump line="233" column="21" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>six</text>
+        <text>obj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5tb2RlbC5pbmRleE9mKHRoaXMucGFyYW1zLnZhbHVlR2V0dGVyKHBhcmFtcy5ub2RlKSkgPj0gMDsK</text>
@@ -214,9 +217,9 @@ WHERE (&quot;dv_membership&quot;.&quot;is_last&quot; = TRUE AND UPPER(&quot;dv_s
       </register>
     </registers>
     <search>
-      <last-search>six</last-search>
+      <last-search>obj</last-search>
       <last-offset />
-      <last-pattern>six</last-pattern>
+      <last-pattern>obj</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -231,6 +234,7 @@ WHERE (&quot;dv_membership&quot;.&quot;is_last&quot; = TRUE AND UPPER(&quot;dv_s
         <entry>изменил</entry>
         <entry>parse_upn</entry>
         <entry>six</entry>
+        <entry>obj</entry>
       </history-search>
       <history-cmd>
         <entry>%y+</entry>
@@ -275,6 +279,9 @@ WHERE (&quot;dv_membership&quot;.&quot;is_last&quot; = TRUE AND UPPER(&quot;dv_s
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
