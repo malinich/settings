@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1513768433659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/client.py" timestamp="1513773740957" />
+      <file name="/client.py" timestamp="1513776578820" />
       <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513630363078">
         <mark key="[" line="75" column="40" />
         <mark key="]" line="75" column="51" />
@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513630426182">
         <mark key="[" line="38" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1513767194166">
+      <file name="/Django Console" timestamp="1513776417730">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -44,12 +44,12 @@
       <file name="/dummy.sql" timestamp="1513774005194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513774426841">
-        <mark key="'" line="219" column="53" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="^" line="199" column="22" />
-        <mark key="." line="199" column="0" />
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513776690910">
+        <mark key="'" line="199" column="105" />
+        <mark key="[" line="236" column="100" />
+        <mark key="]" line="212" column="42" />
+        <mark key="^" line="212" column="42" />
+        <mark key="." line="212" column="42" />
       </file>
       <file name="C:/dev/py/diff/Diff/settings/dev_igor.py" timestamp="1513770742156">
         <mark key="[" line="362" column="26" />
@@ -70,16 +70,18 @@
       <jump line="217" column="35" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
       <jump line="226" column="21" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
       <jump line="227" column="53" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
+      <jump line="194" column="58" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
+      <jump line="198" column="105" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJBQUFBQSIp</text>
+        <text>.encode(&quot;cp1251&quot;))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJBQUFBQSIp</text>
+        <text>.encode(&quot;cp1251&quot;))</text>
       </register>
       <register name="/" type="4">
-        <text>request, args in self._list_permission_requests_generator():</text>
+        <text>encode('cp1251')</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REVMRVRFIEZST00gbXNzcF9tZW1iZXJzaGlwOwo=</text>
@@ -117,9 +119,9 @@
       </register>
     </registers>
     <search>
-      <last-search>request, args in self._list_permission_requests_generator():</last-search>
+      <last-search>encode('cp1251')</last-search>
       <last-offset />
-      <last-pattern>request, args in self._list_permission_requests_generator():</last-pattern>
+      <last-pattern>encode('cp1251')</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -129,6 +131,7 @@
         <entry>quote_plus</entry>
         <entry>sub</entry>
         <entry>request, args in self._list_permission_requests_generator():</entry>
+        <entry>encode('cp1251')</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
