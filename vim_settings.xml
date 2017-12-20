@@ -38,9 +38,9 @@
       <file name="/dummy.sql" timestamp="1513765664183">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513771339335">
-        <mark key="'" line="236" column="21" />
-        <mark key="[" line="257" column="0" />
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513772461195">
+        <mark key="'" line="227" column="53" />
+        <mark key="[" line="220" column="23" />
         <mark key="]" line="257" column="0" />
         <mark key="^" line="221" column="0" />
         <mark key="." line="257" column="0" />
@@ -63,6 +63,7 @@
       <jump line="203" column="77" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
       <jump line="217" column="35" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
       <jump line="226" column="21" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
+      <jump line="227" column="53" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -72,7 +73,7 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>sub</text>
+        <text>request, args in self._list_permission_requests_generator():</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">REVMRVRFIEZST00gbXNzcF9tZW1iZXJzaGlwOwo=</text>
@@ -109,9 +110,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sub</last-search>
+      <last-search>request, args in self._list_permission_requests_generator():</last-search>
       <last-offset />
-      <last-pattern>sub</last-pattern>
+      <last-pattern>request, args in self._list_permission_requests_generator():</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -120,6 +121,7 @@
         <entry>unicode</entry>
         <entry>quote_plus</entry>
         <entry>sub</entry>
+        <entry>request, args in self._list_permission_requests_generator():</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
