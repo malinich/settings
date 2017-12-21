@@ -31,6 +31,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1513855161896">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
       <file name="/Django Console" timestamp="1513776417730">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -75,10 +80,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tornado.web.RequestHandler</text>
+        <text>mut</text>
       </register>
       <register name="-" type="4">
-        <text>tornado.web.RequestHandler</text>
+        <text>mut</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
