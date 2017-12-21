@@ -23,6 +23,9 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="46" column="12" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
+        <mark key="[" line="57" column="20" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513891032354">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -39,6 +42,7 @@
         <mark key="]" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513892630393" />
     </filemarks>
     <jumps>
       <jump line="9" column="37" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
