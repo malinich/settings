@@ -6,10 +6,11 @@
       <file name="/Dummy.txt" timestamp="1513889208948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513893179854">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513893501984">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
       </file>
       <file name="/Python Console" timestamp="1513891522075">
         <mark key="[" line="0" column="0" />
@@ -64,8 +65,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzaCA9IEltYWdlRG9jdW1lbnQuU2NoZW1hKG1hbnk9VHJ1ZSwgc3RyaWN0PVRydWUpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaCA9IEltYWdlRG9jdW1lbnQuU2NoZW1hKG1hbnk9VHJ1ZSwgc3RyaWN0PVRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>sh = City.Schema(many=True, strict=True)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjdXJzb3IgPSBJbWFnZURvY3VtZW50XAo=</text>
@@ -93,7 +94,7 @@
         <text encoding="base64">ICAgICMgICdmb3JtYXQnOiAnanBnJywKICAgICMgICdoZWlnaHQnOiAxMjAwLAogICAgIyAgJ29yaWdpbmFsX2ZpbGVuYW1lJzogJ3dhbGxwYXBlci00NTE1MzUnLAogICAgIyAgJ3BsYWNlaG9sZGVyJzogRmFsc2UsCiAgICAjICAncHVibGljX2lkJzogJ3dsYjd0YmEwY3d4eGhxYnBieGhnJywKICAgICMgICdyZXNvdXJjZV90eXBlJzogJ3JvdXRlJywKICAgICMgICdzZWN1cmVfdXJsJzogJ2h0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQgXAogICAgIyAgL3YxNTEzMjg1ODMzL3dsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAnc2lnbmF0dXJlJzogJzkyMDJkZWQ1NDQ1NDc2ODZjODhlZmQ3YjYxNzUxYzc0M2M4MjA4MTMnLAogICAgIyAgJ3RhZ3MnOiBbXSwKICAgICMgICd0eXBlJzogJ3VwbG9hZCcsCiAgICAjICAndXJsJzogJ2h0dHA6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMwogICAgIyAvXHdsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAndmVyc2lvbic6IDE1MTMyODU4MzMsCiAgICAjICAnd2lkdGgnOiAxOTIwfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>sh = City.Schema(many=True, strict=True)</text>
       </register>
     </registers>
     <search>
