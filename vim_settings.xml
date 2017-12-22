@@ -6,19 +6,8 @@
       <file name="/Dummy.txt" timestamp="1513889208948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513893501984">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="32" column="24" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="24" />
-      </file>
       <file name="/Python Console" timestamp="1513891522075">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
-        <mark key="[" line="74" column="60" />
-        <mark key="]" line="74" column="61" />
-        <mark key="." line="74" column="61" />
       </file>
       <file name="/a.dummy" timestamp="1513718181510">
         <mark key="[" line="0" column="0" />
@@ -28,14 +17,6 @@
         <mark key="]" line="55" column="19" />
         <mark key="." line="55" column="19" />
         <mark key="^" line="46" column="12" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
-        <mark key="[" line="57" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513891032354">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_router/handlers.py" timestamp="1513889814872">
         <mark key="[" line="15" column="8" />
@@ -48,7 +29,26 @@
         <mark key="]" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/models.py" timestamp="1513892630393" />
+      <file name="$USER_HOME$/PycharmProjects/wli_home/homepage-travel.html" timestamp="1513950927095" />
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513893501984">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
+        <mark key="[" line="74" column="60" />
+        <mark key="]" line="74" column="61" />
+        <mark key="." line="74" column="61" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
+        <mark key="[" line="57" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513891032354">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_city/handlers.py" timestamp="1513893251754">
         <mark key="[" line="20" column="0" />
       </file>
@@ -116,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
