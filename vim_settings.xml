@@ -46,8 +46,11 @@
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_home/routers.py" timestamp="1513952031607">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/wli_home/routers.py" timestamp="1513953447168">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
         <mark key="[" line="57" column="20" />
@@ -86,8 +89,8 @@
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGUKaW1wb3J0IGpzb24KaW1wb3J0IHRvcm5hZG8ud2ViCmZyb20gbWFyc2htYWxsb3cgaW1wb3J0IFNjaGVtYQoKCmNsYXNzIFJvdXRlcnMob2JqZWN0KToKICAgIF9yb3V0ZXJzID0gW10KCiAgICBkZWYgX19pbml0X18oc2VsZiwgdXJsLCBuYW1lPU5vbmUpOgogICAgICAgIHNlbGYudXJsID0gdXJsCiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCBoYW5kbGVyKToKICAgICAgICBuYW1lID0gc2VsZi5uYW1lIG9yIGhhbmRsZXIuX19jbGFzc19fCiAgICAgICAgc2VsZi5fcm91dGVycy5hcHBlbmQoZ2cKICAgICAgICAgICAgdG9ybmFkby53ZWIudXJsKHNlbGYudXJsLCBoYW5kbGVyLCBuYW1lPW5hbWUpCiAgICAgICAgKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9yb3V0ZXJzKGNscyk6CiAgICAgICAgcmV0dXJuIGNscy5fcm91dGVycwoKCmRlZiB2YWxpZGF0ZV9wYXlsb2FkKHNjaGVtYTogVHlwZVtTY2hlbWFdKToKICAgIGRlZiBkZWNvcihmdW5jKToKICAgICAgICBhc3luYyBkZWYgd3JhcChzZWxmOiB0b3JuYWRvLndlYi5SZXF1ZXN0SGFuZGxlciwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgcm93X2RhdGEgPSBzZWxmLnJlcXVlc3QuYXJndW1lbnRzCiAgICAgICAgICAgIGpzb25fZGF0YSA9IFwKICAgICAgICAgICAgICAgIHtrOiB2WzBdIGlmIGxlbih2KSA8PSAxIGVsc2UgdiBmb3IgaywgdiBpbiByb3dfZGF0YS5pdGVtcygpfQogICAgICAgICAgICBlcnJvcnMgPSBzY2hlbWEoanNvbl9kYXRhKS52YWxpZGF0ZShqc29uX2RhdGEpCiAgICAgICAgICAgIGlmIGVycm9yczoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmRfZXJyb3IoNDAwLCByZWFzb249anNvbi5kdW1wcyhlcnJvcnMpKQogICAgICAgICAgICByZXMgPSBmdW5jKHNlbGYsICphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IHJlcwoKICAgICAgICByZXR1cm4gd3JhcAoKICAgIHJldHVybiBkZWNvcgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGUKaW1wb3J0IGpzb24KaW1wb3J0IHRvcm5hZG8ud2ViCmZyb20gbWFyc2htYWxsb3cgaW1wb3J0IFNjaGVtYQoKCmNsYXNzIFJvdXRlcnMob2JqZWN0KToKICAgIF9yb3V0ZXJzID0gW10KCiAgICBkZWYgX19pbml0X18oc2VsZiwgdXJsLCBuYW1lPU5vbmUpOgogICAgICAgIHNlbGYudXJsID0gdXJsCiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCBoYW5kbGVyKToKICAgICAgICBuYW1lID0gc2VsZi5uYW1lIG9yIGhhbmRsZXIuX19jbGFzc19fCiAgICAgICAgc2VsZi5fcm91dGVycy5hcHBlbmQoZ2cKICAgICAgICAgICAgdG9ybmFkby53ZWIudXJsKHNlbGYudXJsLCBoYW5kbGVyLCBuYW1lPW5hbWUpCiAgICAgICAgKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9yb3V0ZXJzKGNscyk6CiAgICAgICAgcmV0dXJuIGNscy5fcm91dGVycwoKCmRlZiB2YWxpZGF0ZV9wYXlsb2FkKHNjaGVtYTogVHlwZVtTY2hlbWFdKToKICAgIGRlZiBkZWNvcihmdW5jKToKICAgICAgICBhc3luYyBkZWYgd3JhcChzZWxmOiB0b3JuYWRvLndlYi5SZXF1ZXN0SGFuZGxlciwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgcm93X2RhdGEgPSBzZWxmLnJlcXVlc3QuYXJndW1lbnRzCiAgICAgICAgICAgIGpzb25fZGF0YSA9IFwKICAgICAgICAgICAgICAgIHtrOiB2WzBdIGlmIGxlbih2KSA8PSAxIGVsc2UgdiBmb3IgaywgdiBpbiByb3dfZGF0YS5pdGVtcygpfQogICAgICAgICAgICBlcnJvcnMgPSBzY2hlbWEoanNvbl9kYXRhKS52YWxpZGF0ZShqc29uX2RhdGEpCiAgICAgICAgICAgIGlmIGVycm9yczoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmRfZXJyb3IoNDAwLCByZWFzb249anNvbi5kdW1wcyhlcnJvcnMpKQogICAgICAgICAgICByZXMgPSBmdW5jKHNlbGYsICphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IHJlcwoKICAgICAgICByZXR1cm4gd3JhcAoKICAgIHJldHVybiBkZWNvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
       <register name="2" type="4">
         <text>APPS = [
@@ -121,7 +124,7 @@
         <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
       </register>
       <register name="-" type="4">
-        <text>sh = City.Schema(many=True, strict=True)</text>
+        <text>object</text>
       </register>
     </registers>
     <search>
