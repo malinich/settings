@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/utils/six.py" timestamp="1513764828520">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513931601197" />
       <file name="/Dummy.txt" timestamp="1513930880350">
         <mark key="]" line="1" column="0" />
       </file>
@@ -15,7 +16,7 @@
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1513719120724">
+      <file name="/Python Console" timestamp="1513931780612">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1513718181510">
@@ -47,7 +48,7 @@
         <mark key="." line="11" column="19" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/client.py" timestamp="1513768432348" />
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/service.py" timestamp="1513773154341">
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/service.py" timestamp="1513931775234">
         <mark key="[" line="50" column="53" />
         <mark key="]" line="50" column="53" />
         <mark key="." line="50" column="53" />
@@ -59,12 +60,12 @@
       <file name="/dummy.sql" timestamp="1513777876750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513781418850">
+      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513931701924">
         <mark key="'" line="205" column="105" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
+        <mark key="[" line="243" column="12" />
+        <mark key="]" line="243" column="12" />
         <mark key="^" line="233" column="34" />
-        <mark key="." line="251" column="0" />
+        <mark key="." line="243" column="12" />
       </file>
       <file name="C:/dev/py/diff/Diff/settings/dev_igor.py" timestamp="1513770742156">
         <mark key="[" line="362" column="26" />
@@ -80,10 +81,18 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">V0FSTklORzo6PGRldl9pZ29yPiAtIFJFTU9URV9VU0VSIHZhcmlhYmxlIGlzIHNldCB0byBBZG1pbmlzdHJhdG9yLgpQZXJmb3JtaW5nIHN5c3RlbSBjaGVja3MuLi4KClN5c3RlbSBjaGVjayBpZGVudGlmaWVkIG5vIGlzc3VlcyAoMCBzaWxlbmNlZCkuCkRlY2VtYmVyIDIwLCAyMDE3IC0gMTc6MjE6MDAKRGphbmdvIHZlcnNpb24gMS4xMS44LCB1c2luZyBzZXR0aW5ncyAnRGlmZi5zZXR0aW5ncy5kZXZfaWdvcicKU3RhcnRpbmcgZGV2ZWxvcG1lbnQgc2VydmVyIGF0IGh0dHA6Ly93LW1hbGlub3ZpaTo4MDAwLwpRdWl0IHRoZSBzZXJ2ZXIgd2l0aCBDVFJMLUJSRUFLLgplcnJvciBpZiB1c2VycyBub3QgZXhpc3RzIG9uIHNoYXJlcG9pbnQ=</text>
+        <text>permissions = self._get_permissions(response)
+            if permissions:
+                yield {
+                    'obj': self._trim_url(args['url']),
+                    'subj_id': args['uid'],
+                    'login': args['login'],
+                    'permissions': permissions,
+                    'ace_type': 'subsite',
+                }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiA=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
@@ -92,32 +101,46 @@
         <text>__embedded__</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">V0FSTklORzo6PGRldl9pZ29yPiAtIFJFTU9URV9VU0VSIHZhcmlhYmxlIGlzIHNldCB0byBBZG1pbmlzdHJhdG9yLgpQZXJmb3JtaW5nIHN5c3RlbSBjaGVja3MuLi4KClN5c3RlbSBjaGVjayBpZGVudGlmaWVkIG5vIGlzc3VlcyAoMCBzaWxlbmNlZCkuCkRlY2VtYmVyIDIwLCAyMDE3IC0gMTc6MjE6MDAKRGphbmdvIHZlcnNpb24gMS4xMS44LCB1c2luZyBzZXR0aW5ncyAnRGlmZi5zZXR0aW5ncy5kZXZfaWdvcicKU3RhcnRpbmcgZGV2ZWxvcG1lbnQgc2VydmVyIGF0IGh0dHA6Ly93LW1hbGlub3ZpaTo4MDAwLwpRdWl0IHRoZSBzZXJ2ZXIgd2l0aCBDVFJMLUJSRUFLLgplcnJvciBpZiB1c2VycyBub3QgZXhpc3RzIG9uIHNoYXJlcG9pbnQ=</text>
+        <text>permissions = self._get_permissions(response)
+            if permissions:
+                yield {
+                    'obj': self._trim_url(args['url']),
+                    'subj_id': args['uid'],
+                    'login': args['login'],
+                    'permissions': permissions,
+                    'ace_type': 'subsite',
+                }</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGxldCBtdXQgZnVlbCA9IDM0OwogICAgZnVlbCA9IDYwOwogICAgcHJpbnRsbiEoIkhlbGxvLCB3b3JsZCF7fSIsIGZ1ZWwpOw==</text>
+        <text>{
+                    'obj': six.text_type(&quot;{}::{}&quot;.format(self._trim_url(args['url']), args['title'])),
+                    'subj_id': six.text_type(args['uid']),
+                    'login': six.text_type(args['login']),
+                    'permissions': permissions,
+                    'ace_type': 'list',
+                }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHBheWxvYWQoc2VsZikgLT4gZGljdDoKICAgICAgICByZXR1cm4gdG9ybmFkby5lc2NhcGUuanNvbl9kZWNvZGUoc2VsZi5yZXF1ZXN0LmJvZHkpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucGF5bG9hZFsndXNlcidd</text>
+        <text encoding="base64">V0FSTklORzo6PGRldl9pZ29yPiAtIFJFTU9URV9VU0VSIHZhcmlhYmxlIGlzIHNldCB0byBBZG1pbmlzdHJhdG9yLgpQZXJmb3JtaW5nIHN5c3RlbSBjaGVja3MuLi4KClN5c3RlbSBjaGVjayBpZGVudGlmaWVkIG5vIGlzc3VlcyAoMCBzaWxlbmNlZCkuCkRlY2VtYmVyIDIwLCAyMDE3IC0gMTc6MjE6MDAKRGphbmdvIHZlcnNpb24gMS4xMS44LCB1c2luZyBzZXR0aW5ncyAnRGlmZi5zZXR0aW5ncy5kZXZfaWdvcicKU3RhcnRpbmcgZGV2ZWxvcG1lbnQgc2VydmVyIGF0IGh0dHA6Ly93LW1hbGlub3ZpaTo4MDAwLwpRdWl0IHRoZSBzZXJ2ZXIgd2l0aCBDVFJMLUJSRUFLLgplcnJvciBpZiB1c2VycyBub3QgZXhpc3RzIG9uIHNoYXJlcG9pbnQ=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IGxldCBtdXQgZnVlbCA9IDM0OwogICAgZnVlbCA9IDYwOwogICAgcHJpbnRsbiEoIkhlbGxvLCB3b3JsZCF7fSIsIGZ1ZWwpOw==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHBheWxvYWQoc2VsZikgLT4gZGljdDoKICAgICAgICByZXR1cm4gdG9ybmFkby5lc2NhcGUuanNvbl9kZWNvZGUoc2VsZi5yZXF1ZXN0LmJvZHkpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucGF5bG9hZFsndXNlcidd</text>
+      </register>
+      <register name="6" type="4">
         <text>and \
                     not hasattr(model, '__embedded__'):</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICMgICdmb3JtYXQnOiAnanBnJywKICAgICMgICdoZWlnaHQnOiAxMjAwLAogICAgIyAgJ29yaWdpbmFsX2ZpbGVuYW1lJzogJ3dhbGxwYXBlci00NTE1MzUnLAogICAgIyAgJ3BsYWNlaG9sZGVyJzogRmFsc2UsCiAgICAjICAncHVibGljX2lkJzogJ3dsYjd0YmEwY3d4eGhxYnBieGhnJywKICAgICMgICdyZXNvdXJjZV90eXBlJzogJ3JvdXRlJywKICAgICMgICdzZWN1cmVfdXJsJzogJ2h0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2RpYjFqeWNyaS9pbWFnZS91cGxvYWQgXAogICAgIyAgL3YxNTEzMjg1ODMzL3dsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAnc2lnbmF0dXJlJzogJzkyMDJkZWQ1NDQ1NDc2ODZjODhlZmQ3YjYxNzUxYzc0M2M4MjA4MTMnLAogICAgIyAgJ3RhZ3MnOiBbXSwKICAgICMgICd0eXBlJzogJ3VwbG9hZCcsCiAgICAjICAndXJsJzogJ2h0dHA6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZGliMWp5Y3JpL2ltYWdlL3VwbG9hZC92MTUxMzI4NTgzMwogICAgIyAvXHdsYjd0YmEwY3d4eGhxYnBieGhnLmpwZycsCiAgICAjICAndmVyc2lvbic6IDE1MTMyODU4MzMsCiAgICAjICAnd2lkdGgnOiAxOTIwfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8KaW1wb3J0IHJlCgppbXBvcnQgY2xvdWRpbmFyeS51cGxvYWRlcgppbXBvcnQgdG9ybmFkbwpmcm9tIG1vdG9yLm1vdG9yX2FzeW5jaW8gaW1wb3J0IEFzeW5jSU9Nb3RvckNsaWVudApmcm9tIHRvcm5hZG8ud2ViIGltcG9ydCBBcHBsaWNhdGlvbgpmcm9tIHVtb25nbyBpbXBvcnQgTW90b3JBc3luY0lPSW5zdGFuY2UKZnJvbSB1bW9uZ28uZG9jdW1lbnQgaW1wb3J0IE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uCmZyb20gdW1vbmdvLnRlbXBsYXRlIGltcG9ydCBNZXRhVGVtcGxhdGUKCmltcG9ydCBzZXR0aW5ncwpmcm9tIHNlcnZpY2UgaW1wb3J0IFVwbG9hZGVyCmZyb20gdXRpbHMgaW1wb3J0IFJvdXRlcnMKCgpjbGFzcyBXbGlJbWFnZXNBcHBsaWNhdGlvbihBcHBsaWNhdGlvbik6CiAgICBkYiA9IEFzeW5jSU9Nb3RvckNsaWVudCgpLndsaQogICAgZGJfaW5zdGFuY2UgPSBNb3RvckFzeW5jSU9JbnN0YW5jZSgpCiAgICBkYl9pbnN0YW5jZS5pbml0KGRiKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBjbG91ZGluYXJ5LmNvbmZpZygKICAgICAgICAgICAgKipzZXR0aW5ncy5DTE9VRElOQVJZCiAgICAgICAgKQogICAgICAgIHNlbGYudXBsb2FkZXIgPSBVcGxvYWRlcigpCiAgICAgICAgc2VsZi5yZWdpc3Rlcl9tb2RlbHMoKQogICAgICAgIGhhZGxlcnMgPSBzZWxmLnJlZ2lzdGVyX2hhbmRsZXJzKCkKICAgICAgICBzdXBlcihXbGlJbWFnZXNBcHBsaWNhdGlvbiwgc2VsZikuX19pbml0X18oaGFkbGVycykKCiAgICBkZWYgcmVnaXN0ZXJfbW9kZWxzKHNlbGYpOgogICAgICAgIGZvciBhcHBfcGF0aCBpbiBzZXR0aW5ncy5BUFBTOgogICAgICAgICAgICBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ21vZGVscyddKQoKICAgIGRlZiByZWdpc3Rlcl9oYW5kbGVycyhzZWxmKToKICAgICAgICBmb3IgYXBwX3BhdGggaW4gc2V0dGluZ3MuQVBQUzoKICAgICAgICAgICAgX19pbXBvcnRfXyhhcHBfcGF0aCwgZ2xvYmFscygpLCBsb2NhbHMoKSwgWydoYW5kbGVycyddKQogICAgICAgIHJldHVybiBSb3V0ZXJzLmdldF9yb3V0ZXJzKCkKCgpjbGFzcyBNZXRhQmFzZU1vZGVsKHR5cGUpOgogICAgZGVmIF9fbmV3X18oY2xzLCBuYW1lLCBiYXNlcywgYXR0cnM6IGRpY3QsICoqa3dhcmdzKToKICAgICAgICBrbGFzcyA9IHN1cGVyKCkuX19uZXdfXyhjbHMsIG5hbWUsIGJhc2VzLCBhdHRycywgKiprd2FyZ3MpCiAgICAgICAgZGJfaW5zdGFuY2UgPSBjbHMuZGJfaW5zdGFuY2UoKQogICAgICAgIGtsYXNzID0gZGJfaW5zdGFuY2UucmVnaXN0ZXIoa2xhc3MpCiAgICAgICAgcmV0dXJuIGtsYXNzCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRiKCk6CiAgICAgICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uLmRiCgogICAgQHN0YXRpY21ldGhvZAogICAgZGVmIGRiX2luc3RhbmNlKCk6CiAgICAgICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uLmRiX2luc3RhbmNlCgogICAgQHByb3BlcnR5CiAgICBkZWYgdXBsb2FkZXIoY2xzKToKICAgICAgICByZXR1cm4gV2xpSW1hZ2VzQXBwbGljYXRpb24udXBsb2FkZXIKCgpjbGFzcyBNZXRhQmFzZVRlbXBsYXRlKE1ldGFCYXNlTW9kZWwsIE1ldGFUZW1wbGF0ZSk6CiAgICBjbGFzcyBNZXRhOgogICAgICAgIHBhc3MKCgpkZWYgbWFpbigpOgogICAgcmV0dXJuIFdsaUltYWdlc0FwcGxpY2F0aW9uKCkKCgphc3luYyBkZWYgY3JlYXRlX2luZGV4KCk6CiAgICBmb3IgYXBwX3BhdGggaW4gc2V0dGluZ3MuQVBQUzoKICAgICAgICBtb2RlbHMgPSBfX2ltcG9ydF9fKGFwcF9wYXRoLCBnbG9iYWxzKCksIGxvY2FscygpLCBbJ21vZGVscyddKS5tb2RlbHMKCiAgICAgICAgZm9yIG5hbWUgaW4gKG0gZm9yIG0gaW4gZGlyKG1vZGVscykgaWYgcmUubWF0Y2gocidbQS1aXScsIG0pKToKICAgICAgICAgICAgbW9kZWwgPSBnZXRhdHRyKG1vZGVscywgbmFtZSkKCiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UobW9kZWwsIE1ldGFEb2N1bWVudEltcGxlbWVudGF0aW9uKSBhbmQgXAogICAgICAgICAgICAgICAgICAgIG5vdCBoYXNhdHRyKG1vZGVsLCAnX19lbWJlZGRlZF9fJyk6CiAgICAgICAgICAgICAgICBhd2FpdCBtb2RlbC5lbnN1cmVfaW5kZXhlcygpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGFwcCA9IG1haW4oKQogICAgdG9ybmFkby5wbGF0Zm9ybS5hc3luY2lvLkFzeW5jSU9NYWluTG9vcCgpLmluc3RhbGwoKQogICAgYXBwLmxpc3RlbigzMDAxKQogICAgYXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpLnJ1bl91bnRpbF9jb21wbGV0ZShjcmVhdGVfaW5kZXgoKSkKICAgIGFzeW5jaW8uZ2V0X2V2ZW50X2xvb3AoKS5ydW5fZm9yZXZlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
