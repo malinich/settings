@@ -29,10 +29,10 @@
       <file name="/a.dummy" timestamp="1513932875355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1513769269194">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1514207459545">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/thread/sync.py" timestamp="1513936036800" />
       <file name="C:/dev/py/diff/DiffApp/clients/ntfs/models.py" timestamp="1514205684733" />
@@ -71,8 +71,11 @@
       <file name="$USER_HOME$/PycharmProjects/wli_router/handlers.py" timestamp="1513718219062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1513777876750">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514207040867" />
+      <file name="/dummy.sql" timestamp="1514207112656">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513936499927">
         <mark key="'" line="236" column="35" />
@@ -96,57 +99,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
       </register>
       <register name="0" type="4">
-        <text>__embedded__</text>
+        <text>COUNT(id)</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">V0hFUkUgb3JnYW5pemF0aW9uLkFQUFJPVkVEPTAKICAgQU5EIG9yZ2FuaXphdGlvbi5DUkVBVEVEX0FUPicyMDEwLTA3LTMwIDEwOjMwOjIxJw==</text>
+      </register>
+      <register name="2" type="4">
+        <text>DELETE FROM mssp_ace;
+DELETE FROM mssp_membership;
+DELETE FROM mssp_subject;</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3RfYWNlcyhzZWxmLCBvYmopOgogICAgIyAgICAgcmV0dXJuIFtvYmpd</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3RfYWNlcyhzZWxmLCBvYmopOgogICAgIyAgICAgcmV0dXJuIFtvYmpd</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgewo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICgnc3Vic2l0ZScsIHUnz+7k8eDp8icpLAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgcGVybWlzc2lvbnMgPSBzZWxmLl9nZXRfcGVybWlzc2lvbnModXJsKQogICAgICAgIGlmIHBlcm1pc3Npb25zOgogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgJ29iaic6IHNlbGYuX3RyaW1fdXJsKGFyZ3NbJ3VybCddKSwKICAgICAgICAgICAgICAgICdzdWJqX2lkJzogYXJnc1sndWlkJ10sCiAgICAgICAgICAgICAgICAnbG9naW4nOiBhcmdzWydsb2dpbiddLAogICAgICAgICAgICAgICAgJ3Blcm1pc3Npb25zJzogcGVybWlzc2lvbnMsCiAgICAgICAgICAgICAgICAnYWNlX3R5cGUnOiAnc3Vic2l0ZScsCiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYWNlcyhzZWxmLCBob3N0LCBub2RlX3R5cGUsIHBhdGgpOgogICAgICAgIHBhc3M=</text>
-      </register>
-      <register name="8" type="4">
-        <text>permissions = self._get_permissions(response)
-            if permissions:
-                yield {
-                    'obj': self._trim_url(args['url']),
-                    'subj_id': args['uid'],
-                    'login': args['login'],
-                    'permissions': permissions,
-                    'ace_type': 'subsite',
-                }</text>
-      </register>
       <register name="9" type="4">
-        <text>{
-                    'obj': six.text_type(&quot;{}::{}&quot;.format(self._trim_url(args['url']), args['title'])),
-                    'subj_id': six.text_type(args['uid']),
-                    'login': six.text_type(args['login']),
-                    'permissions': permissions,
-                    'ace_type': 'list',
-                }</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfYWNlcyhzZWxmLCBob3N0LCBub2RlX3R5cGUsIHBhdGgpOgogICAgICAgIHBhc3M=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
