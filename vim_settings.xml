@@ -3,13 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1513889208948">
+      <file name="/Dummy.txt" timestamp="1514305001465">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_home/services/image.py" timestamp="1513953505954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513891522075">
+      <file name="/Python Console" timestamp="1514304779631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1513718181510">
@@ -32,7 +34,6 @@
         <mark key="]" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_home/homepage-travel.html" timestamp="1513950927095" />
       <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513893501984">
         <mark key="[" line="30" column="8" />
         <mark key="]" line="32" column="24" />
@@ -49,8 +50,8 @@
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_home/routers.py" timestamp="1513953447168">
-        <mark key="[" line="10" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/wli_home/routers.py" timestamp="1514303190281">
+        <mark key="[" line="11" column="23" />
         <mark key="]" line="10" column="23" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
@@ -93,7 +94,7 @@
         <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGUKaW1wb3J0IGpzb24KaW1wb3J0IHRvcm5hZG8ud2ViCmZyb20gbWFyc2htYWxsb3cgaW1wb3J0IFNjaGVtYQoKCmNsYXNzIFJvdXRlcnMob2JqZWN0KToKICAgIF9yb3V0ZXJzID0gW10KCiAgICBkZWYgX19pbml0X18oc2VsZiwgdXJsLCBuYW1lPU5vbmUpOgogICAgICAgIHNlbGYudXJsID0gdXJsCiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCBoYW5kbGVyKToKICAgICAgICBuYW1lID0gc2VsZi5uYW1lIG9yIGhhbmRsZXIuX19jbGFzc19fCiAgICAgICAgc2VsZi5fcm91dGVycy5hcHBlbmQoZ2cKICAgICAgICAgICAgdG9ybmFkby53ZWIudXJsKHNlbGYudXJsLCBoYW5kbGVyLCBuYW1lPW5hbWUpCiAgICAgICAgKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9yb3V0ZXJzKGNscyk6CiAgICAgICAgcmV0dXJuIGNscy5fcm91dGVycwoKCmRlZiB2YWxpZGF0ZV9wYXlsb2FkKHNjaGVtYTogVHlwZVtTY2hlbWFdKToKICAgIGRlZiBkZWNvcihmdW5jKToKICAgICAgICBhc3luYyBkZWYgd3JhcChzZWxmOiB0b3JuYWRvLndlYi5SZXF1ZXN0SGFuZGxlciwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgcm93X2RhdGEgPSBzZWxmLnJlcXVlc3QuYXJndW1lbnRzCiAgICAgICAgICAgIGpzb25fZGF0YSA9IFwKICAgICAgICAgICAgICAgIHtrOiB2WzBdIGlmIGxlbih2KSA8PSAxIGVsc2UgdiBmb3IgaywgdiBpbiByb3dfZGF0YS5pdGVtcygpfQogICAgICAgICAgICBlcnJvcnMgPSBzY2hlbWEoanNvbl9kYXRhKS52YWxpZGF0ZShqc29uX2RhdGEpCiAgICAgICAgICAgIGlmIGVycm9yczoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmRfZXJyb3IoNDAwLCByZWFzb249anNvbi5kdW1wcyhlcnJvcnMpKQogICAgICAgICAgICByZXMgPSBmdW5jKHNlbGYsICphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IHJlcwoKICAgICAgICByZXR1cm4gd3JhcAoKICAgIHJldHVybiBkZWNvcgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>master</text>
       </register>
       <register name="2" type="4">
         <text>APPS = [
@@ -127,7 +128,7 @@
         <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>master</text>
       </register>
     </registers>
     <search>
