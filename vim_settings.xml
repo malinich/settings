@@ -43,10 +43,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514375045249">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514376523425">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513932435061">
         <mark key="[" line="23" column="20" />
@@ -101,10 +101,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>score3</text>
+        <text>, score3</text>
       </register>
       <register name="-" type="4">
-        <text>score3</text>
+        <text>, score3</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
