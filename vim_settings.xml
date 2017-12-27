@@ -43,10 +43,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514373648491">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514375045249">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513932435061">
         <mark key="[" line="23" column="20" />
@@ -100,11 +100,11 @@
       <jump line="236" column="35" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBuMSA9IHsKICAgICAgICBsZXQgYSA9IDI7CiAgICAgICAgbGV0IGIgPSA1OwogICAgICAgIGEgKyBiCiAgICB9OwogICAgcHJpbnRsbiEoIm4xIGlzOiB7fSIsIG4xKTsgIC8vIHByaW50czogbjEgaXMgNwoKICAgIGxldCBuMjogaTMyID0gewogICAgICAgIGxldCBhID0gMjsKICAgICAgICBsZXQgYiA9IDU7CiAgICAgICAgYSArIGIKICAgIH07CiAgICBwcmludGxuISgibjIgaXM6IHs6P30iLCBuMik7ICAvLyBwcmludHM6IG4yIGlzICgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>score3</text>
       </register>
       <register name="-" type="4">
-        <text>SELECT *</text>
+        <text>score3</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
@@ -112,34 +112,34 @@
       <register name="0" type="4">
         <text>COUNT(id)</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Ly8gICAgbGV0IG11dCBzY29yZSA9IDA7CiAgIC8vIGxldCBzY29yZTIgPSAmc2NvcmU7Ci8vICAgICpzY29yZTIgPSAyOwogICAgLy8gZXJyb3I6IGNhbm5vdCBhc3NpZ24gdG8gaW1tdXRhYmxlIGJvcnJvd2VkIGNvbnRlbnQgKnNjb3JlMgogICAgLy8gKnNjb3JlMiA9IDU7</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGxldCBuMSA9IHsKICAgICAgICBsZXQgYSA9IDI7CiAgICAgICAgbGV0IGIgPSA1OwogICAgICAgIGEgKyBiCiAgICB9OwogICAgcHJpbnRsbiEoIm4xIGlzOiB7fSIsIG4xKTsgIC8vIHByaW50czogbjEgaXMgNwoKICAgIGxldCBuMjogaTMyID0gewogICAgICAgIGxldCBhID0gMjsKICAgICAgICBsZXQgYiA9IDU7CiAgICAgICAgYSArIGIKICAgIH07CiAgICBwcmludGxuISgibjIgaXM6IHs6P30iLCBuMik7ICAvLyBwcmludHM6IG4yIGlzICgpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBDT1VOVChpZCk=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">V0hFUkUgb3JnYW5pemF0aW9uLkFQUFJPVkVEPTAKICAgQU5EIG9yZ2FuaXphdGlvbi5DUkVBVEVEX0FUPicyMDEwLTA3LTMwIDEwOjMwOjIxJw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>DELETE FROM mssp_ace;
 DELETE FROM mssp_membership;
 DELETE FROM mssp_subject;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3RfYWNlcyhzZWxmLCBvYmopOgogICAgIyAgICAgcmV0dXJuIFtvYmpd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICgnc3Vic2l0ZScsIHUnz+7k8eDp8icpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
