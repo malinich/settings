@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/client.py" timestamp="1513777643324" />
       <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
         <mark key="[" line="74" column="60" />
         <mark key="]" line="74" column="61" />
@@ -91,7 +90,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514207040867" />
       <file name="/dummy.sql" timestamp="1514364291903">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -128,15 +126,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/thread/sync.py" timestamp="1513936036800" />
-      <file name="$USER_HOME$/welcomc/Cargo.toml" timestamp="1514454811168">
+      <file name="$USER_HOME$/welcomc/Cargo.toml" timestamp="1514457265888">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/ntfs/models.py" timestamp="1514205684733" />
       <file name="$USER_HOME$/PycharmProjects/wli_home/app.py" timestamp="1513951983888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/client.py" timestamp="1513768432348" />
       <file name="$USER_HOME$/PycharmProjects/wli_router/handlers.py" timestamp="1513889814872">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="14" column="25" />
