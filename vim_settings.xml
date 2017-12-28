@@ -9,17 +9,12 @@
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
         <mark key="[" line="203" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514379733642">
+      <file name="/Dummy.txt" timestamp="1514448853808">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="/client.py" timestamp="1513777643324" />
-      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
-        <mark key="[" line="74" column="60" />
-        <mark key="]" line="74" column="61" />
-        <mark key="." line="74" column="61" />
-      </file>
       <file name="/Python Console" timestamp="1513936689953">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="10" />
@@ -39,31 +34,27 @@
       </file>
       <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/thread/sync.py" timestamp="1513936036800" />
       <file name="C:/dev/py/diff/DiffApp/clients/ntfs/models.py" timestamp="1514205684733" />
-      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513718378669">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514379596398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="C:/dev/py/diff/DiffApp/clients/dv/models/members.py" timestamp="1514448797192">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="31" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513932435061">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1513776417730">
-        <mark key="[" line="0" column="20" />
+      <file name="/Django Console" timestamp="1514448807992">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/route/handlers.py" timestamp="1513719236167">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/core/client.py" timestamp="1513768432348" />
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/service.py" timestamp="1513936640578">
@@ -106,17 +97,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tY2ZnIHNvbWVfY29uZGl0aW9u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSAnw/Dz7+/7Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tY2ZnIHNvbWVfY29uZGl0aW9u</text>
+        <text>--cfg some_condition</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
       </register>
-      <register name="0" type="4">
-        <text>COUNT(id)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSAnw/Dz7+/7Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zm4gbWFpbigpIHsKICBvbl93aW5kb3dzKCk7Cn0KCiNbY2ZnKHRhcmdldF9vcyA9ICJsaW51eCIpXQpmbiBvbl93aW5kb3dzKCkgewogICAgcHJpbnRsbiEoIlRoaXMgbWFjaGluZSBoYXMgV2luZG93cyBhcyBpdHMgT1MuIikKfQo=</text>
