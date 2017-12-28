@@ -3,141 +3,132 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/django/utils/six.py" timestamp="1513764828520">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
-        <mark key="[" line="203" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1514448853808">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="/client.py" timestamp="1513777643324" />
-      <file name="/Python Console" timestamp="1513936689953">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/fragment.py" timestamp="1513936500760">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1513932875355">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1514208135254">
-        <mark key="a" line="17" column="6" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="17" column="6" />
-      </file>
-      <file name="$USER_HOME$/Envs/ver_second/Lib/site-packages/commonlib/thread/sync.py" timestamp="1513936036800" />
-      <file name="C:/dev/py/diff/DiffApp/clients/ntfs/models.py" timestamp="1514205684733" />
-      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514379596398">
+      <file name="/Dummy.txt" timestamp="1514305001465">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/dv/models/members.py" timestamp="1514448797192">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="31" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513932435061">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1514448807992">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-      </file>
-      <file name="C:/dev/py/diff/DiffApp/core/client.py" timestamp="1513768432348" />
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/service.py" timestamp="1513936640578">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_router/handlers.py" timestamp="1513718219062">
+      <file name="$USER_HOME$/PycharmProjects/wli_home/services/image.py" timestamp="1513953505954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514207040867" />
-      <file name="/dummy.sql" timestamp="1514364291903">
+      <file name="/Python Console" timestamp="1514305136562">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/clients/mssp/client.py" timestamp="1513936499927">
-        <mark key="'" line="236" column="35" />
-        <mark key="[" line="267" column="19" />
-        <mark key="]" line="261" column="8" />
-        <mark key="^" line="261" column="8" />
-        <mark key="." line="261" column="8" />
+      <file name="/a.dummy" timestamp="1513718181510">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/py/diff/Diff/settings/dev_igor.py" timestamp="1513770742156">
-        <mark key="[" line="362" column="26" />
-        <mark key="]" line="362" column="26" />
-        <mark key="." line="362" column="26" />
-        <mark key="^" line="362" column="44" />
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/handlers.py" timestamp="1513891275195">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="46" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/handlers.py" timestamp="1513889814872">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/serializers.py" timestamp="1513891544209">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_city/city/handlers.py" timestamp="1513893501984">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_home/utils.py" timestamp="1513952044392">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
+        <mark key="[" line="74" column="60" />
+        <mark key="]" line="74" column="61" />
+        <mark key="." line="74" column="61" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_home/routers.py" timestamp="1514303190281">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
+        <mark key="[" line="57" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_home/settings.py" timestamp="1513951953069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_home/app.py" timestamp="1513951983888">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513891032354">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_home/handlers.py" timestamp="1513951968911">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/wli_city/handlers.py" timestamp="1513893251754">
+        <mark key="[" line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="9" column="37" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
       <jump line="86" column="4" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
-      <jump line="236" column="35" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
-      <jump line="27" column="6" filename="$USER_HOME$/welcomc/src/main.rs" />
-      <jump line="17" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
-      <jump line="7" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
+      <jump line="15" column="30" filename="$USER_HOME$/PycharmProjects/wli_home/utils.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_home/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSAnw/Dz7+/7Jwo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>--cfg some_condition</text>
-      </register>
-      <register name="/" type="4">
-        <text>encode('cp1251')</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSAnw/Dz7+/7Jwo=</text>
+      <register name="0" type="4">
+        <text>__embedded__</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm4gbWFpbigpIHsKICBvbl93aW5kb3dzKCk7Cn0KCiNbY2ZnKHRhcmdldF9vcyA9ICJsaW51eCIpXQpmbiBvbl93aW5kb3dzKCkgewogICAgcHJpbnRsbiEoIlRoaXMgbWFjaGluZSBoYXMgV2luZG93cyBhcyBpdHMgT1MuIikKfQo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGUKaW1wb3J0IGpzb24KaW1wb3J0IHRvcm5hZG8ud2ViCmZyb20gbWFyc2htYWxsb3cgaW1wb3J0IFNjaGVtYQoKCmNsYXNzIFJvdXRlcnMob2JqZWN0KToKICAgIF9yb3V0ZXJzID0gW10KCiAgICBkZWYgX19pbml0X18oc2VsZiwgdXJsLCBuYW1lPU5vbmUpOgogICAgICAgIHNlbGYudXJsID0gdXJsCiAgICAgICAgc2VsZi5uYW1lID0gbmFtZQoKICAgIGRlZiBfX2NhbGxfXyhzZWxmLCBoYW5kbGVyKToKICAgICAgICBuYW1lID0gc2VsZi5uYW1lIG9yIGhhbmRsZXIuX19jbGFzc19fCiAgICAgICAgc2VsZi5fcm91dGVycy5hcHBlbmQoZ2cKICAgICAgICAgICAgdG9ybmFkby53ZWIudXJsKHNlbGYudXJsLCBoYW5kbGVyLCBuYW1lPW5hbWUpCiAgICAgICAgKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdldF9yb3V0ZXJzKGNscyk6CiAgICAgICAgcmV0dXJuIGNscy5fcm91dGVycwoKCmRlZiB2YWxpZGF0ZV9wYXlsb2FkKHNjaGVtYTogVHlwZVtTY2hlbWFdKToKICAgIGRlZiBkZWNvcihmdW5jKToKICAgICAgICBhc3luYyBkZWYgd3JhcChzZWxmOiB0b3JuYWRvLndlYi5SZXF1ZXN0SGFuZGxlciwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgcm93X2RhdGEgPSBzZWxmLnJlcXVlc3QuYXJndW1lbnRzCiAgICAgICAgICAgIGpzb25fZGF0YSA9IFwKICAgICAgICAgICAgICAgIHtrOiB2WzBdIGlmIGxlbih2KSA8PSAxIGVsc2UgdiBmb3IgaywgdiBpbiByb3dfZGF0YS5pdGVtcygpfQogICAgICAgICAgICBlcnJvcnMgPSBzY2hlbWEoanNvbl9kYXRhKS52YWxpZGF0ZShqc29uX2RhdGEpCiAgICAgICAgICAgIGlmIGVycm9yczoKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLnNlbmRfZXJyb3IoNDAwLCByZWFzb249anNvbi5kdW1wcyhlcnJvcnMpKQogICAgICAgICAgICByZXMgPSBmdW5jKHNlbGYsICphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IHJlcwoKICAgICAgICByZXR1cm4gd3JhcAoKICAgIHJldHVybiBkZWNvcgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Zm4gbWFpbigpIHsKCWFzc2VydF9uZSEoNSwgYWJzKC01KSk7Cn0KCi8vIGZuIGFicyh4OiBpMzIpIC0+IHUzMiB7Ci8vICAgIGlmIHggPiAwIHsgeCB9Ci8vICAgIGVsc2UgeyAteCB9Ci8vIH0KLy8gbGluZXMgNiBhbmQgNzoKLy8gZXJyb3I6IG1pc21hdGNoZWQgdHlwZXM6IGV4cGVjdGVkIGB1MzJgLCBmb3VuZCBgaTMyYCAoZXhwZWN0ZWQgdTMyLCBmb3VuZCBpMzIpCgpmbiBhYnMoeDogaTMyKSAtPiBpMzIgewogICBpZiB4ID4gMCB7CiAgIAl4CiAgIH0gZWxzZSB7CiAgIAkteAogICB9Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>master</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Zm4gbWFpbigpIHsKICAgJ291dGVyOiBsb29wIHsKICAgICAgICBwcmludGxuISgiRW50ZXJlZCB0aGUgb3V0ZXIgZHVuZ2VvbiAtICIpOwogICAgICAgICdpbm5lcjogbG9vcCB7CiAgICAgICAgICAgIHByaW50bG4hKCJFbnRlcmVkIHRoZSBpbm5lciBkdW5nZW9uIC0gIik7CiAgICAgICAgICAgICBicmVhazsgICAgLy8gdGhpcyB3b3VsZCBicmVhayBvdXQgb2YgdGhlIGlubmVyIGxvb3AKLy8gICAgICAgICAgICBicmVhayAnb3V0ZXI7IC8vIGJyZWFrcyB0byB0aGUgb3V0ZXIgbG9vcAogICAgICAgIH0KICAgICAgcHJpbnRsbiEoIlRoaXMgdHJlYXN1cmUgY2FuIHNhZGx5IG5ldmVyIGJlIHJlYWNoZWQgLSAiKTsKICB9CiAgcHJpbnRsbiEoIkV4aXRlZCB0aGUgb3V0ZXIgZHVuZ2VvbiEiKTsKfWZuIG1haW4oKSB7Cglhc3NlcnRfZXEhKDUsIGFicygtNSkpOwp9CgovLyBmbiBhYnMoeDogaTMyKSAtPiB1MzIgewovLyAgICBpZiB4ID4gMCB7IHggfQovLyAgICBlbHNlIHsgLXggfQovLyB9Ci8vIGxpbmVzIDYgYW5kIDc6Ci8vIGVycm9yOiBtaXNtYXRjaGVkIHR5cGVzOiBleHBlY3RlZCBgdTMyYCwgZm91bmQgYGkzMmAgKGV4cGVjdGVkIHUzMiwgZm91bmQgaTMyKQoKZm4gYWJzKHg6IGkzMikgLT4gaTMyIHsKICAgaWYgeCA+IDAgeyAKICAgCXggCiAgIH0gZWxzZSB7IAogICAJLXggCiAgIGdnVkd9Cg==</text>
+      <register name="2" type="4">
+        <text>APPS = [
+    'route'
+]</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">biB2ZXJib3NlKHg6IGkzMikgLT4gJidzdGF0aWMgc3RyIHsKICBsZXQgbXV0IHJlc3VsdDogJidzdGF0aWMgc3RyOwogIGlmIHggPCAxMCB7CiAgICByZXN1bHQgPSAibGVzcyB0aGFuIDEwIjsKICB9IGVsc2UgewogICAgcmVzdWx0ID0gIjEwIG9yIG1vcmUiOwogIH0KICByZXR1cm4gcmVzdWx0Owp9</text>
+      <register name="3" type="4">
+        <text>CLOUDINARY = {
+    'cloud_name': 'dib1jycri',
+    'api_key': '178382392551894',
+    'api_secret': 'QYakHqd5ps9PYMPapMajLWVHrOk',
+}</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGxldCBtdXQgc2NvcmUgPSAwOwoKICAgIHsKICAgICAgICBsZXQgc2NvcmUzID0gJm11dCBzY29yZTsKLy8gICAgICAgICpzY29yZTMgPSA1OwogICAgICAgIHNjb3JlID0gNzc7CiAgICAgICAgcHJpbnRsbiEoIklOU0lERSB7fSIsICBzY29yZSkKICAgIH0KCiAgICBwcmludGxuISgiT1VUIHt9Iiwgc2NvcmUpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzaCA9IEltYWdlRG9jdW1lbnQuU2NoZW1hKG1hbnk9VHJ1ZSwgc3RyaWN0PVRydWUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8gICAgbGV0IG11dCBzY29yZSA9IDA7CiAgIC8vIGxldCBzY29yZTIgPSAmc2NvcmU7Ci8vICAgICpzY29yZTIgPSAyOwogICAgLy8gZXJyb3I6IGNhbm5vdCBhc3NpZ24gdG8gaW1tdXRhYmxlIGJvcnJvd2VkIGNvbnRlbnQgKnNjb3JlMgogICAgLy8gKnNjb3JlMiA9IDU7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJzb3IgPSBJbWFnZURvY3VtZW50XAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBuMSA9IHsKICAgICAgICBsZXQgYSA9IDI7CiAgICAgICAgbGV0IGIgPSA1OwogICAgICAgIGEgKyBiCiAgICB9OwogICAgcHJpbnRsbiEoIm4xIGlzOiB7fSIsIG4xKTsgIC8vIHByaW50czogbjEgaXMgNwoKICAgIGxldCBuMjogaTMyID0gewogICAgICAgIGxldCBhID0gMjsKICAgICAgICBsZXQgYiA9IDU7CiAgICAgICAgYSArIGIKICAgIH07CiAgICBwcmludGxuISgibjIgaXM6IHs6P30iLCBuMik7ICAvLyBwcmludHM6IG4yIGlzICgpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVtYWlsID0gZmllbGRzLkVtYWlsKHJlcXVpcmVkPVRydWUpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIHBheWxvYWQoc2VsZikgLT4gZGljdDoKICAgICAgICByZXR1cm4gdG9ybmFkby5lc2NhcGUuanNvbl9kZWNvZGUoc2VsZi5yZXF1ZXN0LmJvZHkpCgogICAgZGVmIGdldF9jdXJyZW50X3VzZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYucGF5bG9hZFsndXNlcidd</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBDT1VOVChpZCk=</text>
+        <text>and \
+                    not hasattr(model, '__embedded__'):</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">V0hFUkUgb3JnYW5pemF0aW9uLkFQUFJPVkVEPTAKICAgQU5EIG9yZ2FuaXphdGlvbi5DUkVBVEVEX0FUPicyMDEwLTA3LTMwIDEwOjMwOjIxJw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIF9fY29sbGVjdGlvbl9fID0gJ3JvdXRlcycK</text>
       </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="-" type="4">
+        <text>master</text>
       </register>
     </registers>
     <search>
@@ -145,16 +136,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>unicode</entry>
-        <entry>quote_plus</entry>
-        <entry>sub</entry>
-        <entry>request, args in self._list_permission_requests_generator():</entry>
-        <entry>encode('cp1251')</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
@@ -166,16 +149,13 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
