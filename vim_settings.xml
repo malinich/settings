@@ -9,9 +9,10 @@
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
         <mark key="[" line="203" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514373315563">
+      <file name="/Dummy.txt" timestamp="1514379733642">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="/client.py" timestamp="1513777643324" />
       <file name="$USER_HOME$/PycharmProjects/wli_router/app.py" timestamp="1513716275531">
@@ -43,10 +44,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514377805220">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/welcomc/src/main.rs" timestamp="1514379596398">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1513932435061">
         <mark key="[" line="23" column="20" />
@@ -98,13 +100,17 @@
       <jump line="86" column="4" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_router/app.py" />
       <jump line="236" column="35" filename="C:/dev/py/diff/DiffApp/clients/mssp/client.py" />
+      <jump line="27" column="6" filename="$USER_HOME$/welcomc/src/main.rs" />
+      <jump line="17" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
+      <jump line="7" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/welcomc/src/main.rs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">biB2ZXJib3NlKHg6IGkzMikgLT4gJidzdGF0aWMgc3RyIHsKICBsZXQgbXV0IHJlc3VsdDogJidzdGF0aWMgc3RyOwogIGlmIHggPCAxMCB7CiAgICByZXN1bHQgPSAibGVzcyB0aGFuIDEwIjsKICB9IGVsc2UgewogICAgcmVzdWx0ID0gIjEwIG9yIG1vcmUiOwogIH0KICByZXR1cm4gcmVzdWx0Owp9</text>
+        <text encoding="base64">IC0tY2ZnIHNvbWVfY29uZGl0aW9u</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IC0tY2ZnIHNvbWVfY29uZGl0aW9u</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
@@ -112,34 +118,32 @@
       <register name="0" type="4">
         <text>COUNT(id)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Zm4gbWFpbigpIHsKICBvbl93aW5kb3dzKCk7Cn0KCiNbY2ZnKHRhcmdldF9vcyA9ICJsaW51eCIpXQpmbiBvbl93aW5kb3dzKCkgewogICAgcHJpbnRsbiEoIlRoaXMgbWFjaGluZSBoYXMgV2luZG93cyBhcyBpdHMgT1MuIikKfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zm4gbWFpbigpIHsKCWFzc2VydF9uZSEoNSwgYWJzKC01KSk7Cn0KCi8vIGZuIGFicyh4OiBpMzIpIC0+IHUzMiB7Ci8vICAgIGlmIHggPiAwIHsgeCB9Ci8vICAgIGVsc2UgeyAteCB9Ci8vIH0KLy8gbGluZXMgNiBhbmQgNzoKLy8gZXJyb3I6IG1pc21hdGNoZWQgdHlwZXM6IGV4cGVjdGVkIGB1MzJgLCBmb3VuZCBgaTMyYCAoZXhwZWN0ZWQgdTMyLCBmb3VuZCBpMzIpCgpmbiBhYnMoeDogaTMyKSAtPiBpMzIgewogICBpZiB4ID4gMCB7CiAgIAl4CiAgIH0gZWxzZSB7CiAgIAkteAogICB9Cn0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Zm4gbWFpbigpIHsKICAgJ291dGVyOiBsb29wIHsKICAgICAgICBwcmludGxuISgiRW50ZXJlZCB0aGUgb3V0ZXIgZHVuZ2VvbiAtICIpOwogICAgICAgICdpbm5lcjogbG9vcCB7CiAgICAgICAgICAgIHByaW50bG4hKCJFbnRlcmVkIHRoZSBpbm5lciBkdW5nZW9uIC0gIik7CiAgICAgICAgICAgICBicmVhazsgICAgLy8gdGhpcyB3b3VsZCBicmVhayBvdXQgb2YgdGhlIGlubmVyIGxvb3AKLy8gICAgICAgICAgICBicmVhayAnb3V0ZXI7IC8vIGJyZWFrcyB0byB0aGUgb3V0ZXIgbG9vcAogICAgICAgIH0KICAgICAgcHJpbnRsbiEoIlRoaXMgdHJlYXN1cmUgY2FuIHNhZGx5IG5ldmVyIGJlIHJlYWNoZWQgLSAiKTsKICB9CiAgcHJpbnRsbiEoIkV4aXRlZCB0aGUgb3V0ZXIgZHVuZ2VvbiEiKTsKfWZuIG1haW4oKSB7Cglhc3NlcnRfZXEhKDUsIGFicygtNSkpOwp9CgovLyBmbiBhYnMoeDogaTMyKSAtPiB1MzIgewovLyAgICBpZiB4ID4gMCB7IHggfQovLyAgICBlbHNlIHsgLXggfQovLyB9Ci8vIGxpbmVzIDYgYW5kIDc6Ci8vIGVycm9yOiBtaXNtYXRjaGVkIHR5cGVzOiBleHBlY3RlZCBgdTMyYCwgZm91bmQgYGkzMmAgKGV4cGVjdGVkIHUzMiwgZm91bmQgaTMyKQoKZm4gYWJzKHg6IGkzMikgLT4gaTMyIHsKICAgaWYgeCA+IDAgeyAKICAgCXggCiAgIH0gZWxzZSB7IAogICAJLXggCiAgIGdnVkd9Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">biB2ZXJib3NlKHg6IGkzMikgLT4gJidzdGF0aWMgc3RyIHsKICBsZXQgbXV0IHJlc3VsdDogJidzdGF0aWMgc3RyOwogIGlmIHggPCAxMCB7CiAgICByZXN1bHQgPSAibGVzcyB0aGFuIDEwIjsKICB9IGVsc2UgewogICAgcmVzdWx0ID0gIjEwIG9yIG1vcmUiOwogIH0KICByZXR1cm4gcmVzdWx0Owp9</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGxldCBtdXQgc2NvcmUgPSAwOwoKICAgIHsKICAgICAgICBsZXQgc2NvcmUzID0gJm11dCBzY29yZTsKLy8gICAgICAgICpzY29yZTMgPSA1OwogICAgICAgIHNjb3JlID0gNzc7CiAgICAgICAgcHJpbnRsbiEoIklOU0lERSB7fSIsICBzY29yZSkKICAgIH0KCiAgICBwcmludGxuISgiT1VUIHt9Iiwgc2NvcmUpOw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ly8gICAgbGV0IG11dCBzY29yZSA9IDA7CiAgIC8vIGxldCBzY29yZTIgPSAmc2NvcmU7Ci8vICAgICpzY29yZTIgPSAyOwogICAgLy8gZXJyb3I6IGNhbm5vdCBhc3NpZ24gdG8gaW1tdXRhYmxlIGJvcnJvd2VkIGNvbnRlbnQgKnNjb3JlMgogICAgLy8gKnNjb3JlMiA9IDU7</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxldCBuMSA9IHsKICAgICAgICBsZXQgYSA9IDI7CiAgICAgICAgbGV0IGIgPSA1OwogICAgICAgIGEgKyBiCiAgICB9OwogICAgcHJpbnRsbiEoIm4xIGlzOiB7fSIsIG4xKTsgIC8vIHByaW50czogbjEgaXMgNwoKICAgIGxldCBuMjogaTMyID0gewogICAgICAgIGxldCBhID0gMjsKICAgICAgICBsZXQgYiA9IDU7CiAgICAgICAgYSArIGIKICAgIH07CiAgICBwcmludGxuISgibjIgaXM6IHs6P30iLCBuMik7ICAvLyBwcmludHM6IG4yIGlzICgpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBDT1VOVChpZCk=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">V0hFUkUgb3JnYW5pemF0aW9uLkFQUFJPVkVEPTAKICAgQU5EIG9yZ2FuaXphdGlvbi5DUkVBVEVEX0FUPicyMDEwLTA3LTMwIDEwOjMwOjIxJw==</text>
-      </register>
-      <register name="7" type="4">
-        <text>DELETE FROM mssp_ace;
-DELETE FROM mssp_membership;
-DELETE FROM mssp_subject;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
