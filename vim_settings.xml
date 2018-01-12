@@ -27,12 +27,12 @@
       <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
         <mark key="[" line="57" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1515759206768">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1515763185455">
         <mark key="a" line="17" column="6" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="[" line="40" column="31" />
+        <mark key="]" line="40" column="31" />
         <mark key="^" line="17" column="6" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="/manage.py@diff" timestamp="1515752879118">
         <mark key="[" line="0" column="0" />
@@ -148,11 +148,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_home/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAibXNzcWxfYWNlIi4iaWQiLAogICJtc3NxbF9hY2UiLiJpc19sYXN0IiwKICAibXNzcWxfYWNlIi4iZWZmZWN0aXZlX2Zyb20iLAogICJtc3NxbF9hY2UiLiJlZmZlY3RpdmVfdG8iLAogICJtc3NxbF9hY2UiLiJsYXN0X3N5bmMiLAogICJtc3NxbF9hY2UiLiJjaGFuZ2VfdHlwZSIsCiAgIm1zc3FsX2FjZSIuInNvdXJjZV9pZCIsCiAgIm1zc3FsX2FjZSIuIm9iaiIsCiAgIm1zc3FsX2FjZSIuImxvZ2luIiwKICAibXNzcWxfYWNlIi4ib2JqX2lkIiwKICAibXNzcWxfYWNlIi4ic3Vial9pZCIsCiAgIm1zc3FsX2FjZSIuImNyZWF0ZWRfYnlfaWQiLAogICJtc3NxbF9hY2UiLiJncmFudG9yX2lkIiwKICAibXNzcWxfYWNlIi4iYWNlX3R5cGUiLAogICJtc3NxbF9hY2UiLiJwZXJtaXNzaW9ucyIsCiAgImNvcmVfYXBwcm92YWwiLiJzdGFmZl9yZXBvcnRfaWQiIEFTICJzdGFmZl9yZXBvcnRfaWQiLAogICgoIm1zc3FsX2FjZSIuInBlcm1pc3Npb25zIiAmIDEpID0xKSAgQVMgIm1hc2tlZF9yaWdodHMiLAogICJtc3NxbF9zdWJqZWN0Ii4iaWQiLAogICJtc3NxbF9zdWJqZWN0Ii4ic291cmNlX2lkIiwKICAibXNzcWxfc3ViamVjdCIuInVpZCIsCiAgIm1zc3FsX3N1YmplY3QiLiJwaG90byIsCiAgIm1zc3FsX3N1YmplY3QiLiJhZF9zdWJqZWN0X2lkIiwKICAibXNzcWxfc3ViamVjdCIuInN1YmplY3RfdHlwZSIsCiAgIm1zc3FsX3N1YmplY3QiLiJuYW1lIgo=</text>
+      <register name="&quot;" type="4">
+        <text>1792913810350008736973055638379610855835</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCJtc3NxbF9hY2UiLiJwZXJtaXNzaW9ucyIgJiAxKSAgIEFTICJtYXNrZWRfcmlnaHRzIiw=</text>
+        <text>1792913810350008736973055638379610855835</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
