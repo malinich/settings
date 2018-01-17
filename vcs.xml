@@ -10,6 +10,10 @@
           <option name="url" value="http://192.168.209.211:8080" />
           <option name="userName" value="miltrix@yandex.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://track-vm.demo.oim" />
+          <option name="userName" value="miltrix@yandex.ru" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

@@ -63,6 +63,9 @@
         <mark key="." line="32" column="24" />
         <mark key="^" line="32" column="24" />
       </file>
+      <file name="C:/git/tediff/diff/.gitignore" timestamp="1516194743570">
+        <mark key="[" line="5" column="21" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssp/models.py" timestamp="1516104298683">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="24" column="0" />
@@ -125,7 +128,7 @@
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
         <mark key="[" line="203" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516189666059">
+      <file name="/Dummy.txt" timestamp="1516194761067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
