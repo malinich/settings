@@ -37,6 +37,11 @@
       <file name="/manage.py@diff" timestamp="1515752879118">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/git/tediff/diff/bin/remote_install.sh" timestamp="1516359463237">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_router/route/models.py" timestamp="1513891032354">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -128,7 +133,7 @@
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
         <mark key="[" line="203" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516194761067">
+      <file name="/Dummy.txt" timestamp="1516359619089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,6 +142,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/git/tediff/diff/.gitlab-ci.yml" timestamp="1516359602426">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/wli_home/app.py" timestamp="1513951983888">
         <mark key="[" line="0" column="0" />
@@ -159,11 +169,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wli_home/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:NUMERIC(10,0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgLSBweXRob24zIG1hbmFnZS5weSB0ZXN0IC1kZGsK</text>
       </register>
       <register name="-" type="4">
-        <text>:NUMERIC(10,0)</text>
+        <text>sh_scripts</text>
       </register>
       <register name="/" type="4">
         <text>encode('cp1251')</text>
@@ -172,31 +182,31 @@
         <text encoding="base64">ICAgICdEaWZmQXBwLmNsaWVudHMubXNzcCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hhbmsgIENPTlNUQU5UIEJJVCA6PSAnMDEwMTAxMDAwMDExMTAxMDEwMDExMDEwMDAwMTEwMTEwMTEwMTExMTAxMDEwMDEwMTAxMTAwMTEwMDExMDExJzo6QklUKDYzKQo=</text>
+        <text encoding="base64">ICAgLSBweXRob24zIG1hbmFnZS5weSB0ZXN0IC1kZGsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Y2hhbmsgIENPTlNUQU5UIEJJVCA6PSAnMDEwMTAxMDAwMDExMTAxMDEwMDExMDEwMDAwMTEwMTEwMTEwMTExMTAxMDEwMDEwMTAxMTAwMTEwMDExMDExJzo6QklUKDYzKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dXNlcl9pZCBDT05TVEFOVCBpbnRlZ2VyIDo9IDFkMAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">UkVBVEUgT1IgUkVQTEFDRSBGVU5DVElPTiBudW1lcmljaW50NDBfdG9fYml0MTg5KG51bWVyaWMoNDAsMCkpIFJFVFVSTlMgYml0KDE4OSkKTEFOR1VBR0Ugc3FsCkFTCiQkCiAgICBXSVRICiAgICAgIGNodW5rcyAoZXhwb25lbnQsIGNodW5rKSBBUyAoCiAgICAgICAgIFNFTEVDVCBleHBvbmVudCwgZmxvb3IoJDEgLyAoJzkyMjMzNzIwMzY4NTQ3NzU4MDcnOjpudW1lcmljKDQwLDApIF4gZXhwb25lbnQpICUgJzkyMjMzNzIwMzY4NTQ3NzU4MDcnOjpudW1lcmljKDQwLDApKTo6YmlnaW50CiAgICAgICAgIEZST00gZ2VuZXJhdGVfc2VyaWVzKDEsMykgZXhwb25lbnQKICAgICAgKQogICAgU0VMRUNUCiAgICAgIGJpdF9vcihjaHVuazo6Yml0KDE4OSkgPDwgKDYzKihleHBvbmVudC0xKSkpCiAgICBGUk9NIGNodW5rczsKJCQ7</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAibXNzcWxfYWNlIi4iaWQiLAogICJtc3NxbF9hY2UiLiJpc19sYXN0IiwKICAibXNzcWxfYWNlIi4iZWZmZWN0aXZlX2Zyb20iLAogICJtc3NxbF9hY2UiLiJlZmZlY3RpdmVfdG8iLAogICJtc3NxbF9hY2UiLiJsYXN0X3N5bmMiLAogICJtc3NxbF9hY2UiLiJjaGFuZ2VfdHlwZSIsCiAgIm1zc3FsX2FjZSIuInNvdXJjZV9pZCIsCiAgIm1zc3FsX2FjZSIuIm9iaiIsCiAgIm1zc3FsX2FjZSIuImxvZ2luIiwKICAibXNzcWxfYWNlIi4ib2JqX2lkIiwKICAibXNzcWxfYWNlIi4ic3Vial9pZCIsCiAgIm1zc3FsX2FjZSIuImNyZWF0ZWRfYnlfaWQiLAogICJtc3NxbF9hY2UiLiJncmFudG9yX2lkIiwKICAibXNzcWxfYWNlIi4iYWNlX3R5cGUiLAogICJtc3NxbF9hY2UiLiJwZXJtaXNzaW9ucyIsCiAgImNvcmVfYXBwcm92YWwiLiJzdGFmZl9yZXBvcnRfaWQiIEFTICJzdGFmZl9yZXBvcnRfaWQiLAogICgoIm1zc3FsX2FjZSIuInBlcm1pc3Npb25zIiAmIDEpID0xKSAgQVMgIm1hc2tlZF9yaWdodHMiLAogICJtc3NxbF9zdWJqZWN0Ii4iaWQiLAogICJtc3NxbF9zdWJqZWN0Ii4ic291cmNlX2lkIiwKICAibXNzcWxfc3ViamVjdCIuInVpZCIsCiAgIm1zc3FsX3N1YmplY3QiLiJwaG90byIsCiAgIm1zc3FsX3N1YmplY3QiLiJhZF9zdWJqZWN0X2lkIiwKICAibXNzcWxfc3ViamVjdCIuInN1YmplY3RfdHlwZSIsCiAgIm1zc3FsX3N1YmplY3QiLiJuYW1lIgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IEFORAogICAgICAgKCJtc3NxbF9hY2UiLiJwZXJtaXNzaW9ucyIgJiAxKSA9IDEp</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">QU5ECiAgICAgICAoIm1zc3FsX2FjZSIuInBlcm1pc3Npb25zIiAmIDEpID0gMSk=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICogZnJvbSAoCiAgCik=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Zm4gY3JlYXRlX2Nvbm4oKSAtPiByZWRpczo6Q29ubmVjdGlvbiB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm4gY3JlYXRlX2Nvbm4oKSAtPiByZWRpczo6UmVkaXNSZXN1bHQ8KCk+IHsK</text>
+        <text encoding="base64">Zm4gY3JlYXRlX2Nvbm4oKSAtPiByZWRpczo6Q29ubmVjdGlvbiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -238,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
