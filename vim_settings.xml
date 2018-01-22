@@ -78,7 +78,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1516610576397">
+      <file name="/Django Console" timestamp="1516627613369">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -131,10 +131,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/py/diff/Diff/settings/dev_igor.py" timestamp="1516627724237">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+      </file>
       <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
         <mark key="[" line="203" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516611626459">
+      <file name="/Dummy.txt" timestamp="1516627693328">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -161,7 +166,6 @@
       <file name="$USER_HOME$/PycharmProjects/wli_city/handlers.py" timestamp="1513893251754">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="C:/git/tediff/diff/DiffApp/clients/dv/service.py" timestamp="1516609315521" />
       <file name="C:/dev/py/diff/Vagrantfile" timestamp="1516622998213">
         <mark key="[" line="67" column="20" />
         <mark key="]" line="67" column="20" />
@@ -180,10 +184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>./tmp</text>
+        <text>192.168.209.50</text>
       </register>
       <register name="-" type="4">
-        <text>./tmp</text>
+        <text>192.168.209.50</text>
       </register>
       <register name="/" type="4">
         <text>_get_per</text>
