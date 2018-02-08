@@ -8,21 +8,14 @@
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="C:/dev/py/rsafe-front/src/app/cart/grid-cart-manager.ts" timestamp="1518082658838">
-        <mark key="[" line="22" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1513936500760">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/py/rsafe-front/src/app/cart/grid-cart-manager.ts" timestamp="1518084378529">
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="51" />
+        <mark key="." line="33" column="51" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssql/tests/test_msMembershipService.py" timestamp="1516628165980">
         <mark key="'" line="57" column="44" />
         <mark key="[" line="57" column="44" />
-      </file>
-      <file name="/a.dummy" timestamp="1513718181510">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_image/image/handlers.py" timestamp="1513892695220">
-        <mark key="[" line="57" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa88f1db-ec80-43aa-acdb-53ff01cd35ce/console.sql" timestamp="1516628040978">
         <mark key="a" line="18" column="6" />
@@ -30,9 +23,6 @@
         <mark key="]" line="72" column="10" />
         <mark key="^" line="38" column="26" />
         <mark key="." line="72" column="10" />
-      </file>
-      <file name="/manage.py@diff" timestamp="1515752879118">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/git/tediff/diff/bin/remote_install.sh" timestamp="1516359463237">
         <mark key="[" line="0" column="4" />
@@ -43,12 +33,6 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_home/services/image.py" timestamp="1513953505954">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/git/tediff/diff/.gitignore" timestamp="1516194743570">
-        <mark key="[" line="5" column="21" />
       </file>
       <file name="C:/git/tediff/diff/DiffApp/clients/mssp/client.py" timestamp="1516610188602">
         <mark key="'" line="78" column="4" />
@@ -66,19 +50,13 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_home/handlers.py" timestamp="1513951968911">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/py/rsafe-front/src/app/cart/cart-counter/cart-counter.component.html" timestamp="1518080903886" />
-      <file name="C:/git/diff/.gitignore" timestamp="1516185607384">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/wli_home/utils.py" timestamp="1513952044392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/py/rsafe-front/src/app/cart/service/cart.service.ts" timestamp="1518081259446">
+      <file name="C:/dev/py/rsafe-front/src/app/cart/service/cart.service.ts" timestamp="1518083650174">
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516099965256">
@@ -112,9 +90,6 @@
         <mark key="]" line="129" column="20" />
         <mark key="." line="129" column="20" />
       </file>
-      <file name="C:/dev/py/diff/DiffApp/core/service.py" timestamp="1513936079239">
-        <mark key="[" line="203" column="19" />
-      </file>
       <file name="/Dummy.txt" timestamp="1518081898901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -131,19 +106,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_home/app.py" timestamp="1513951983888">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/py/rsafe-front/src/app/resource/resource-control/resource-control.component.ts" timestamp="1518081537134">
+      <file name="C:/dev/py/rsafe-front/src/app/resource/resource-control/resource-control.component.ts" timestamp="1518083200390">
         <mark key="[" line="19" column="22" />
       </file>
-      <file name="C:/dev/py/rsafe-front/src/app/resource/resource-control/resource-control.component.html" timestamp="1518080645494" />
+      <file name="C:/dev/py/rsafe-front/src/app/resource/resource-control/resource-control.component.html" timestamp="1518083550040" />
       <file name="C:/dev/py/diff/DiffApp/core/conf/base.py" timestamp="1516628556026">
         <mark key="'" line="417" column="7" />
         <mark key="[" line="423" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/wli_city/handlers.py" timestamp="1513893251754">
-        <mark key="[" line="20" column="0" />
       </file>
       <file name="C:/dev/py/diff/Vagrantfile" timestamp="1516622998213">
         <mark key="[" line="67" column="20" />
@@ -178,163 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-#         'default': {
-#             'format': '[%(asctime)s] %(levelname)s::%(name)s::%(funcName)s::%(lineno)d - %(message)s',
-#             'datefmt': &quot;%Y-%m-%d %H:%M:%S&quot;,
-#         },
-#         'short': {
-#             'class': 'logging.Formatter',
-#             'format': '[%(asctime)s] - %(message)s',
-#             'datefmt': &quot;%Y-%m-%d %H:%M:%S&quot;,
-#         },
-#     },
-#     'handlers': {
-#
-#         'console': {
-#             'level': 'DEBUG',
-#             'class': 'logging.StreamHandler',
-#             'formatter': 'console'
-#         },
-#         'management_console': {
-#             'level': 'DEBUG',
-#             'formatter': 'short',
-#             'class': console_handler_class,
-#         },
-#         'null': {
-#             'class': 'logging.NullHandler',
-#         },
-#         'file_handler': {
-#             'level': 'INFO',
-#             'filters': ['require_debug_false'],
-#             'formatter': 'default',
-#             'class': 'logging.handlers.TimedRotatingFileHandler',
-#             'filename': os.path.join(BASE_DIR, 'logs', '%s.log' % 'app'),
-#             'when': 'midnight',
-#             'interval': 1,
-#             'backupCount': 7,
-#         },
-#         'mail_admins': {
-#             'level': 'ERROR',
-#             'filters': ['require_debug_false'],
-#             'class': 'django.utils.log.AdminEmailHandler'
-#         },
-#     },
-#     'loggers': {
-#         '': {
-#             'level': 'DEBUG',
-#             'handlers': ['console']
-#         },
-#         # 'py.warnings': {
-#         #     'handlers': [
-#         #         'null',
-#         #     ],
-#         # },
-#         'concurrent.futures': {
-#             'handlers': [
-#                 'console'
-#             ],
-#             'level': &quot;DEBUG&quot;,
-#             'propagate': True,
-#             'formatter': 'default'
-#         },
-#         'django.db.backends.schema': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'propagate': False,
-#             'formatter': 'default'
-#         },
-#         'sql_server': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'propagate': True,
-#             'formatter': 'default'
-#         },
-#         'django': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'propagate': True,
-#             'formatter': 'default'
-#         },
-#         'django.db.backends': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'propagate': False,
-#             'formatter': 'default'
-#         },
-#         'django.request': {
-#             'handlers': [
-#                 'mail_admins',
-#                 'file_handler',
-#             ],
-#             'level': 'DEBUG',
-#             'formatter': 'default'
-#         },
-#         'django.server': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'formatter': 'default'
-#         },
-#         'django.security': {
-#             'handlers': [
-#                 'mail_admins',
-#                 'file_handler',
-#             ],
-#             'level': 'ERROR',
-#             'formatter': 'default'
-#         },
-#         'django.core.management.commands': {
-#             'handlers': [
-#                 'management_console',
-#             ],
-#             'level': 'DEBUG',
-#         },
-#         'diff': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'ERROR',
-#             'formatter': 'default',
-#             'propagate': False,
-#         },
-#         'Diff': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'ERROR',
-#             'formatter': 'default',
-#             'propagate': False,
-#         },
-#         'DiffApp': {
-#             'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'formatter': 'default',
-#             'propagate': False,
-#         },
-#         &quot;DiffApp.setup&quot;: {
-#         'handlers': [
-#                 'console',
-#             ],
-#             'level': 'DEBUG',
-#             'formatter': 'default',
-#             'propagate': False,
-#             },
-#         # 'dj</text>
+        <text>items.columnGroupShow</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.209.50</text>
+        <text>items.columnGroupShow</text>
       </register>
       <register name="/" type="4">
         <text>celery</text>
