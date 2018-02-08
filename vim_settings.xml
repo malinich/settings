@@ -8,11 +8,11 @@
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="C:/dev/py/rsafe-front/src/app/cart/grid-cart-manager.ts" timestamp="1518089536650">
+      <file name="C:/dev/py/rsafe-front/src/app/cart/grid-cart-manager.ts" timestamp="1518091824405">
         <mark key="s" line="33" column="41" />
-        <mark key="[" line="65" column="9" />
-        <mark key="]" line="65" column="9" />
-        <mark key="." line="65" column="9" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssql/tests/test_msMembershipService.py" timestamp="1516628165980">
         <mark key="'" line="57" column="44" />
@@ -57,7 +57,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/py/rsafe-front/src/app/cart/service/cart.service.ts" timestamp="1518089597107">
+      <file name="C:/dev/py/rsafe-front/src/app/cart/service/cart.service.ts" timestamp="1518090612275">
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1516099965256">
@@ -91,7 +91,7 @@
         <mark key="]" line="129" column="20" />
         <mark key="." line="129" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518086829363">
+      <file name="/Dummy.txt" timestamp="1518090970476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8=</text>
+        <text encoding="base64">ICAgICAgIC8vCiAgICAgICAgCiAgICAgICAgLy8=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICB2YXIgc3RyID0gIiI7</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>celery</text>
@@ -160,9 +160,24 @@
         <text encoding="base64">ICAgICdEaWZmQXBwLmNsaWVudHMubXNzcCcsCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8=</text>
+        <text encoding="base64">ICAgICAgIC8vCiAgICAgICAgCiAgICAgICAgLy8=</text>
       </register>
       <register name="2" type="4">
+        <text>var str = &quot;&quot;;
+        var k = 0;
+        var obj = context;
+        for(k in obj){
+          str += k + &quot;: &quot; + obj[k] + &quot;\r\n&quot;;
+        }
+        alert(str);</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgc3RyICs9IGsgKyAiOiAiICsgb2JqMVtrXSArICJcclxuIjs=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8=</text>
+      </register>
+      <register name="5" type="4">
         <text>{
 #         'default': {
 #             'format': '[%(asctime)s] %(levelname)s::%(name)s::%(funcName)s::%(lineno)d - %(message)s',
@@ -318,27 +333,17 @@
 #             },
 #         # 'dj</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZW5kCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">VmFncmFudDo6Q29uZmlnLnJ1biBkbyB8Y29uZmlnfAogIGNvbmZpZy52bS5ib3ggPSAnYmFzZScK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyAtKi0gbW9kZTogcnVieSAtKi0KIyB2aTogc2V0IGZ0PXJ1YnkgOgoKIyBBbGwgVmFncmFudCBjb25maWd1cmF0aW9uIGlzIGRvbmUgYmVsb3cuIFRoZSAiMiIgaW4gVmFncmFudC5jb25maWd1cmUKIyBjb25maWd1cmVzIHRoZSBjb25maWd1cmF0aW9uIHZlcnNpb24gKHdlIHN1cHBvcnQgb2xkZXIgc3R5bGVzIGZvcgojIGJhY2t3YXJkcyBjb21wYXRpYmlsaXR5KS4gUGxlYXNlIGRvbid0IGNoYW5nZSBpdCB1bmxlc3MgeW91IGtub3cgd2hhdAojIHlvdSdyZSBkb2luZy4KVmFncmFudC5jb25maWd1cmUoIjIiKSBkbyB8Y29uZmlnfAogICMgVGhlIG1vc3QgY29tbW9uIGNvbmZpZ3VyYXRpb24gb3B0aW9ucyBhcmUgZG9jdW1lbnRlZCBhbmQgY29tbWVudGVkIGJlbG93LgogICMgRm9yIGEgY29tcGxldGUgcmVmZXJlbmNlLCBwbGVhc2Ugc2VlIHRoZSBvbmxpbmUgZG9jdW1lbnRhdGlvbiBhdAogICMgaHR0cHM6Ly9kb2NzLnZhZ3JhbnR1cC5jb20uCgogICMgRXZlcnkgVmFncmFudCBkZXZlbG9wbWVudCBlbnZpcm9ubWVudCByZXF1aXJlcyBhIGJveC4gWW91IGNhbiBzZWFyY2ggZm9yCiAgIyBib3hlcyBhdCBodHRwczovL3ZhZ3JhbnRjbG91ZC5jb20vc2VhcmNoLgogIGNvbmZpZy52bS5ib3ggPSAicHJlcGFyZWRfd2luMjAwOHIyIgoKICAjIERpc2FibGUgYXV0b21hdGljIGJveCB1cGRhdGUgY2hlY2tpbmcuIElmIHlvdSBkaXNhYmxlIHRoaXMsIHRoZW4KICAjIGJveGVzIHdpbGwgb25seSBiZSBjaGVja2VkIGZvciB1cGRhdGVzIHdoZW4gdGhlIHVzZXIgcnVucwogICMgYHZhZ3JhbnQgYm94IG91dGRhdGVkYC4gVGhpcyBpcyBub3QgcmVjb21tZW5kZWQuCiAgIyBjb25maWcudm0uYm94X2NoZWNrX3VwZGF0ZSA9IGZhbHNlCgogICMgQ3JlYXRlIGEgZm9yd2FyZGVkIHBvcnQgbWFwcGluZyB3aGljaCBhbGxvd3MgYWNjZXNzIHRvIGEgc3BlY2lmaWMgcG9ydAogICMgd2l0aGluIHRoZSBtYWNoaW5lIGZyb20gYSBwb3J0IG9uIHRoZSBob3N0IG1hY2hpbmUuIEluIHRoZSBleGFtcGxlIGJlbG93LAogICMgYWNjZXNzaW5nICJsb2NhbGhvc3Q6ODA4MCIgd2lsbCBhY2Nlc3MgcG9ydCA4MCBvbiB0aGUgZ3Vlc3QgbWFjaGluZS4KICAjIE5PVEU6IFRoaXMgd2lsbCBlbmFibGUgcHVibGljIGFjY2VzcyB0byB0aGUgb3BlbmVkIHBvcnQKICAjIGNvbmZpZy52bS5uZXR3b3JrICJmb3J3YXJkZWRfcG9ydCIsIGd1ZXN0OiA4MCwgaG9zdDogODA4MAoKICAjIENyZWF0ZSBhIGZvcndhcmRlZCBwb3J0IG1hcHBpbmcgd2hpY2ggYWxsb3dzIGFjY2VzcyB0byBhIHNwZWNpZmljIHBvcnQKICAjIHdpdGhpbiB0aGUgbWFjaGluZSBmcm9tIGEgcG9ydCBvbiB0aGUgaG9zdCBtYWNoaW5lIGFuZCBvbmx5IGFsbG93IGFjY2VzcwogICMgdmlhIDEyNy4wLjAuMSB0byBkaXNhYmxlIHB1YmxpYyBhY2Nlc3MKICAjIGNvbmZpZy52bS5uZXR3b3JrICJmb3J3YXJkZWRfcG9ydCIsIGd1ZXN0OiA4MCwgaG9zdDogODA4MCwgaG9zdF9pcDogIjEyNy4wLjAuMSIKCiAgIyBDcmVhdGUgYSBwcml2YXRlIG5ldHdvcmssIHdoaWNoIGFsbG93cyBob3N0LW9ubHkgYWNjZXNzIHRvIHRoZSBtYWNoaW5lCiAgIyB1c2luZyBhIHNwZWNpZmljIElQLgogICMgY29uZmlnLnZtLm5ldHdvcmsgInByaXZhdGVfbmV0d29yayIsIGlwOiAiMTkyLjE2OC4zMy4xMCIKCiAgIyBDcmVhdGUgYSBwdWJsaWMgbmV0d29yaywgd2hpY2ggZ2VuZXJhbGx5IG1hdGNoZWQgdG8gYnJpZGdlZCBuZXR3b3JrLgogICMgQnJpZGdlZCBuZXR3b3JrcyBtYWtlIHRoZSBtYWNoaW5lIGFwcGVhciBhcyBhbm90aGVyIHBoeXNpY2FsIGRldmljZSBvbgogICMgeW91ciBuZXR3b3JrLgogICMgY29uZmlnLnZtLm5ldHdvcmsgInB1YmxpY19uZXR3b3JrIgoKICAjIFNoYXJlIGFuIGFkZGl0aW9uYWwgZm9sZGVyIHRvIHRoZSBndWVzdCBWTS4gVGhlIGZpcnN0IGFyZ3VtZW50IGlzCiAgIyB0aGUgcGF0aCBvbiB0aGUgaG9zdCB0byB0aGUgYWN0dWFsIGZvbGRlci4gVGhlIHNlY29uZCBhcmd1bWVudCBpcwogICMgdGhlIHBhdGggb24gdGhlIGd1ZXN0IHRvIG1vdW50IHRoZSBmb2xkZXIuIEFuZCB0aGUgb3B0aW9uYWwgdGhpcmQKICAjIGFyZ3VtZW50IGlzIGEgc2V0IG9mIG5vbi1yZXF1aXJlZCBvcHRpb25zLgogICMgY29uZmlnLnZtLnN5bmNlZF9mb2xkZXIgIi4uL2RhdGEiLCAiL3ZhZ3JhbnRfZGF0YSIKCiAgIyBQcm92aWRlci1zcGVjaWZpYyBjb25maWd1cmF0aW9uIHNvIHlvdSBjYW4gZmluZS10dW5lIHZhcmlvdXMKICAjIGJhY2tpbmcgcHJvdmlkZXJzIGZvciBWYWdyYW50LiBUaGVzZSBleHBvc2UgcHJvdmlkZXItc3BlY2lmaWMgb3B0aW9ucy4KICAjIEV4YW1wbGUgZm9yIFZpcnR1YWxCb3g6CiAgIwogICMgY29uZmlnLnZtLnByb3ZpZGVyICJ2aXJ0dWFsYm94IiBkbyB8dmJ8CiAgIyAgICMgRGlzcGxheSB0aGUgVmlydHVhbEJveCBHVUkgd2hlbiBib290aW5nIHRoZSBtYWNoaW5lCiAgIyAgIHZiLmd1aSA9IHRydWUKICAjCiAgIyAgICMgQ3VzdG9taXplIHRoZSBhbW91bnQgb2YgbWVtb3J5IG9uIHRoZSBWTToKICAjICAgdmIubWVtb3J5ID0gIjEwMjQiCiAgIyBlbmQKICAjCiAgIyBWaWV3IHRoZSBkb2N1bWVudGF0aW9uIGZvciB0aGUgcHJvdmlkZXIgeW91IGFyZSB1c2luZyBmb3IgbW9yZQogICMgaW5mb3JtYXRpb24gb24gYXZhaWxhYmxlIG9wdGlvbnMuCgogICMgRW5hYmxlIHByb3Zpc2lvbmluZyB3aXRoIGEgc2hlbGwgc2NyaXB0LiBBZGRpdGlvbmFsIHByb3Zpc2lvbmVycyBzdWNoIGFzCiAgIyBQdXBwZXQsIENoZWYsIEFuc2libGUsIFNhbHQsIGFuZCBEb2NrZXIgYXJlIGFsc28gYXZhaWxhYmxlLiBQbGVhc2Ugc2VlIHRoZQogICMgZG9jdW1lbnRhdGlvbiBmb3IgbW9yZSBpbmZvcm1hdGlvbiBhYm91dCB0aGVpciBzcGVjaWZpYyBzeW50YXggYW5kIHVzZS4KICAjIGNvbmZpZy52bS5wcm92aXNpb24gInNoZWxsIiwgaW5saW5lOiA8PC1TSEVMTAogICMgICBhcHQtZ2V0IHVwZGF0ZQogICMgICBhcHQtZ2V0IGluc3RhbGwgLXkgYXBhY2hlMgogICMgU0hFTEwKZW5kCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Tk8gQ09NTUlUIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>self._session = None
-            self.connect()</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgLSBweXRob24zIG1hbmFnZS5weSB0ZXN0IC1kZGsK</text>
+        <text encoding="base64">Tk8gQ09NTUlUIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
