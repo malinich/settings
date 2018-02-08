@@ -8,11 +8,11 @@
         <mark key="]" line="74" column="61" />
         <mark key="." line="74" column="61" />
       </file>
-      <file name="C:/dev/py/rsafe-front/src/app/cart/grid-cart-manager.ts" timestamp="1518087042433">
-        <mark key="s" line="37" column="70" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="C:/dev/py/rsafe-front/src/app/cart/grid-cart-manager.ts" timestamp="1518088350746">
+        <mark key="s" line="33" column="41" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
       </file>
       <file name="C:/dev/py/diff/DiffApp/clients/mssql/tests/test_msMembershipService.py" timestamp="1516628165980">
         <mark key="'" line="57" column="44" />
@@ -148,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICB2YXIgc3RyID0gIiI7</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICB2YXIgc3RyID0gIiI7</text>
       </register>
       <register name="/" type="4">
         <text>celery</text>
