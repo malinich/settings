@@ -14,8 +14,13 @@
           <option name="url" value="http://track-vm.demo.oim" />
           <option name="userName" value="miltrix@yandex.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@track-vm.demo.oim:2222/rsafe/diff.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\dev\py" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
